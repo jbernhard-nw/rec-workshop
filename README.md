@@ -3,11 +3,11 @@
 
 Contents
 -----------
-- [Part 1: Getting Started](https://github.com/jbernhard-nw/rec-workshop)
-- [Part 2: What data should I use?]()
-- [Part 3: How do I find relevant recommendations?]()
-- [Part 4: How do I know if my recommendations are good?]()
-- [Part 5: Extras]()
+- [Part 1: Getting Started](https://github.com/jbernhard-nw/rec-workshop/tree/master/Part%201%20-%20Getting%20Started)
+- [Part 2: What data should I use?](https://github.com/jbernhard-nw/rec-workshop/tree/master/Part%202%20-%20Data%20Sources)
+- [Part 3: How do I find relevant recommendations?](https://github.com/jbernhard-nw/rec-workshop/tree/master/Part%203%20-%20Recommendation%20Systems)
+- [Part 4: How do I know if my recommendations are good?](https://github.com/jbernhard-nw/rec-workshop/tree/master/Part%204%20-%20Evaluation)
+- [Part 5: Extras](https://github.com/jbernhard-nw/rec-workshop/tree/master/Part%205%20-%20Extras)
 
 
 Instructor
