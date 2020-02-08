@@ -3,7 +3,7 @@
 
 Contents
 -----------
-- [Part 1: Getting Started]()
+- [Part 1: Getting Started](https://github.com/jbernhard-nw/rec-workshop)
 - [Part 2: What data should I use?]()
 - [Part 3: How do I find relevant recommendations?]()
 - [Part 4: How do I know if my recommendations are good?]()
@@ -21,12 +21,11 @@ Instructor
 
 About the workshop
 ------------------
-Recommendations are everywhere.  Netflix wants to recommend you movies and shows you will watch.  Stitch Fix wants to recommend you clothes you will wear.  NerdWallet wants to recommend you financial products that will improve your life and that you will be approved for, and Amazon wants to recommend you... well everything.
+Recommendations are everywhere.  Netflix wants to recommend you movies and shows you will watch.  Stitch Fix wants to recommend you clothes you will wear.  NerdWallet wants to recommend you financial products that will improve your life and that you will be approved for, Tinder wants to recommend you a significant other, and Amazon wants to recommend you... well everything.  In this workshop, we will take a look at what should be considered when building your own recommendation system and how you can get started building your own recommendation systems using Python.
 
 Prerequisites
 -------------
 This workshop assumes familiarity with Jupyter notebooks and basics of pandas, matplotlib and numpy.
-
 
 
 Obtaining the Tutorial Material
