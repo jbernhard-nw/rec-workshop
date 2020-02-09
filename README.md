@@ -15,9 +15,9 @@ Instructor
 
 - [Joshua Bernhard](https://www.linkedin.com/in/joshuabernhard/) My career can be described as educating others, and then educating myself to ensure that how I am educating others is relevant.
 
-**Teaching:** Iowa State University, University of Colorado, Galvanize, Udacity, General Assembly
+**Teaching Experience:** Iowa State University, University of Colorado, Galvanize, Udacity, General Assembly
 
-**Experience:** Championship Production, Clovis Oncology, KPMG, NerdWallet
+**Industry Experience:** Championship Productions, Clovis Oncology, KPMG, NerdWallet
 
 About the workshop
 ------------------
@@ -99,3 +99,7 @@ Finally, if your environment satisfies the requirements for the tutorials, the e
 References
 -----------
 * [Andreas Mueller's course](https://github.com/amueller/ml-workshop-1-of-4/) was used as a template for the overall layout of this workshop.  You will see certain installations and overall patterns are similar between our repositories.
+* [Hybrid Recommender Systems: Survey and Experiments](https://www.researchgate.net/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments)
+* [Alexandra Coman's Lecture Notes](http://www.cse.lehigh.edu/~munoz/CSE335/classes/ComanRecommender.pdf)
+* [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702)
+* [Recommender Systems](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-ebook/dp/B01DK3GZDY)
