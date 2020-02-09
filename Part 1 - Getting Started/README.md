@@ -23,7 +23,5 @@ Recommendation Systems are everywhere! They are fundamental to the success of so
 
 - [Slide Set 1: Types of Recommender Systems](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%201%20-%20Getting%20Started/slides/Recommendations_Types.pdf)
     - [Notebook 1: Types of Recommender Systems]()
-- [Slide Set 2: Measures of Similarity]()
-    - [Notebook 2: Measures of Similarity]()
-- [Slide Set 3: Business Cases for Recommendations]()
-    - [Notebook 3: Business Cases for Recommendations]()
+- [Slide Set 2: Business Cases for Recommendations]()
+    - [Notebook 2: Business Cases for Recommendations]()
