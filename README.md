@@ -103,3 +103,4 @@ References
 * [Alexandra Coman's Lecture Notes](http://www.cse.lehigh.edu/~munoz/CSE335/classes/ComanRecommender.pdf)
 * [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702)
 * [Recommender Systems](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-ebook/dp/B01DK3GZDY)
+* [GIPHS](https://giphy.com/)
