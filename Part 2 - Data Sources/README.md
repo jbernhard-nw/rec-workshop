@@ -21,7 +21,7 @@ In Part 1, you learned about the different methods of creating recommendations, 
 
 #### Navigating this Section
 
-- [Slide Set 1: Data Sources]()
+- [Slide Set 1: Data Sources](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%202%20-%20Data%20Sources/slides/PartII_Data_Sources.pdf)
     - [Notebook 1: Data Sources]()
     - [Notebook 1: Data Sources - Solutions]()
 - [Slide Set 2: Feature Engineering]()
