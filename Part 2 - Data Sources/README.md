@@ -8,14 +8,14 @@ In Part 1, you learned about the different methods of creating recommendations, 
 
 #### Terms & Concepts
 - Data Sources
-    - Ratings
-    - Surveys
-    - User Profiles
-    - Content Information
+    - User-item data (ratings)
+    - User data (surveys)
+    - Item data (text, product, etc.)
+    - Knowledge data (user filters)
 - Feature Engineering
     - Standardizing and Normalizing
-    - Categorical Information
-    - Content Information
+    - Encoding Categorical Data
+    - Encoding Text Data
     - Missing Values
     - Outliers
 
