@@ -109,3 +109,4 @@ References
 * [Scraping Resources Using Selenium](https://github.com/AnnaVM/Project_Plotline/tree/master/code)
 * [StackOverflow](https://stackoverflow.com/)
 * [Google](google.com)
+* [Text Cleaning Using Tf-Idf](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.XksamxNKhTY)
