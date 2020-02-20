@@ -15,12 +15,9 @@ Then you will learn about latent factors and matrix factorization techniques, an
 #### Terms & Concepts
 - Measures of Similarity
     - Pearson's Correlation Coefficient
-    - Spearman's Correlation Coefficient
-    - Kendall's Tau
-    - Euclidean Distance
-    - Manhattan Distance
-    - Jaccard Similarity
     - Cosine Similarity
+    - Spearman's Correlation Coefficient
+    - Jaccard Similarity
 - Collaborative Filtering
     - User-user collaborative filtering
     - Item-item collaborative filtering
