@@ -58,7 +58,7 @@ def make_title_dictionary():
        - with the filename as key (without extension) and title as value
        - with title as value and filename as key
     '''
-    filename = '../data/scraping/successful_files.csv'
+    filename = '../../data/scraping/successful_files.csv'
     if not os.path.isfile(filename):
         return 'Please make sure the csv %s exits' %(filename)
     with open(filename,'r') as f:

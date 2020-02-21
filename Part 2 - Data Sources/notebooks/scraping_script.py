@@ -16,9 +16,9 @@ and the package selenium is used instead
 
 Files created:
 --------------
-in the ./data/scraping/texts folder:
+in the ../../data/scraping/texts folder:
     all the scripts which were available in html (one file per movie)
-in the ./data/scraping folder:
+in the ../../data/scraping folder:
     * successful_files.csv: a CSV file with one row for each movie which were
       successfully scraped, with in each row:
         the name; writer list; genre list; compact name
@@ -136,7 +136,7 @@ def handle_movie(movie, browser):
     # If the link to the script points to a PDF, skip this movie, but log
     # the information in `movies_pdf_script.csv`
     if script == '' or script[-5:] != '.html':
-        path_to_directory = './data/scraping/'
+        path_to_directory = '../../data/scraping/'
         pdf_logging_filename = path_to_directory + 'movies_pdf_script.csv'
         with open(pdf_logging_filename, 'a') as f:
             new_row = title + '\n'
@@ -155,7 +155,7 @@ def handle_movie(movie, browser):
         # If the scraping does not go as planned (unexpected structure),
         # log the file name in an error file
         if len(soup.findAll('td', "scrtext"))!=1:
-            error_file_name = './data/scraping/scraping_error.csv'
+            error_file_name = '../../data/scraping/scraping_error.csv'
             with open(error_file_name, 'a') as error_file:
                 new_row = title + '\n'
                 error_file.write( new_row )
@@ -163,7 +163,7 @@ def handle_movie(movie, browser):
         # Normal scraping:
         else:
             # Write the script text to a file
-            path_to_directory = './data/scraping/texts/'
+            path_to_directory = '../../data/scraping/texts/'
             filename = path_to_directory + movie_title + '.txt'
             text = soup.findAll('td', "scrtext")[0].get_text()
             with codecs.open(filename, "w",
@@ -171,7 +171,7 @@ def handle_movie(movie, browser):
                 f.write(text)
 
             # Add the meta-information to a CSV file
-            path_to_directory = './data/scraping/'
+            path_to_directory = '../../data/scraping/'
             success_filename = path_to_directory + 'successful_files.csv'
             new_row = title + ';' + str(genre) + ';' + str(writer) + ';' \
                     + movie_title + ';' + filename + '\n'
@@ -181,15 +181,15 @@ def handle_movie(movie, browser):
 if __name__ == '__main__':
 
     # Create data/scraping/texts files
-    if not os.path.exists('./data'):
-        os.mkdir('./data')
-        print('making ./data folder')
+    if not os.path.exists('../../data'):
+        os.mkdir('../../data')
+        print('making ../../data folder')
     if not os.path.exists('./data/scraping'):
-        os.mkdir('./data/scraping')
-        print('making ./data/scraping folder')
-    if not os.path.exists('./data/scraping/texts'):
-        os.mkdir('./data/scraping/texts')
-        print('making ./data/scraping/texts folder')
+        os.mkdir('../../data/scraping')
+        print('making ../../data/scraping folder')
+    if not os.path.exists('../../data/scraping/texts'):
+        os.mkdir('../../data/scraping/texts')
+        print('making ../../data/scraping/texts folder')
 
     # List all the available movies, and the corresponding URL links
     movies = get_all_movies()
