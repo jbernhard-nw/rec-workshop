@@ -29,16 +29,16 @@ def answer_three(your_answer):
     '''
     your answer should be a float identifying the cosine similarity between user_1 and user_2
     '''
-    if you_answer == 0.99032381:
-        return Image(filename='../../images/good_job.png')
+    if your_answer == 0.9903238090120656:
+        return Image(filename='../../../images/good_job.png')
     else:
-        print("Sorry the number of missing movies does not look correct.")
+        print("Sorry the number is not correct. Please try again!")
 
 def answer_four(your_answer):
     '''
     your answer should be a letter a-e
     '''
-    if you_answer == "Subtract the standard deviation from each vector":
+    if your_answer == "Subtract the standard deviation from each vector":
         return Image(filename='../../images/good_job.png')
     else:
         print("Sorry this is not correct.  Please try again!")
