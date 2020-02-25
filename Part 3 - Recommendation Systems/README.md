@@ -28,9 +28,9 @@ Then you will learn about latent factors and matrix factorization techniques, an
 #### Navigating this Section
 
 - [Slide Set 1: Recommendation Systems 101](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%203%20-%20Recommendation%20Systems/slides/PartIII_Recommendation_Systems_101.pdf)
-- [Slide Set 2: Measures of Similarity]()
-    - [Notebook 2: Measures of Similarity]()
-    - [Notebook 2: Measures of Similarity - Solutions]()
+- [Slide Set 2: Measures of Similarity](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%203%20-%20Recommendation%20Systems/slides/PartIII_Measures_of_Similarity.pdf)
+    - [Notebook 2: Measures of Similarity](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%203%20-%20Recommendation%20Systems/notebooks/measures_of_similarity.ipynb)
+    - [Notebook 2: Measures of Similarity - Solutions](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%203%20-%20Recommendation%20Systems/notebooks/solutions/measures_of_similarity-Solution.ipynb)
 - [Slide Set 3: Collaborative Filtering]()
     - [Notebook 3: Collaborative Filtering]()
     - [Notebook 3: Collaborative Filtering - Solutions]()
