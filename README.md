@@ -98,15 +98,17 @@ Finally, if your environment satisfies the requirements for the tutorials, the e
 
 References
 -----------
-* [Andreas Mueller's course](https://github.com/amueller/ml-workshop-1-of-4/) was used as a template for the overall layout of this workshop.  You will see certain installations and overall patterns are similar between our repositories.
+
 * [Hybrid Recommender Systems: Survey and Experiments](https://www.researchgate.net/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments)
 * [Alexandra Coman's Lecture Notes](http://www.cse.lehigh.edu/~munoz/CSE335/classes/ComanRecommender.pdf)
 * [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702)
 * [Recommender Systems](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-ebook/dp/B01DK3GZDY)
 * [Baptiste Rocca's Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 * [MovieTweetings Data](https://github.com/sidooms/MovieTweetings/tree/master/latest)
-* [GIPHS](https://giphy.com/)
 * [Scraping Resources Using Selenium](https://github.com/AnnaVM/Project_Plotline/tree/master/code)
+* [Text Cleaning Using Tf-Idf](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.XksamxNKhTY)
 * [StackOverflow](https://stackoverflow.com/)
 * [Google](google.com)
-* [Text Cleaning Using Tf-Idf](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.XksamxNKhTY)
+* [GIPHS](https://giphy.com/)
+
+* [Andreas Mueller's course](https://github.com/amueller/ml-workshop-1-of-4/) was used as a template for the overall layout of this workshop.  You will see certain installations and overall patterns are similar between our repositories.
