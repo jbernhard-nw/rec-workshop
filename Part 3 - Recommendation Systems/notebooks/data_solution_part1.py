@@ -30,7 +30,7 @@ def answer_three(your_answer):
     your answer should be a float identifying the cosine similarity between user_1 and user_2
     '''
     if your_answer == 0.9903238090120656:
-        return Image(filename='../../../images/good_job.png')
+        return Image(filename='../../images/good_job.png')
     else:
         print("Sorry the number is not correct. Please try again!")
 
