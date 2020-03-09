@@ -105,10 +105,10 @@ References
 * [Recommender Systems](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-ebook/dp/B01DK3GZDY)
 * [Baptiste Rocca's Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 * [MovieTweetings Data](https://github.com/sidooms/MovieTweetings/tree/master/latest)
+* [FunkSVD](https://sifter.org/~simon/journal/20061211.html)
 * [Scraping Resources Using Selenium](https://github.com/AnnaVM/Project_Plotline/tree/master/code)
 * [Text Cleaning Using Tf-Idf](https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.XksamxNKhTY)
 * [StackOverflow](https://stackoverflow.com/)
 * [Google](google.com)
 * [GIPHS](https://giphy.com/)
-
 * [Andreas Mueller's course](https://github.com/amueller/ml-workshop-1-of-4/) was used as a template for the overall layout of this workshop.  You will see certain installations and overall patterns are similar between our repositories.
