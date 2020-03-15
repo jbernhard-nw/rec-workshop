@@ -14,8 +14,10 @@ Following this section, you will be able to answer each of these questions.
 
 #### Terms & Concepts
 - Evaluating your recommendations
-    - Train-test split
-    - evaluation metrics
+    - train-test split
+    - classification metrics
+    - regression metrics
+    - cross-validation
     - offline vs. online evaluation methods
 - The cold start problem
 - Storing your model(s) for future use
