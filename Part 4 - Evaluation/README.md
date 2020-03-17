@@ -24,9 +24,9 @@ Following this section, you will be able to answer each of these questions.
 
 #### Navigating this Section
 
-- [Slide Set 1: Model Evaluation]()
-    - [Notebook 1: Model Evaluation]()
-    - [Notebook 1: Model Evaluation - Solutions]()
+- [Slide Set 1: Model Evaluation](https://github.com/jbernhard-nw/rec-workshop/blob/master/Part%204%20-%20Evaluation/slides/PartV_Evaluation_Methods.pdf)
+    - [Notebook 1: Model Evaluation](./notebooks/evaluation-methods.ipynb)
+    - [Notebook 1: Model Evaluation - Solutions](./notebooks/solutions/evaluation-methods-Solution.ipynb)
 - [Slide Set 2: The Cold Start Problem]()
     - [Notebook 2: The Cold Start Problem]()
     - [Notebook 2: The Cold Start Problem - Solutions]()
