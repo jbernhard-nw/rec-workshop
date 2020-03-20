@@ -99,6 +99,7 @@ Finally, if your environment satisfies the requirements for the tutorials, the e
 References
 -----------
 
+* [TuriCreate Documentation](https://apple.github.io/turicreate/docs/userguide/recommender/)
 * [Hybrid Recommender Systems: Survey and Experiments](https://www.researchgate.net/publication/263377228_Hybrid_Recommender_Systems_Survey_and_Experiments)
 * [Alexandra Coman's Lecture Notes](http://www.cse.lehigh.edu/~munoz/CSE335/classes/ComanRecommender.pdf)
 * [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702)
