@@ -8,7 +8,7 @@ def answer_one(your_answer):
     your answer should be a letter a to d
     '''
     if your_answer == "both recommenders give recommendations, but they don't match one another":
-        return Image(filename='../../images/you_right.png')
+        return Image(filename='../../../images/you_right.png')
 
     else:
         print("Sorry, that's not correct.  Try looking at the recommended values for user 0.")

@@ -1,0 +1,1184 @@
+12;['Comedy'];['Lawrence Bridges'];12;./data/scraping/texts/12.txt
+12 and Holding;['Drama'];['Anthony Cipriano'];12_and_Holding;./data/scraping/texts/12_and_Holding.txt
+12;['Comedy'];['Lawrence Bridges'];12;./data/scraping/texts/12.txt
+12 and Holding;['Drama'];['Anthony Cipriano'];12_and_Holding;./data/scraping/texts/12_and_Holding.txt
+12 Years a Slave;['Drama'];['John Ridley'];12_Years_a_Slave;./data/scraping/texts/12_Years_a_Slave.txt
+127 Hours;['Adventure', 'Drama', 'Thriller'];['Simon Beaufoy', 'Danny Boyle'];127_Hours;./data/scraping/texts/127_Hours.txt
+1492: Conquest of Paradise;['Adventure', 'Drama'];['Roslyne Bosch'];1492:_Conquest_of_Paradise;./data/scraping/texts/1492:_Conquest_of_Paradise.txt
+17 Again;['Comedy', 'Drama', 'Romance'];['Jason Filardi'];17_Again;./data/scraping/texts/17_Again.txt
+187;['Drama'];['Scott Yagemann'];187;./data/scraping/texts/187.txt
+2001: A Space Odyssey;['Adventure', 'Sci-Fi'];['Stanley Kubrick', 'Arhur C. Clarke'];2001:_A_Space_Odyssey;./data/scraping/texts/2001:_A_Space_Odyssey.txt
+2012;['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller'];['Roland Emmerich', 'Harald Kloser'];2012;./data/scraping/texts/2012.txt
+25th Hour;['Crime', 'Drama'];['David Benioff'];25th_Hour;./data/scraping/texts/25th_Hour.txt
+28 Days Later;['Drama', 'Horror', 'Sci-Fi'];['Alex Garland'];28_Days_Later;./data/scraping/texts/28_Days_Later.txt
+30 Minutes or Less;['Action', 'Adventure', 'Comedy'];['Michael Diliberti', 'Matthew Sullivan'];30_Minutes_or_Less;./data/scraping/texts/30_Minutes_or_Less.txt
+42;['Drama'];['Brian Helgeland'];42;./data/scraping/texts/42.txt
+44 Inch Chest;['Crime', 'Drama'];['Louis Mellis', 'David Scinto'];44_Inch_Chest;./data/scraping/texts/44_Inch_Chest.txt
+48 Hrs.;['Action', 'Comedy', 'Thriller'];['Steven E. De Souza', 'Walter Hill', 'Roger Spottiswoode', 'Larry Gross', 'Jeb Stuart'];48_Hrs;./data/scraping/texts/48_Hrs.txt
+50-50;['Comedy', 'Drama'];['Will Reiser'];50-50;./data/scraping/texts/50-50.txt
+500 Days of Summer;['Comedy', 'Drama', 'Romance'];['Scott Neustadter', 'Michael H. Weber'];500_Days_of_Summer;./data/scraping/texts/500_Days_of_Summer.txt
+8MM;['Mystery', 'Thriller'];['Andrew Kevin Walker'];8MM;./data/scraping/texts/8MM.txt
+9;['Animation', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi'];['Pamela Pettler', 'Shane Acker'];9;./data/scraping/texts/9.txt
+A Few Good Men;['Crime', 'Drama', 'Mystery', 'Thriller'];['Aaron Sorkin'];A_Few_Good_Men;./data/scraping/texts/A_Few_Good_Men.txt
+A Most Violent Year;['Action', 'Crime', 'Drama'];['J.C. Chandor'];A_Most_Violent_Year;./data/scraping/texts/A_Most_Violent_Year.txt
+A Prayer Before Dawn;['Crime', 'Drama'];['Jonathan Hirschbein'];A_Prayer_Before_Dawn;./data/scraping/texts/A_Prayer_Before_Dawn.txt
+A Quiet Place;['Drama', 'Horror', 'Sci-Fi'];['Bryan Woods', 'Scott Beck', 'John Krasinski'];A_Quiet_Place;./data/scraping/texts/A_Quiet_Place.txt
+A Scanner Darkly;['Animation', 'Crime', 'Drama'];['Charlie Kaufman'];A_Scanner_Darkly;./data/scraping/texts/A_Scanner_Darkly.txt
+A Serious Man;['Comedy'];['Joel Coen', 'Ethan Coen'];A_Serious_Man;./data/scraping/texts/A_Serious_Man.txt
+Above the Law;['Action'];['Steven Pressfield', 'Ronald Shusett', 'Andrew Davis', 'Steven Seagal'];Above_the_Law;./data/scraping/texts/Above_the_Law.txt
+Absolute Power;['Thriller', 'Crime', 'Drama'];['David Baldacci', 'William Goldman'];Absolute_Power;./data/scraping/texts/Absolute_Power.txt
+Ace Ventura: Pet Detective;['Comedy'];['Jack Bernstein', 'Tom Shadyac', 'Jim Carrey'];Ace_Ventura:_Pet_Detective;./data/scraping/texts/Ace_Ventura:_Pet_Detective.txt
+Adaptation;['Comedy', 'Drama'];['Charlie Kaufman', 'Donald Kaufman'];Adaptation;./data/scraping/texts/Adaptation.txt
+Addams Family, The;['Comedy', 'Fantasy', 'Horror', 'Family'];['Charles Addams', 'Caroline Thompson'];Addams_Family;./data/scraping/texts/Addams_Family.txt
+Adjustment Bureau, The;['Romance', 'Sci-Fi', 'Thriller'];['George Nolfi', 'Philip K Dick'];Adjustment_Bureau;./data/scraping/texts/Adjustment_Bureau.txt
+Adventures of Buckaroo Banzai Across the Eighth Dimension, The;['Adventure', 'Comedy', 'Romance', 'Sci-Fi'];['Earl Mac Rauch'];Adventures_of_Buckaroo_Banzai_Across_the_Eighth_Dimension;./data/scraping/texts/Adventures_of_Buckaroo_Banzai_Across_the_Eighth_Dimension.txt
+Affliction;['Drama'];['Russell Banks', 'Paul Schrader'];Affliction;./data/scraping/texts/Affliction.txt
+After School Special;['Comedy'];['David H. Steinberg'];After_School_Special;./data/scraping/texts/After_School_Special.txt
+After.Life;['Drama', 'Horror', 'Thriller'];['Agnieszka Wojtowicz-Vosloo'];After;./data/scraping/texts/After.txt
+Agnes of God;['Drama', 'Mystery'];['John Pielmeier'];Agnes_of_God;./data/scraping/texts/Agnes_of_God.txt
+Airplane;['Comedy', 'Romance'];['Jim Abrahams', ' David Zucker', 'Jerry Zucker'];Airplane;./data/scraping/texts/Airplane.txt
+Airplane 2: The Sequel;['Comedy', 'Sci-Fi'];['Ken Finkleman'];Airplane_2:_The_Sequel;./data/scraping/texts/Airplane_2:_The_Sequel.txt
+Ali;['Drama'];['Stephen J Rivele', 'Christopher Wilkinson', 'Eric Roth', 'Michael Mann'];Ali;./data/scraping/texts/Ali.txt
+Alien;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Walter Hill', 'David Giler'];Alien;./data/scraping/texts/Alien.txt
+Alien 3;['Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller'];['Rex Pickett'];Alien_3;./data/scraping/texts/Alien_3.txt
+Alien Nation;['Crime', 'Drama', 'Sci-Fi'];["Rockne O'Bannon", 'James Cameron'];Alien_Nation;./data/scraping/texts/Alien_Nation.txt
+Alien vs. Predator;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Peter Briggs'];Alien_vs;./data/scraping/texts/Alien_vs.txt
+Alien: Resurrection;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Joss Whedon'];Alien:_Resurrection;./data/scraping/texts/Alien:_Resurrection.txt
+Aliens;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['James Cameron'];Aliens;./data/scraping/texts/Aliens.txt
+All About Steve;['Comedy'];['Kim Barker'];All_About_Steve;./data/scraping/texts/All_About_Steve.txt
+All the King's Men;['Drama'];['Robert Rossen'];All_the_King's_Men;./data/scraping/texts/All_the_King's_Men.txt
+Almost Famous;['Comedy', 'Drama', 'Romance'];['Cameron Crowe'];Almost_Famous;./data/scraping/texts/Almost_Famous.txt
+Alone in the Dark;['Action', 'Horror', 'Thriller'];['Elan Mastai', 'Michael Roesch'];Alone_in_the_Dark;./data/scraping/texts/Alone_in_the_Dark.txt
+Amadeus;['Drama'];['Peter Shaffer'];Amadeus;./data/scraping/texts/Amadeus.txt
+Amelia;['Drama'];['Ronald Bass', 'Anna Hamilton Phelan'];Amelia;./data/scraping/texts/Amelia.txt
+American Beauty;['Drama'];['Alan Ball'];American_Beauty;./data/scraping/texts/American_Beauty.txt
+American Gangster;['Crime', 'Drama'];['Steven Zaillian', 'Mark Jacobson'];American_Gangster;./data/scraping/texts/American_Gangster.txt
+American Graffiti;['Comedy', 'Drama'];['George Lucas', 'Gloria Katz', 'Willard Huyck'];American_Graffiti;./data/scraping/texts/American_Graffiti.txt
+American History X;['Crime', 'Drama', 'Thriller'];['David McKenna'];American_History_X;./data/scraping/texts/American_History_X.txt
+12;['Comedy'];['Lawrence Bridges'];12;./data/scraping/texts/12.txt
+12 and Holding;['Drama'];['Anthony Cipriano'];12_and_Holding;./data/scraping/texts/12_and_Holding.txt
+12 Monkeys;['Drama', 'Sci-Fi', 'Thriller'];['David Peoples', 'Janet Peoples'];12_Monkeys;./data/scraping/texts/12_Monkeys.txt
+12 Years a Slave;['Drama'];['John Ridley'];12_Years_a_Slave;./data/scraping/texts/12_Years_a_Slave.txt
+127 Hours;['Adventure', 'Drama', 'Thriller'];['Simon Beaufoy', 'Danny Boyle'];127_Hours;./data/scraping/texts/127_Hours.txt
+1492: Conquest of Paradise;['Adventure', 'Drama'];['Roslyne Bosch'];1492:_Conquest_of_Paradise;./data/scraping/texts/1492:_Conquest_of_Paradise.txt
+15 Minutes;['Action', 'Crime', 'Thriller'];['John Hertzfield'];15_Minutes;./data/scraping/texts/15_Minutes.txt
+17 Again;['Comedy', 'Drama', 'Romance'];['Jason Filardi'];17_Again;./data/scraping/texts/17_Again.txt
+187;['Drama'];['Scott Yagemann'];187;./data/scraping/texts/187.txt
+2001: A Space Odyssey;['Adventure', 'Sci-Fi'];['Stanley Kubrick', 'Arhur C. Clarke'];2001:_A_Space_Odyssey;./data/scraping/texts/2001:_A_Space_Odyssey.txt
+2012;['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller'];['Roland Emmerich', 'Harald Kloser'];2012;./data/scraping/texts/2012.txt
+25th Hour;['Crime', 'Drama'];['David Benioff'];25th_Hour;./data/scraping/texts/25th_Hour.txt
+28 Days Later;['Drama', 'Horror', 'Sci-Fi'];['Alex Garland'];28_Days_Later;./data/scraping/texts/28_Days_Later.txt
+30 Minutes or Less;['Action', 'Adventure', 'Comedy'];['Michael Diliberti', 'Matthew Sullivan'];30_Minutes_or_Less;./data/scraping/texts/30_Minutes_or_Less.txt
+42;['Drama'];['Brian Helgeland'];42;./data/scraping/texts/42.txt
+44 Inch Chest;['Crime', 'Drama'];['Louis Mellis', 'David Scinto'];44_Inch_Chest;./data/scraping/texts/44_Inch_Chest.txt
+50-50;['Comedy', 'Drama'];['Will Reiser'];50-50;./data/scraping/texts/50-50.txt
+500 Days of Summer;['Comedy', 'Drama', 'Romance'];['Scott Neustadter', 'Michael H. Weber'];500_Days_of_Summer;./data/scraping/texts/500_Days_of_Summer.txt
+8MM;['Mystery', 'Thriller'];['Andrew Kevin Walker'];8MM;./data/scraping/texts/8MM.txt
+9;['Animation', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi'];['Pamela Pettler', 'Shane Acker'];9;./data/scraping/texts/9.txt
+A Few Good Men;['Crime', 'Drama', 'Mystery', 'Thriller'];['Aaron Sorkin'];A_Few_Good_Men;./data/scraping/texts/A_Few_Good_Men.txt
+A Most Violent Year;['Action', 'Crime', 'Drama'];['J.C. Chandor'];A_Most_Violent_Year;./data/scraping/texts/A_Most_Violent_Year.txt
+A Prayer Before Dawn;['Crime', 'Drama'];['Jonathan Hirschbein'];A_Prayer_Before_Dawn;./data/scraping/texts/A_Prayer_Before_Dawn.txt
+A Quiet Place;['Drama', 'Horror', 'Sci-Fi'];['Bryan Woods', 'Scott Beck', 'John Krasinski'];A_Quiet_Place;./data/scraping/texts/A_Quiet_Place.txt
+A Scanner Darkly;['Animation', 'Crime', 'Drama'];['Charlie Kaufman'];A_Scanner_Darkly;./data/scraping/texts/A_Scanner_Darkly.txt
+A Serious Man;['Comedy'];['Joel Coen', 'Ethan Coen'];A_Serious_Man;./data/scraping/texts/A_Serious_Man.txt
+Above the Law;['Action'];['Steven Pressfield', 'Ronald Shusett', 'Andrew Davis', 'Steven Seagal'];Above_the_Law;./data/scraping/texts/Above_the_Law.txt
+Absolute Power;['Thriller', 'Crime', 'Drama'];['David Baldacci', 'William Goldman'];Absolute_Power;./data/scraping/texts/Absolute_Power.txt
+Ace Ventura: Pet Detective;['Comedy'];['Jack Bernstein', 'Tom Shadyac', 'Jim Carrey'];Ace_Ventura:_Pet_Detective;./data/scraping/texts/Ace_Ventura:_Pet_Detective.txt
+Adaptation;['Comedy', 'Drama'];['Charlie Kaufman', 'Donald Kaufman'];Adaptation;./data/scraping/texts/Adaptation.txt
+Addams Family, The;['Comedy', 'Fantasy', 'Horror', 'Family'];['Charles Addams', 'Caroline Thompson'];Addams_Family;./data/scraping/texts/Addams_Family.txt
+Adventures of Buckaroo Banzai Across the Eighth Dimension, The;['Adventure', 'Comedy', 'Romance', 'Sci-Fi'];['Earl Mac Rauch'];Adventures_of_Buckaroo_Banzai_Across_the_Eighth_Dimension;./data/scraping/texts/Adventures_of_Buckaroo_Banzai_Across_the_Eighth_Dimension.txt
+Affliction;['Drama'];['Russell Banks', 'Paul Schrader'];Affliction;./data/scraping/texts/Affliction.txt
+After School Special;['Comedy'];['David H. Steinberg'];After_School_Special;./data/scraping/texts/After_School_Special.txt
+After.Life;['Drama', 'Horror', 'Thriller'];['Agnieszka Wojtowicz-Vosloo'];After;./data/scraping/texts/After.txt
+Agnes of God;['Drama', 'Mystery'];['John Pielmeier'];Agnes_of_God;./data/scraping/texts/Agnes_of_God.txt
+Air Force One;['Action', 'Adventure', 'Drama', 'Thriller'];['Andrew W. Marlowe'];Air_Force_One;./data/scraping/texts/Air_Force_One.txt
+Airplane;['Comedy', 'Romance'];['Jim Abrahams', ' David Zucker', 'Jerry Zucker'];Airplane;./data/scraping/texts/Airplane.txt
+Airplane 2: The Sequel;['Comedy', 'Sci-Fi'];['Ken Finkleman'];Airplane_2:_The_Sequel;./data/scraping/texts/Airplane_2:_The_Sequel.txt
+Aladdin;['Animation', 'Family', 'Musical', 'Fantasy', 'Comedy'];['Roger Allers', 'Ron Clements'];Aladdin;./data/scraping/texts/Aladdin.txt
+Ali;['Drama'];['Stephen J Rivele', 'Christopher Wilkinson', 'Eric Roth', 'Michael Mann'];Ali;./data/scraping/texts/Ali.txt
+Alien;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Walter Hill', 'David Giler'];Alien;./data/scraping/texts/Alien.txt
+Alien 3;['Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller'];['Rex Pickett'];Alien_3;./data/scraping/texts/Alien_3.txt
+Alien vs. Predator;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Peter Briggs'];Alien_vs;./data/scraping/texts/Alien_vs.txt
+Alien: Resurrection;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Joss Whedon'];Alien:_Resurrection;./data/scraping/texts/Alien:_Resurrection.txt
+Aliens;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['James Cameron'];Aliens;./data/scraping/texts/Aliens.txt
+All About Eve;['Drama'];['Joseph Mankiewicz'];All_About_Eve;./data/scraping/texts/All_About_Eve.txt
+All About Steve;['Comedy'];['Kim Barker'];All_About_Steve;./data/scraping/texts/All_About_Steve.txt
+All the King's Men;['Drama'];['Robert Rossen'];All_the_King's_Men;./data/scraping/texts/All_the_King's_Men.txt
+Almost Famous;['Comedy', 'Drama', 'Romance'];['Cameron Crowe'];Almost_Famous;./data/scraping/texts/Almost_Famous.txt
+Alone in the Dark;['Action', 'Horror', 'Thriller'];['Elan Mastai', 'Michael Roesch'];Alone_in_the_Dark;./data/scraping/texts/Alone_in_the_Dark.txt
+Amadeus;['Drama'];['Peter Shaffer'];Amadeus;./data/scraping/texts/Amadeus.txt
+Amelia;['Drama'];['Ronald Bass', 'Anna Hamilton Phelan'];Amelia;./data/scraping/texts/Amelia.txt
+American Beauty;['Drama'];['Alan Ball'];American_Beauty;./data/scraping/texts/American_Beauty.txt
+American Gangster;['Crime', 'Drama'];['Steven Zaillian', 'Mark Jacobson'];American_Gangster;./data/scraping/texts/American_Gangster.txt
+American Graffiti;['Comedy', 'Drama'];['George Lucas', 'Gloria Katz', 'Willard Huyck'];American_Graffiti;./data/scraping/texts/American_Graffiti.txt
+American History X;['Crime', 'Drama', 'Thriller'];['David McKenna'];American_History_X;./data/scraping/texts/American_History_X.txt
+American Hustle;['Crime', 'Drama'];['Eric Warren Singer', 'David O. Russell'];American_Hustle;./data/scraping/texts/American_Hustle.txt
+American Madness;['Drama'];['Robert Riskin'];American_Madness;./data/scraping/texts/American_Madness.txt
+American Milkshake;['Comedy'];['David Andalman', 'Mariko Munro'];American_Milkshake;./data/scraping/texts/American_Milkshake.txt
+American Pie;['Comedy'];['Adam Herz'];American_Pie;./data/scraping/texts/American_Pie.txt
+American Psycho;['Drama', 'Horror', 'Thriller'];['Matthew Markwalder'];American_Psycho;./data/scraping/texts/American_Psycho.txt
+American Sniper;['Action', 'Drama'];[' Jason Hall'];American_Sniper;./data/scraping/texts/American_Sniper.txt
+American Splendor;['Comedy', 'Drama'];['Robert Pulcini', 'Shari Springer Berman'];American_Splendor;./data/scraping/texts/American_Splendor.txt
+American Werewolf in London;['Comedy', 'Horror', 'Romance'];['John Landis'];American_Werewolf_in_London;./data/scraping/texts/American_Werewolf_in_London.txt
+American, The;['Crime', 'Drama', 'Thriller'];['Rowan Joffe'];American;./data/scraping/texts/American.txt
+Amityville Asylum, The;['Horror'];['Andrew Jones'];Amityville_Asylum;./data/scraping/texts/Amityville_Asylum.txt
+Amour;['Drama', 'Romance'];['Michael Haneke'];Amour;./data/scraping/texts/Amour.txt
+Analyze That;['Comedy', 'Crime'];['Peter Steinfeld', 'Harold Ramis', 'Peter Tolan', 'Kenneth Longeran'];Analyze_That;./data/scraping/texts/Analyze_That.txt
+Analyze This;['Comedy', 'Crime'];['Peter Tolan', 'Harold Ramis', 'Kenneth Lonergan'];Analyze_This;./data/scraping/texts/Analyze_This.txt
+Anastasia;['Family', 'Animation', 'Musical'];['Susan Gauthier', 'Bruce Graham'];Anastasia;./data/scraping/texts/Anastasia.txt
+Angel Eyes;['Drama', 'Romance'];['Gerald DiPego'];Angel_Eyes;./data/scraping/texts/Angel_Eyes.txt
+Angels & Demons;['Drama', 'Mystery', 'Thriller'];['David Koepp', 'Akiva Goldsman'];Angels_&_Demons;./data/scraping/texts/Angels_&_Demons.txt
+Anna Karenina;['Drama'];['Tom Stoppard'];Anna_Karenina;./data/scraping/texts/Anna_Karenina.txt
+Annie Hall;['Comedy', 'Romance'];['Woody Allen', 'Marshall Brickman'];Annie_Hall;./data/scraping/texts/Annie_Hall.txt
+Anonymous;['Drama', 'Thriller'];['John Orloff'];Anonymous;./data/scraping/texts/Anonymous.txt
+Antitrust;['Thriller', 'Crime', 'Drama'];['Howard Franklin'];Antitrust;./data/scraping/texts/Antitrust.txt
+Antz;['Adventure', 'Animation', 'Comedy', 'Fantasy'];['Todd Alcott', 'Chris Weitz', 'Paul Weitz'];Antz;./data/scraping/texts/Antz.txt
+Apartment, The;['Comedy'];['Billy Wilder', 'I.A.L Diamond'];Apartment;./data/scraping/texts/Apartment.txt
+Apocalypse Now;['Action', 'Drama', 'War'];['Francis Ford Coppola', 'John Milius', 'Joseph Conrad'];Apocalypse_Now;./data/scraping/texts/Apocalypse_Now.txt
+Apollo 13;['Drama', 'Adventure'];['Jim Lovell', 'Jeffrey Kluger', 'William Broyles Jr.', 'Al Reinert'];Apollo_13;./data/scraping/texts/Apollo_13.txt
+April Fool's Day;['Comedy', 'Horror', 'Mystery'];['Danilo Bach'];April_Fool's_Day;./data/scraping/texts/April_Fool's_Day.txt
+Apt Pupil;['Drama', 'Thriller'];['Brandon Boyce'];Apt_Pupil;./data/scraping/texts/Apt_Pupil.txt
+Arbitrage;['Drama', 'Thriller'];['Nicholas Jarecki'];Arbitrage;./data/scraping/texts/Arbitrage.txt
+Arcade;['Sci-Fi'];['David S. Goyer'];Arcade;./data/scraping/texts/Arcade.txt
+Arctic Blue;['Action', 'Thriller'];['Ross LaManna'];Arctic_Blue;./data/scraping/texts/Arctic_Blue.txt
+Argo;['Drama', 'Thriller'];['Chris Terrio'];Argo;./data/scraping/texts/Argo.txt
+Armageddon;['Action', 'Sci-Fi', 'Thriller'];['Jonathan Hensleigh', 'J.J. Abrams'];Armageddon;./data/scraping/texts/Armageddon.txt
+Army of Darkness;['Adventure', 'Fantasy', 'Action', 'Comedy', 'Horror'];['Sam Raimi', 'Ivan Raimi'];Army_of_Darkness;./data/scraping/texts/Army_of_Darkness.txt
+Arsenic and Old Lace;['Comedy', 'Crime'];['Julius J. Epstein', 'Philip G. Epstein', 'Joseph Kesselring'];Arsenic_and_Old_Lace;./data/scraping/texts/Arsenic_and_Old_Lace.txt
+Arthur;['Comedy'];['Peter Baynham'];Arthur;./data/scraping/texts/Arthur.txt
+Artist, The;['Romance', 'Comedy', 'Drama'];['Michel Hazanavicius'];Artist;./data/scraping/texts/Artist.txt
+As Good As It Gets;['Comedy', 'Drama', 'Romance'];['Mark Andrus', 'James L. Brooks'];As_Good_As_It_Gets;./data/scraping/texts/As_Good_As_It_Gets.txt
+Assassins;['Action', 'Thriller'];['Larry Wachowski', 'Andy Wachowski'];Assassins;./data/scraping/texts/Assassins.txt
+Assignment, The;['Thriller'];['Dan Gordon', 'Sabi H. Shabtai'];Assignment;./data/scraping/texts/Assignment.txt
+At First Sight;['Drama'];['Oliver Sacks', 'Steve Levitt', 'Irwin Winkler', 'Rob Cowan'];At_First_Sight;./data/scraping/texts/At_First_Sight.txt
+August: Osage County;['Drama'];['Tracy Letts'];August:_Osage_County;./data/scraping/texts/August:_Osage_County.txt
+Austin Powers - The Spy Who Shagged Me;['Action', 'Comedy'];['Mike Myers'];Austin_Powers_-_The_Spy_Who_Shagged_Me;./data/scraping/texts/Austin_Powers_-_The_Spy_Who_Shagged_Me.txt
+Authors Anonymous;['Comedy'];['David Congalton'];Authors_Anonymous;./data/scraping/texts/Authors_Anonymous.txt
+Autumn in New York;['Romance', 'Drama'];['Allison Burnett'];Autumn_in_New_York;./data/scraping/texts/Autumn_in_New_York.txt
+Avatar;['Action', 'Adventure', 'Sci-Fi'];['James Cameron'];Avatar;./data/scraping/texts/Avatar.txt
+Avengers, The;['Action', 'Adventure'];['Don Macpherson'];Avengers;./data/scraping/texts/Avengers.txt
+Avengers, The (2012);['Action', 'Adventure', 'Sci-Fi'];['Joss Whedon'];Avengers;./data/scraping/texts/Avengers.txt
+Avventura, L' (The Adventure);['Drama', 'Mystery', 'Thriller'];['Michelangelo Antonioni', 'Elio Bartolini', 'Tonino Guerra'];Avventura;./data/scraping/texts/Avventura.txt
+Awakenings;['Drama'];['Steven Zaillian'];Awakenings;./data/scraping/texts/Awakenings.txt
+Babel;['Drama', 'Thriller'];['Guillermo Arriaga'];Babel;./data/scraping/texts/Babel.txt
+Bachelor Party;['Comedy'];['Neal Israel', 'Pat Proft', 'Bob Israel'];Bachelor_Party;./data/scraping/texts/Bachelor_Party.txt
+Bachelor Party, The;['Drama'];['Paddy Chayefsky'];Bachelor_Party;./data/scraping/texts/Bachelor_Party.txt
+Back-up Plan, The;['Comedy', 'Romance'];['Kate Angelo'];Back-up_Plan;./data/scraping/texts/Back-up_Plan.txt
+Backdraft;['Action', 'Drama', 'Mystery', 'Thriller'];['Gregory Widen'];Backdraft;./data/scraping/texts/Backdraft.txt
+Bad Boys;['Action', 'Comedy'];['Michael Barrie', 'Jim Mulholland', 'Doug Richardson'];Bad_Boys;./data/scraping/texts/Bad_Boys.txt
+Bad Country;['Action', 'Crime', 'Drama'];['Jonathan Hirschbein'];Bad_Country;./data/scraping/texts/Bad_Country.txt
+Bad Day at Black Rock;['Drama', 'Thriller', 'Western'];['Don McGuire', 'Millard Kaufman', 'Howard Breslin'];Bad_Day_at_Black_Rock;./data/scraping/texts/Bad_Day_at_Black_Rock.txt
+Bad Dreams;['Horror', 'Thriller'];['Andrew Fleming', 'Steven E. de Souza'];Bad_Dreams;./data/scraping/texts/Bad_Dreams.txt
+Bad Lieutenant;['Crime', 'Drama'];['Abel Ferrara', 'Zoe Lund'];Bad_Lieutenant;./data/scraping/texts/Bad_Lieutenant.txt
+Bad Santa;['Comedy', 'Crime'];['Glenn Ficarra', 'John Requa'];Bad_Santa;./data/scraping/texts/Bad_Santa.txt
+Bad Teacher;['Comedy'];['Lee Eisenberg', 'Gene Stupnitsky'];Bad_Teacher;./data/scraping/texts/Bad_Teacher.txt
+Badlands;['Crime', 'Thriller', 'Drama'];['Terence Malick'];Badlands;./data/scraping/texts/Badlands.txt
+Bamboozled;['Comedy', 'Drama'];['Spike Lee'];Bamboozled;./data/scraping/texts/Bamboozled.txt
+Barry Lyndon;['Drama', 'Romance', 'War'];['Stanley Kubrick'];Barry_Lyndon;./data/scraping/texts/Barry_Lyndon.txt
+Barton Fink;['Comedy', 'Drama', 'Thriller'];['Joel Coen', 'Ethan Coen'];Barton_Fink;./data/scraping/texts/Barton_Fink.txt
+Basic;['Drama', 'Mystery', 'Thriller'];['James Vanderbilt'];Basic;./data/scraping/texts/Basic.txt
+Basic Instinct;['Crime', 'Mystery', 'Thriller'];['Joe Eszterhas'];Basic_Instinct;./data/scraping/texts/Basic_Instinct.txt
+Basquiat;['Drama'];['Julian Schnabel'];Basquiat;./data/scraping/texts/Basquiat.txt
+Batman;['Action', 'Crime', 'Fantasy', 'Thriller'];['Sam Hamm', 'Warren Skaaren'];Batman;./data/scraping/texts/Batman.txt
+Batman 2;['Action', 'Crime', 'Fantasy', 'Thriller'];['Sam Hamm'];Batman_2;./data/scraping/texts/Batman_2.txt
+Battle of Algiers, The;['Drama', 'War'];['Gillo Pontecorvo', 'Franco Solinas'];Battle_of_Algiers;./data/scraping/texts/Battle_of_Algiers.txt
+Battle of Shaker Heights, The;['Drama', 'Romance', 'Comedy'];['Erica Beeney'];Battle_of_Shaker_Heights;./data/scraping/texts/Battle_of_Shaker_Heights.txt
+Battle: Los Angeles;['Action', 'Sci-Fi'];['Chris Bertolini'];Battle:_Los_Angeles;./data/scraping/texts/Battle:_Los_Angeles.txt
+Beach, The;['Drama', 'Adventure', 'Thriller'];['Alex Garland', 'John Hodge'];Beach;./data/scraping/texts/Beach.txt
+Bean;['Comedy'];['Richard Curtist', 'Robin Briscoll'];Bean;./data/scraping/texts/Bean.txt
+Beasts of No Nation;['Drama', 'War'];['Cary Joji Fukunaga'];Beasts_of_No_Nation;./data/scraping/texts/Beasts_of_No_Nation.txt
+Beasts of the Southern Wild;['Drama', 'Fantasy'];['Lucy Alibar', 'Benh Zeitlin'];Beasts_of_the_Southern_Wild;./data/scraping/texts/Beasts_of_the_Southern_Wild.txt
+Beauty and the Beast;['Family', 'Fantasy', 'Musical'];['Stephen Chbosky', 'Evan Spiliotopoulos'];Beauty_and_the_Beast;./data/scraping/texts/Beauty_and_the_Beast.txt
+Beavis and Butt-head Do America;['Animation', 'Comedy'];['Mike Judge', 'Joe Stillman'];Beavis_and_Butt-head_Do_America;./data/scraping/texts/Beavis_and_Butt-head_Do_America.txt
+Beginners;['Comedy', 'Drama', 'Romance'];['Mike Mills'];Beginners;./data/scraping/texts/Beginners.txt
+Being Human;['Comedy', 'Drama', 'Fantasy'];['Bill Forsyth'];Being_Human;./data/scraping/texts/Being_Human.txt
+Being John Malkovich;['Comedy', 'Fantasy'];['Charlie Kaufman'];Being_John_Malkovich;./data/scraping/texts/Being_John_Malkovich.txt
+Being There;['Comedy', 'Drama'];['Jerry Kosinski', 'Robert C. Jones'];Being_There;./data/scraping/texts/Being_There.txt
+Believer, The;['Drama'];['Henry Bean', 'Mark Jacobson'];Believer;./data/scraping/texts/Believer.txt
+Belle;['Drama', 'Romance'];['Misan Sagay'];Belle;./data/scraping/texts/Belle.txt
+Beloved;['Drama'];['Richard LaGravenese', 'Toni Morrisson'];Beloved;./data/scraping/texts/Beloved.txt
+Benny & Joon;['Comedy', 'Romance'];['Barry Berman', 'Lesley McNeil'];Benny_&_Joon;./data/scraping/texts/Benny_&_Joon.txt
+Best Exotic Marigold Hotel, The;['Comedy', 'Drama'];['Ol Parker'];Best_Exotic_Marigold_Hotel;./data/scraping/texts/Best_Exotic_Marigold_Hotel.txt
+Big;['Comedy', 'Family', 'Fantasy'];['Gary Ross', 'Anne Spielberg'];Big;./data/scraping/texts/Big.txt
+Big Blue, The;['Drama', 'Romance'];['Luc Besson', 'Robert Garland'];Big_Blue;./data/scraping/texts/Big_Blue.txt
+Big Eyes;['Crime', 'Drama'];['Scott Alexander', 'Larry Karaszewski'];Big_Eyes;./data/scraping/texts/Big_Eyes.txt
+Big Fish;['Drama', 'Fantasy', 'Comedy', 'Adventure'];['Daniel Wallace', 'John August'];Big_Fish;./data/scraping/texts/Big_Fish.txt
+Big Sick, The;['Comedy', 'Drama', 'Romance'];['Emily V. Gordon', 'Kumail Nanjiani'];Big_Sick;./data/scraping/texts/Big_Sick.txt
+Big White, The;['Comedy', 'Crime', 'Drama'];['Collin Friesen'];Big_White;./data/scraping/texts/Big_White.txt
+Birdman;['Comedy', 'Drama', 'Romance'];['Alejandro G. Inarritu', 'Nicolas Giacobone', 'Alexander Dinelaris Jr.', 'Armando Bo'];Birdman;./data/scraping/texts/Birdman.txt
+Birthday Girl;['Comedy', 'Drama', 'Romance', 'Crime'];['Tom Butterworth', 'Jez Butterworth'];Birthday_Girl;./data/scraping/texts/Birthday_Girl.txt
+Black Dahlia, The;['Crime', 'Drama', 'Mystery', 'Thriller'];['Josh Friedman', 'James Ellroy'];Black_Dahlia;./data/scraping/texts/Black_Dahlia.txt
+Black Panther;['Action', 'Adventure', 'Sci-Fi'];['Ryan Coogler', 'Joe Robert Cole'];Black_Panther;./data/scraping/texts/Black_Panther.txt
+Black Rain;['Action', 'Crime', 'Drama'];['Craig Bolotin', 'Warren Lewis'];Black_Rain;./data/scraping/texts/Black_Rain.txt
+Black Snake Moan;['Drama'];['Craig Brewer'];Black_Snake_Moan;./data/scraping/texts/Black_Snake_Moan.txt
+Black Swan;['Drama', 'Mystery', 'Thriller'];['Mark Heyman', 'Andres Heinz', 'John McLaughlin'];Black_Swan;./data/scraping/texts/Black_Swan.txt
+BlacKkKlansman;['Crime', 'Drama'];['Charlie Wachtel', 'David Rabinowitz', 'Kevin Willmott', 'Spike Lee'];BlacKkKlansman;./data/scraping/texts/BlacKkKlansman.txt
+Blade;['Action', 'Horror', 'Sci-Fi'];['David S. Goyer'];Blade;./data/scraping/texts/Blade.txt
+Blade II;['Action', 'Horror', 'Thriller'];['David S. Goyer'];Blade_II;./data/scraping/texts/Blade_II.txt
+Blade Runner;['Action', 'Drama', 'Sci-Fi'];['Hampton Fancher', 'David Peoples'];Blade_Runner;./data/scraping/texts/Blade_Runner.txt
+Blade: Trinity;['Action', 'Fantasy', 'Horror', 'Thriller'];['David S. Goyer'];Blade:_Trinity;./data/scraping/texts/Blade:_Trinity.txt
+Blast from the Past, The;['Comedy', 'Drama', 'Romance'];['Bill Kelly', 'Hugh Wilson'];Blast_from_the_Past;./data/scraping/texts/Blast_from_the_Past.txt
+Bling Ring, The;['Crime', 'Drama'];['Sofia Coppola'];Bling_Ring;./data/scraping/texts/Bling_Ring.txt
+Blood and Wine;['Thriller', 'Crime', 'Drama'];['Nick Villiers'];Blood_and_Wine;./data/scraping/texts/Blood_and_Wine.txt
+Blow;['Crime', 'Drama'];['David McKenna', 'Nick Cassavetes'];Blow;./data/scraping/texts/Blow.txt
+Blue Valentine;['Drama', 'Romance'];['Derek Cianfrance', 'Cami Delavigne', 'Joey Curtis'];Blue_Valentine;./data/scraping/texts/Blue_Valentine.txt
+Blue Velvet;['Crime', 'Drama', 'Mystery', 'Thriller'];['David Lynch'];Blue_Velvet;./data/scraping/texts/Blue_Velvet.txt
+Bodies, Rest & Motion;['Drama', 'Romance'];['Roger Hedden'];Bodies;./data/scraping/texts/Bodies.txt
+Body Heat;['Crime', 'Thriller'];['Lawrence Kasdan'];Body_Heat;./data/scraping/texts/Body_Heat.txt
+Body of Evidence;['Romance', 'Thriller'];['Brad Mirman'];Body_of_Evidence;./data/scraping/texts/Body_of_Evidence.txt
+Bodyguard;['Drama', 'Romance', 'Thriller'];['Lawrence Kasdan'];Bodyguard;./data/scraping/texts/Bodyguard.txt
+Bones;['Horror'];['Adam Simon', 'Tim Metcalfe'];Bones;./data/scraping/texts/Bones.txt
+Bonfire of the Vanities;['Comedy', 'Drama'];['Michael Cristofer'];Bonfire_of_the_Vanities;./data/scraping/texts/Bonfire_of_the_Vanities.txt
+Bonnie and Clyde;['Crime', 'Drama', 'Romance'];['David Newman', 'Robert Benton'];Bonnie_and_Clyde;./data/scraping/texts/Bonnie_and_Clyde.txt
+Boogie Nights;['Drama'];['Paul Thomas Anderson'];Boogie_Nights;./data/scraping/texts/Boogie_Nights.txt
+Book of Eli, The;['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller', 'Western'];['Gary Whitta'];Book_of_Eli;./data/scraping/texts/Book_of_Eli.txt
+Boondock Saints 2: All Saints Day;['Action', 'Crime', 'Drama', 'Thriller'];['Troy Duffy'];Boondock_Saints_2:_All_Saints_Day;./data/scraping/texts/Boondock_Saints_2:_All_Saints_Day.txt
+Boondock Saints, The;['Crime', 'Drama', 'Thriller'];['Troy Duffy'];Boondock_Saints;./data/scraping/texts/Boondock_Saints.txt
+Bottle Rocket;['Comedy', 'Crime'];['Owen Wilson', 'Wes Anderson'];Bottle_Rocket;./data/scraping/texts/Bottle_Rocket.txt
+Bound;['Crime', 'Drama', 'Thriller'];['Andy Wachowski', 'Larry Wachowski'];Bound;./data/scraping/texts/Bound.txt
+Bounty Hunter, The;['Action', 'Comedy', 'Crime', 'Romance'];['Sarah Thorp'];Bounty_Hunter;./data/scraping/texts/Bounty_Hunter.txt
+Bourne Identity, The;['Action', 'Thriller', 'Mystery', 'Drama', 'Adventure'];['Tony Gilroy', 'Robert Ludlum'];Bourne_Identity;./data/scraping/texts/Bourne_Identity.txt
+Bourne Supremacy, The;['Adventure', 'Mystery', 'Thriller', 'Action', 'Drama'];['Tony Gilroy', 'Brian Helgeland', 'Robert Ludlum'];Bourne_Supremacy;./data/scraping/texts/Bourne_Supremacy.txt
+Bourne Ultimatum, The;['Action', 'Adventure', 'Mystery', 'Thriller'];['Tony Gilroy', 'Scott Z. Burns', 'George Nolfi'];Bourne_Ultimatum;./data/scraping/texts/Bourne_Ultimatum.txt
+Box, The;['Drama', 'Mystery', 'Sci-Fi'];['Richard Kelly', 'Richard Matheson'];Box;./data/scraping/texts/Box.txt
+Boxtrolls, The;['Animation', 'Adventure', 'Comedy'];['Irena Brignull', 'Adam Pava'];Boxtrolls;./data/scraping/texts/Boxtrolls.txt
+Boyhood;['Drama'];['Richard Linklater'];Boyhood;./data/scraping/texts/Boyhood.txt
+Braveheart;['Drama', 'War', 'Action'];['Randall Wallace'];Braveheart;./data/scraping/texts/Braveheart.txt
+Brazil;['Comedy', 'Fantasy', 'Sci-Fi'];['Terry Gilliam', 'Charles McKeown'];Brazil;./data/scraping/texts/Brazil.txt
+Break;['Drama'];['Oliver Stone'];Break;./data/scraping/texts/Break.txt
+Breakdown;['Action', 'Thriller'];['Jonathan Mostow'];Breakdown;./data/scraping/texts/Breakdown.txt
+Breakfast Club, The;['Comedy', 'Drama'];['John Hughes'];Breakfast_Club;./data/scraping/texts/Breakfast_Club.txt
+Breaking Away;['Comedy', 'Drama'];['Steve Tesich'];Breaking_Away;./data/scraping/texts/Breaking_Away.txt
+Brick;['Drama', 'Mystery'];['Rian Johnson'];Brick;./data/scraping/texts/Brick.txt
+Bridesmaids;['Comedy'];['Annie Mumolo'];Bridesmaids;./data/scraping/texts/Bridesmaids.txt
+Bringing Out the Dead;['Drama'];['Paul Schrader'];Bringing_Out_the_Dead;./data/scraping/texts/Bringing_Out_the_Dead.txt
+Broadcast News;['Comedy', 'Drama', 'Romance'];['James L. Brooks'];Broadcast_News;./data/scraping/texts/Broadcast_News.txt
+Broken Arrow;['Action', 'Adventure', 'Thriller'];['Graham Yost'];Broken_Arrow;./data/scraping/texts/Broken_Arrow.txt
+Broken Embraces;['Drama', 'Romance', 'Thriller'];['Pedro Almodovar'];Broken_Embraces;./data/scraping/texts/Broken_Embraces.txt
+Brothers Bloom, The;['Adventure', 'Comedy', 'Crime', 'Drama', 'Romance'];['Rian Johnson'];Brothers_Bloom;./data/scraping/texts/Brothers_Bloom.txt
+Bruce Almighty;['Comedy', 'Fantasy', 'Romance'];['Steve Koren', "Mark O'Keefe", 'Steve Oedekerk'];Bruce_Almighty;./data/scraping/texts/Bruce_Almighty.txt
+Buffy the Vampire Slayer;['Action', 'Comedy', 'Horror'];['Joss Whedon'];Buffy_the_Vampire_Slayer;./data/scraping/texts/Buffy_the_Vampire_Slayer.txt
+Bull Durham;['Comedy', 'Drama', 'Romance'];['Ron Shelton'];Bull_Durham;./data/scraping/texts/Bull_Durham.txt
+Buried;['Drama', 'Mystery', 'Thriller'];['Chris Sparling'];Buried;./data/scraping/texts/Buried.txt
+Burlesque;['Drama', 'Musical', 'Romance'];['Steven Antin'];Burlesque;./data/scraping/texts/Burlesque.txt
+Burn After Reading;['Comedy', 'Crime'];['Joel Coen', 'Ethan Coen'];Burn_After_Reading;./data/scraping/texts/Burn_After_Reading.txt
+Burning Annie;['Comedy', 'Drama', 'Romance'];['Zack Ordynans'];Burning_Annie;./data/scraping/texts/Burning_Annie.txt
+Butterfly Effect, The;['Drama', 'Thriller', 'Fantasy'];['J. Mackye Gruber', 'Eric Bress'];Butterfly_Effect;./data/scraping/texts/Butterfly_Effect.txt
+Cable Guy;['Comedy', 'Drama', 'Thriller'];['Lou Holtz Jr.', 'Judd Apatow'];Cable_Guy;./data/scraping/texts/Cable_Guy.txt
+Candle to Water;['Drama'];['Nick Green'];Candle_to_Water;./data/scraping/texts/Candle_to_Water.txt
+Capote;['Crime', 'Drama'];['Dan Futterman'];Capote;./data/scraping/texts/Capote.txt
+Carrie;['Horror', 'Thriller'];['Lawrence D. Cohen', 'Stephen King'];Carrie;./data/scraping/texts/Carrie.txt
+Cars 2;['Animation', 'Action', 'Adventure'];['Ben Queen'];Cars_2;./data/scraping/texts/Cars_2.txt
+Case 39;['Horror', 'Mystery', 'Thriller'];['Ray Wright'];Case_39;./data/scraping/texts/Case_39.txt
+Casino;['Crime'];['Nicholas Pileggi', 'Martin Scorsese'];Casino;./data/scraping/texts/Casino.txt
+Cast Away;['Adventure', 'Drama'];['William Broyles Jr.'];Cast_Away;./data/scraping/texts/Cast_Away.txt
+Catch Me If You Can;['Crime', 'Drama'];['Jeff Nathanson'];Catch_Me_If_You_Can;./data/scraping/texts/Catch_Me_If_You_Can.txt
+Catwoman;['Action', 'Crime'];['Daniel Waters'];Catwoman;./data/scraping/texts/Catwoman.txt
+Cecil B. Demented;['Comedy', 'Crime', 'Thriller'];['John Waters'];Cecil_B;./data/scraping/texts/Cecil_B.txt
+Cedar Rapids;['Comedy'];['Phil Johnston'];Cedar_Rapids;./data/scraping/texts/Cedar_Rapids.txt
+Celeste & Jesse Forever;['Comedy', 'Drama', 'Romance'];['Rashida Jones', 'Will McCormack'];Celeste_&_Jesse_Forever;./data/scraping/texts/Celeste_&_Jesse_Forever.txt
+Cell, The;['Horror', 'Sci-Fi', 'Thriller'];['Mark Protosevich'];Cell;./data/scraping/texts/Cell.txt
+Cellular;['Action', 'Crime', 'Drama', 'Mystery', 'Thriller'];['Larry Cohen', 'Chris Morgan', 'J. Mackye Gruber', 'Eric Bress'];Cellular;./data/scraping/texts/Cellular.txt
+Change-Up, The;['Comedy'];['Jon Lucas', 'Scott Moore'];Change-Up;./data/scraping/texts/Change-Up.txt
+Changeling;['Crime', 'Drama', 'Mystery'];['J Michael Straczynski'];Changeling;./data/scraping/texts/Changeling.txt
+Chaos;['Action', 'Crime', 'Drama', 'Thriller'];['Tony Giglio'];Chaos;./data/scraping/texts/Chaos.txt
+Charade;['Comedy', 'Mystery', 'Romance', 'Thriller'];['Peter Stone'];Charade;./data/scraping/texts/Charade.txt
+Charlie's Angels;['Action', 'Comedy'];['Ed Solomon', 'John August', 'Zak Penn'];Charlie's_Angels;./data/scraping/texts/Charlie's_Angels.txt
+Chasing Amy;['Comedy', 'Romance'];['Kevin Smith'];Chasing_Amy;./data/scraping/texts/Chasing_Amy.txt
+Chasing Sleep;['Horror', 'Thriller'];['Michael Walker'];Chasing_Sleep;./data/scraping/texts/Chasing_Sleep.txt
+Cherry Falls;['Horror', 'Thriller', 'Comedy', 'Mystery'];['Ken Selden'];Cherry_Falls;./data/scraping/texts/Cherry_Falls.txt
+Chinatown;['Crime', 'Mystery', 'Thriller'];['Robert Towne'];Chinatown;./data/scraping/texts/Chinatown.txt
+Christ Complex;['Comedy', 'Fantasy'];['Jeffrey Scott Richards'];Christ_Complex;./data/scraping/texts/Christ_Complex.txt
+Chronicle;['Drama', 'Sci-Fi', 'Thriller'];['Max Landis', 'Josh Trank'];Chronicle;./data/scraping/texts/Chronicle.txt
+Chronicles of Narnia: The Lion, the Witch and the Wardrobe;['Action', 'Adventure', 'Drama', 'Family', 'Fantasy'];['C.S. Lewis', 'Ann Peacock'];Chronicles_of_Narnia:_The_Lion;./data/scraping/texts/Chronicles_of_Narnia:_The_Lion.txt
+Cider House Rules, The;['Drama', 'Romance'];['John Irving'];Cider_House_Rules;./data/scraping/texts/Cider_House_Rules.txt
+Cincinnati Kid, The;['Drama'];['Ring Lardner Jr', 'Terry Southern', 'Richard Jessup'];Cincinnati_Kid;./data/scraping/texts/Cincinnati_Kid.txt
+Cinema Paradiso;['Drama', 'Romance'];['Giuseppe Tornatore'];Cinema_Paradiso;./data/scraping/texts/Cinema_Paradiso.txt
+Cirque du Freak: The Vampire's Assistant;['Action', 'Adventure', 'Fantasy', 'Thriller'];['Brian Helgeland'];Cirque_du_Freak:_The_Vampire's_Assistant;./data/scraping/texts/Cirque_du_Freak:_The_Vampire's_Assistant.txt
+Citizen Kane;['Drama', 'Mystery'];['Herman J. Mankiewicz', 'Orson Welles'];Citizen_Kane;./data/scraping/texts/Citizen_Kane.txt
+City of Joy;['Drama'];['Gerald Brach', 'Roland Joffe'];City_of_Joy;./data/scraping/texts/City_of_Joy.txt
+Clash of the Titans;['Action', 'Adventure', 'Drama', 'Fantasy'];['John Glenn', 'Travis Wright'];Clash_of_the_Titans;./data/scraping/texts/Clash_of_the_Titans.txt
+Clerks;['Comedy', 'Drama'];['Kevin Smith'];Clerks;./data/scraping/texts/Clerks.txt
+Cliffhanger;['Action', 'Adventure', 'Thriller'];['Michael France'];Cliffhanger;./data/scraping/texts/Cliffhanger.txt
+Clueless;['Comedy', 'Romance'];['Amy Heckerling'];Clueless;./data/scraping/texts/Clueless.txt
+Cobb;['Drama'];['Ron Shelton'];Cobb;./data/scraping/texts/Cobb.txt
+Coco;['Animation', 'Adventure', 'Comedy'];['Lee Unkrich', 'Jason Katz', 'Matthew Aldrich', 'Adrian Molina'];Coco;./data/scraping/texts/Coco.txt
+Code of Silence;['Action', 'Drama'];['Michael Butler', 'Dennis Shryack', 'Mike Gray', 'John Mason'];Code_of_Silence;./data/scraping/texts/Code_of_Silence.txt
+Cold Mountain;['Drama', 'War', 'Romance'];['Charles Frazier', 'Anthony Minghella'];Cold_Mountain;./data/scraping/texts/Cold_Mountain.txt
+Collateral;['Action', 'Crime', 'Thriller'];['Stuart Beattie', 'Frank Darabont', 'Michael Mann'];Collateral;./data/scraping/texts/Collateral.txt
+Collateral Damage;['Action', 'Thriller'];['Ronald Roose'];Collateral_Damage;./data/scraping/texts/Collateral_Damage.txt
+Colombiana;['Action', 'Crime', 'Drama'];['Robert Mark Kamen', 'Luc Besson'];Colombiana;./data/scraping/texts/Colombiana.txt
+Color of Night;['Mystery', 'Romance', 'Thriller'];['Billy Ray', 'Matthew Chapman'];Color_of_Night;./data/scraping/texts/Color_of_Night.txt
+Commando;['Action', 'Thriller'];['Richard Tuggle'];Commando;./data/scraping/texts/Commando.txt
+Conan the Barbarian;['Action', 'Adventure', 'Fantasy'];['Thomas Dean Donnelly', 'Joshua Oppenheimer'];Conan_the_Barbarian;./data/scraping/texts/Conan_the_Barbarian.txt
+Confessions of a Dangerous Mind;['Crime', 'Drama'];['Charlie Kaufman'];Confessions_of_a_Dangerous_Mind;./data/scraping/texts/Confessions_of_a_Dangerous_Mind.txt
+Confidence;['Crime', 'Drama'];['Doug Jung'];Confidence;./data/scraping/texts/Confidence.txt
+Constantine;['Action', 'Thriller', 'Fantasy', 'Drama', 'Horror'];['Jamie Delano', 'Garth Ennis'];Constantine;./data/scraping/texts/Constantine.txt
+Cooler, The;['Drama', 'Romance', 'Comedy'];['Frank Hannah', 'Wayne Kramer'];Cooler;./data/scraping/texts/Cooler.txt
+Copycat;['Crime', 'Horror', 'Mystery', 'Thriller'];['Frank Pierson', 'Ann Biderman', 'Jay Presson Allen'];Copycat;./data/scraping/texts/Copycat.txt
+Coraline;['Animation', 'Adventure', 'Family', 'Fantasy'];['Henry Selick', 'Neil Gaiman'];Coraline;./data/scraping/texts/Coraline.txt
+Coriolanus;['Drama', 'Thriller', 'War'];['John Logan', 'William Shakespeare'];Coriolanus;./data/scraping/texts/Coriolanus.txt
+Cowboys & Aliens;['Action', 'Sci-Fi', 'Thriller'];['Alex Kurtzman', 'Roberto Orci', 'Damon Lindelof'];Cowboys_&_Aliens;./data/scraping/texts/Cowboys_&_Aliens.txt
+Cradle 2 the Grave;['Action', 'Comedy', 'Crime', 'Drama', 'Thriller'];["John O'Brian", 'Channing Gibson'];Cradle_2_the_Grave;./data/scraping/texts/Cradle_2_the_Grave.txt
+Crank;['Action', 'Crime', 'Drama', 'Thriller'];['Mark Neveldine', 'Brian Taylor'];Crank;./data/scraping/texts/Crank.txt
+Crash;['Drama', 'Thriller', 'Romance'];['J.G. Ballard', 'David Cronenberg'];Crash;./data/scraping/texts/Crash.txt
+Crazy, Stupid, Love;['Comedy', 'Drama', 'Romance'];['Dan Fogelman'];Crazy;./data/scraping/texts/Crazy.txt
+Crazylove;['Drama', 'Romance'];['Carol Watson'];Crazylove;./data/scraping/texts/Crazylove.txt
+Creation;['Drama'];['John Collee'];Creation;./data/scraping/texts/Creation.txt
+Crime Spree;['Crime', 'Comedy'];['Brad Mirman'];Crime_Spree;./data/scraping/texts/Crime_Spree.txt
+Croods, The;['Animation', 'Adventure', 'Comedy'];['Kirk DeMicco', 'Chris Sanders'];Croods;./data/scraping/texts/Croods.txt
+Crouching Tiger, Hidden Dragon;['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance'];['Wang Hui Ling', 'James Schamus', 'Tsai Kuo Jung'];Crouching_Tiger;./data/scraping/texts/Crouching_Tiger.txt
+Croupier;['Crime', 'Drama'];['Paul Mayersberg'];Croupier;./data/scraping/texts/Croupier.txt
+Crow Salvation, The;['Action', 'Drama', 'Crime', 'Horror', 'Thriller'];['Chip Johannessen'];Crow_Salvation;./data/scraping/texts/Crow_Salvation.txt
+Crow, The;['Action', 'Drama', 'Horror', 'Fantasy', 'Romance', 'Thriller'];['David Schow'];Crow;./data/scraping/texts/Crow.txt
+Crow: City of Angels, The;['Action', 'Fantasy', 'Thriller', 'Crime'];['David S Goyer', "James O'Barr"];Crow:_City_of_Angels;./data/scraping/texts/Crow:_City_of_Angels.txt
+Cruel Intentions;['Drama', 'Romance'];['Roger Kumble'];Cruel_Intentions;./data/scraping/texts/Cruel_Intentions.txt
+Crying Game;['Action', 'Drama', 'Romance'];['Neil Jordan'];Crying_Game;./data/scraping/texts/Crying_Game.txt
+Cube;['Thriller', 'Sci-Fi', 'Horror', 'Mystery'];['André Bijelic', 'Vincenzo Natali', 'Graeme Manson'];Cube;./data/scraping/texts/Cube.txt
+Curious Case of Benjamin Button, The;['Drama', 'Fantasy', 'Mystery', 'Romance'];['Eric Roth'];Curious_Case_of_Benjamin_Button;./data/scraping/texts/Curious_Case_of_Benjamin_Button.txt
+Custody;['Comedy'];['Eric Stuyvesant'];Custody;./data/scraping/texts/Custody.txt
+Dallas Buyers Club;['Drama'];['Craig Borten', 'Melisa Wallack'];Dallas_Buyers_Club;./data/scraping/texts/Dallas_Buyers_Club.txt
+Damned United, The;['Drama'];['Peter Morgan', 'David Peace'];Damned_United;./data/scraping/texts/Damned_United.txt
+Dances with Wolves;['Adventure', 'Drama', 'Western'];['Michael Blake'];Dances_with_Wolves;./data/scraping/texts/Dances_with_Wolves.txt
+Dark City;['Mystery', 'Sci-Fi', 'Thriller'];['Alex Proyas'];Dark_City;./data/scraping/texts/Dark_City.txt
+Dark Knight Rises, The;['Action', 'Crime', 'Thriller'];['Jonathan Nolan', 'Christopher Nolan'];Dark_Knight_Rises;./data/scraping/texts/Dark_Knight_Rises.txt
+Dark Star;['Comedy', 'Sci-Fi', 'Thriller'];['John Carpenter', "Dan O'Bannon"];Dark_Star;./data/scraping/texts/Dark_Star.txt
+Darkman;['Action', 'Crime', 'Sci-Fi', 'Thriller'];['Joshua Goldin', 'Daniel Goldin', 'Sam Raimi', 'Ivan Raimi', 'Chuck Pfarrer'];Darkman;./data/scraping/texts/Darkman.txt
+Date Night;['Comedy', 'Crime', 'Romance'];['Josh Klausner'];Date_Night;./data/scraping/texts/Date_Night.txt
+Dave Barry's Complete Guide to Guys;['Comedy'];['Jeff Arch', 'Dave Barry'];Dave_Barry's_Complete_Guide_to_Guys;./data/scraping/texts/Dave_Barry's_Complete_Guide_to_Guys.txt
+Dawn of the Dead;['Action', 'Horror', 'Drama'];['George A. Romero'];Dawn_of_the_Dead;./data/scraping/texts/Dawn_of_the_Dead.txt
+Day of the Dead;['Horror', 'Drama', 'Sci-Fi', 'Thriller'];['George A. Romero'];Day_of_the_Dead;./data/scraping/texts/Day_of_the_Dead.txt
+Day the Clown Cried, The;['Drama'];['Charles Denton', 'Jerry Lewis'];Day_the_Clown_Cried;./data/scraping/texts/Day_the_Clown_Cried.txt
+Day the Earth Stood Still, The;['Drama', 'Sci-Fi', 'Thriller'];['Edmund H. North'];Day_the_Earth_Stood_Still;./data/scraping/texts/Day_the_Earth_Stood_Still.txt
+Days of Heaven;['Drama'];['Terrance Malick'];Days_of_Heaven;./data/scraping/texts/Days_of_Heaven.txt
+Dead Poets Society;['Drama'];['Tom Schulman'];Dead_Poets_Society;./data/scraping/texts/Dead_Poets_Society.txt
+Deadpool;['Action', 'Adventure', 'Comedy'];['Rhett Reese', 'Paul Wernick'];Deadpool;./data/scraping/texts/Deadpool.txt
+Dear White People;['Comedy', 'Drama'];['Justin Simien'];Dear_White_People;./data/scraping/texts/Dear_White_People.txt
+Death at a Funeral;['Comedy'];['Chris Rock', 'Aeysha Carr'];Death_at_a_Funeral;./data/scraping/texts/Death_at_a_Funeral.txt
+Death to Smoochy;['Comedy', 'Crime'];['Marty Kaplan'];Death_to_Smoochy;./data/scraping/texts/Death_to_Smoochy.txt
+Debt, The;['Action', 'Drama', 'Thriller'];['Matthew Vaughn', 'Jane Goldman', 'Peter Straughan'];Debt;./data/scraping/texts/Debt.txt
+Deception;['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller'];['Mark Bomback', 'Patrick Marber'];Deception;./data/scraping/texts/Deception.txt
+Deep Cover;['Action', 'Crime', 'Thriller'];['Michael Tolkin', 'Henry Bean'];Deep_Cover;./data/scraping/texts/Deep_Cover.txt
+Deep Rising;['Action', 'Horror', 'Thriller'];['Steven Sommers', 'Robert Mark Kamen'];Deep_Rising;./data/scraping/texts/Deep_Rising.txt
+Deer Hunter, The;['Drama', 'War'];['Deric Washburn'];Deer_Hunter;./data/scraping/texts/Deer_Hunter.txt
+Defiance;['Action', 'Drama', 'Thriller', 'War'];['Clayton Frohman', 'Edward Zwick'];Defiance;./data/scraping/texts/Defiance.txt
+Departed, The;['Crime', 'Drama', 'Thriller'];['William Monahan'];Departed;./data/scraping/texts/Departed.txt
+Descendants, The;['Comedy', 'Drama'];['Alexander Payne', 'Nat Faxon', 'Jim Rash'];Descendants;./data/scraping/texts/Descendants.txt
+Despicable Me 2;['Animation', 'Adventure', 'Comedy'];['Cinco Paul', 'Ken Daurio'];Despicable_Me_2;./data/scraping/texts/Despicable_Me_2.txt
+Detroit Rock City;['Adventure', 'Comedy', 'Musical'];['Carl V Dupre'];Detroit_Rock_City;./data/scraping/texts/Detroit_Rock_City.txt
+Devil in a Blue Dress;['Crime', 'Mystery', 'Thriller'];['Carl Franklin', 'Walter Mosley'];Devil_in_a_Blue_Dress;./data/scraping/texts/Devil_in_a_Blue_Dress.txt
+Devil Wears Prada, The;['Comedy', 'Drama'];['Aline Brosh McKenna', 'Lauren Weisberger'];Devil_Wears_Prada;./data/scraping/texts/Devil_Wears_Prada.txt
+Devil's Advocate;['Drama', 'Horror', 'Thriller'];['Andrew Neiderman', 'Jonathan Lemkin'];Devil's_Advocate;./data/scraping/texts/Devil's_Advocate.txt
+Die Hard;['Action', 'Thriller'];['Jeb Stuart', 'Steven E. De Souza'];Die_Hard;./data/scraping/texts/Die_Hard.txt
+Die Hard 2;['Action', 'Thriller'];['Doug Richardson', 'Steven E. de Souza'];Die_Hard_2;./data/scraping/texts/Die_Hard_2.txt
+Diner;['Comedy', 'Drama'];['Barry Levinson'];Diner;./data/scraping/texts/Diner.txt
+Distinguished Gentleman, The;['Comedy'];['Adam Resnick'];Distinguished_Gentleman;./data/scraping/texts/Distinguished_Gentleman.txt
+Disturbia;['Thriller'];['Christopher Landon', 'Carl Ellsworth'];Disturbia;./data/scraping/texts/Disturbia.txt
+Django Unchained;['Adventure', 'Drama', 'Western'];['Quentin Tarantino'];Django_Unchained;./data/scraping/texts/Django_Unchained.txt
+Do The Right Thing;['Comedy', 'Drama'];['Spike Lee'];Do_The_Right_Thing;./data/scraping/texts/Do_The_Right_Thing.txt
+Dog Day Afternoon;['Comedy', 'Drama', 'Thriller'];['Frank Pierson'];Dog_Day_Afternoon;./data/scraping/texts/Dog_Day_Afternoon.txt
+Dogma;['Comedy', 'Fantasy', 'Adventure'];['Kevin Smith'];Dogma;./data/scraping/texts/Dogma.txt
+Donnie Brasco;['Crime', 'Drama', 'Thriller'];['Paul Attanasio'];Donnie_Brasco;./data/scraping/texts/Donnie_Brasco.txt
+Doors, The;['Biography', 'Drama', 'Music'];['Randall Jahnson', 'Oliver Stone'];Doors;./data/scraping/texts/Doors.txt
+Double Indemnity;['Crime', 'Film-Noir', 'Drama'];['James M. Cain', 'Billy Wilder', 'Raymond Chandler'];Double_Indemnity;./data/scraping/texts/Double_Indemnity.txt
+Drag Me to Hell;['Horror', 'Thriller'];['Ivan Raimi', 'Sam Raimi'];Drag_Me_to_Hell;./data/scraping/texts/Drag_Me_to_Hell.txt
+Dragonslayer;['Action', 'Adventure', 'Fantasy'];['Hal Barwood', 'Matthew Robbins'];Dragonslayer;./data/scraping/texts/Dragonslayer.txt
+Drive;['Action', 'Crime', 'Drama'];['Hossein Amini', 'James Sallis'];Drive;./data/scraping/texts/Drive.txt
+Drive Angry;['Action', 'Crime', 'Fantasy'];['Todd Farmer', 'Patrick Lussier'];Drive_Angry;./data/scraping/texts/Drive_Angry.txt
+Drop Dead Gorgeous;['Comedy'];['Lona Williams'];Drop_Dead_Gorgeous;./data/scraping/texts/Drop_Dead_Gorgeous.txt
+Dry White Season, A;['Drama', 'Thriller'];['Euzhan Palcy'];Dry_White_Season;./data/scraping/texts/Dry_White_Season.txt
+Duck Soup;['Comedy', 'Family', 'Musical'];['Bert Kelmer', 'Harry Ruby', 'Grover Jones'];Duck_Soup;./data/scraping/texts/Duck_Soup.txt
+Dumb and Dumber;['Adventure', 'Comedy'];['Peter Farrelly', 'Bobby Farrelly', ' Bennett Yellin'];Dumb_and_Dumber;./data/scraping/texts/Dumb_and_Dumber.txt
+Dune;['Action', 'Adventure', 'Sci-Fi', 'Fantasy'];['David Lynch', 'Frank Herbert'];Dune;./data/scraping/texts/Dune.txt
+E.T.;['Family', 'Sci-Fi', 'Adventure', 'Fantasy'];['Melissa Mathison'];E;./data/scraping/texts/E.txt
+Eagle Eye;['Action', 'Mystery', 'Thriller'];['John Glenn', 'Travis Wright'];Eagle_Eye;./data/scraping/texts/Eagle_Eye.txt
+Eastern Promises;['Crime', 'Drama', 'Mystery', 'Thriller'];['Steven Knight'];Eastern_Promises;./data/scraping/texts/Eastern_Promises.txt
+Easy A;['Comedy', 'Romance'];['Bert V. Royal'];Easy_A;./data/scraping/texts/Easy_A.txt
+Ed TV;['Comedy'];['Emile Gaudreault', 'Sylvie Bochard'];Ed_TV;./data/scraping/texts/Ed_TV.txt
+Ed Wood;['Comedy', 'Drama'];['Scott Alexander', 'Larry Karaszewski', 'Tim Burton'];Ed_Wood;./data/scraping/texts/Ed_Wood.txt
+Edward Scissorhands;['Drama', 'Fantasy', 'Romance'];['Tim Burton', 'Caroline Thompson'];Edward_Scissorhands;./data/scraping/texts/Edward_Scissorhands.txt
+Eight Legged Freaks;['Action', 'Comedy', 'Horror', 'Sci-Fi'];['Jesse Alexander', ' Ellory Elkayem'];Eight_Legged_Freaks;./data/scraping/texts/Eight_Legged_Freaks.txt
+El Mariachi;['Action', 'Thriller', 'Crime', 'Western'];['Robert Rodriguez'];El_Mariachi;./data/scraping/texts/El_Mariachi.txt
+Election;['Comedy'];['Alexander Payne', 'Jim Taylor'];Election;./data/scraping/texts/Election.txt
+Elephant Man, The;['Drama'];['Christopher De Vore', 'Eric Bergren', 'David Lynch'];Elephant_Man;./data/scraping/texts/Elephant_Man.txt
+Elizabeth: The Golden Age;['Drama'];['William Nicholson', 'Michael Hirst'];Elizabeth:_The_Golden_Age;./data/scraping/texts/Elizabeth:_The_Golden_Age.txt
+Enemy of the State;['Drama', 'Action', 'Thriller'];['David Marconi'];Enemy_of_the_State;./data/scraping/texts/Enemy_of_the_State.txt
+English Patient, The;['Drama', 'Romance'];['Anthony Minghella'];English_Patient;./data/scraping/texts/English_Patient.txt
+Enough;['Drama', 'Thriller'];['Nicholas Kazan'];Enough;./data/scraping/texts/Enough.txt
+Entrapment;['Action', 'Comedy', 'Crime', 'Thriller'];['Ronald Bass', 'Michael Herzberg'];Entrapment;./data/scraping/texts/Entrapment.txt
+Erik the Viking;['Fantasy'];['Terry Jones'];Erik_the_Viking;./data/scraping/texts/Erik_the_Viking.txt
+Erin Brockovich;['Comedy', 'Drama'];['Susannah Grant'];Erin_Brockovich;./data/scraping/texts/Erin_Brockovich.txt
+Escape From L.A.;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['John Carpenter', 'Debra Hill', 'Kurt Russell'];Escape_From_L;./data/scraping/texts/Escape_From_L.txt
+Escape From New York;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['John Carpenter', 'Nick Castle'];Escape_From_New_York;./data/scraping/texts/Escape_From_New_York.txt
+Eternal Sunshine of the Spotless Mind;['Drama', 'Romance', 'Sci-Fi'];['Charlie Kaufman', 'Michel Gondry', 'Pierre Bismuth'];Eternal_Sunshine_of_the_Spotless_Mind;./data/scraping/texts/Eternal_Sunshine_of_the_Spotless_Mind.txt
+Even Cowgirls Get the Blues;['Comedy', 'Romance', 'Drama'];['Tom Robbins', 'Gus Van Sant'];Even_Cowgirls_Get_the_Blues;./data/scraping/texts/Even_Cowgirls_Get_the_Blues.txt
+Event Horizon;['Horror', 'Sci-Fi', 'Thriller'];['Philip Eisner'];Event_Horizon;./data/scraping/texts/Event_Horizon.txt
+Evil Dead;['Horror', 'Fantasy', 'Comedy'];['Sam Raimi'];Evil_Dead;./data/scraping/texts/Evil_Dead.txt
+Evil Dead II: Dead by Dawn;['Horror', 'Fantasy', 'Comedy', 'Action'];['Sam Raimi', 'Scott Spiegel'];Evil_Dead_II:_Dead_by_Dawn;./data/scraping/texts/Evil_Dead_II:_Dead_by_Dawn.txt
+Ex Machina;['Drama', 'Mystery', 'Sci-Fi'];['Alex Garland'];Ex_Machina;./data/scraping/texts/Ex_Machina.txt
+Excalibur;['Adventure', 'Drama', 'Fantasy'];['Rospo Pallenberg', 'John Boorman'];Excalibur;./data/scraping/texts/Excalibur.txt
+eXistenZ;['Adventure', 'Sci-Fi', 'Thriller'];['David Cronenberg'];eXistenZ;./data/scraping/texts/eXistenZ.txt
+Extract;['Comedy', 'Crime', 'Romance'];['Mike Judge'];Extract;./data/scraping/texts/Extract.txt
+Fabulous Baker Boys, The;['Drama', 'Romance'];['Steven Kloves'];Fabulous_Baker_Boys;./data/scraping/texts/Fabulous_Baker_Boys.txt
+Face Off;['Action', 'Crime', 'Drama', 'Thriller'];['Mike Werb', 'Michael Colleary'];Face_Off;./data/scraping/texts/Face_Off.txt
+Fair Game;['Action', 'Drama', 'Thriller'];['Jez Butterworth', 'John-Henry Butterworth'];Fair_Game;./data/scraping/texts/Fair_Game.txt
+Family Man, The;['Comedy', 'Romance'];['David Diamond', 'David Weissman'];Family_Man;./data/scraping/texts/Family_Man.txt
+Fantastic Four;['Action', 'Adventure', 'Fantasy', 'Sci-Fi'];['Mark Frost', 'Michael France'];Fantastic_Four;./data/scraping/texts/Fantastic_Four.txt
+Fantastic Mr Fox;['Animation', 'Adventure', 'Comedy', 'Family'];['Roald Dahl', 'Wes Anderson', 'Noah Baumbach'];Fantastic_Mr_Fox;./data/scraping/texts/Fantastic_Mr_Fox.txt
+Fargo;['Comedy', 'Crime', 'Thriller'];['Joel Coen', 'Ethan Coen'];Fargo;./data/scraping/texts/Fargo.txt
+Fast Times at Ridgemont High;['Comedy', 'Drama'];['Cameron Crowe'];Fast_Times_at_Ridgemont_High;./data/scraping/texts/Fast_Times_at_Ridgemont_High.txt
+Fatal Instinct;['Comedy', 'Crime', 'Thriller'];["David O'Malley"];Fatal_Instinct;./data/scraping/texts/Fatal_Instinct.txt
+Fault in Our Stars, The;['Drama', 'Romance'];['Scott Neustadter', 'Michael H. Weber'];Fault_in_Our_Stars;./data/scraping/texts/Fault_in_Our_Stars.txt
+Fear and Loathing in Las Vegas;['Comedy', 'Drama', ''];['Terry Gilliam', 'Tony Grisoni'];Fear_and_Loathing_in_Las_Vegas;./data/scraping/texts/Fear_and_Loathing_in_Las_Vegas.txt
+Feast;['Action', 'Comedy', 'Horror', 'Thriller'];['Patrick Melton', 'Marcus Dunston'];Feast;./data/scraping/texts/Feast.txt
+Ferris Bueller's Day Off;['Comedy'];['John Hughes'];Ferris_Bueller's_Day_Off;./data/scraping/texts/Ferris_Bueller's_Day_Off.txt
+Field of Dreams;['Drama', 'Family', 'Fantasy'];['Phil Alden Robinson'];Field_of_Dreams;./data/scraping/texts/Field_of_Dreams.txt
+Fifth Element, The;['Action', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Sci-Fi'];['Luc Besson'];Fifth_Element;./data/scraping/texts/Fifth_Element.txt
+Fight Club;['Action', 'Drama', 'Thriller'];['Jim Uhls'];Fight_Club;./data/scraping/texts/Fight_Club.txt
+Fighter, The;['Drama'];['Scott Silver', 'Paul Tamasy', 'Eric Johnson'];Fighter;./data/scraping/texts/Fighter.txt
+Final Destination;['Horror', 'Thriller'];['James Wong', 'Glen Morgan'];Final_Destination;./data/scraping/texts/Final_Destination.txt
+Final Destination 2;['Horror', 'Thriller'];['J. Mackye Gruber', 'Eric Bress'];Final_Destination_2;./data/scraping/texts/Final_Destination_2.txt
+Finding Nemo;['Adventure', 'Animation', 'Comedy', 'Family'];['Andrew Stanton'];Finding_Nemo;./data/scraping/texts/Finding_Nemo.txt
+Five Easy Pieces;['Drama'];['Carole Eastman'];Five_Easy_Pieces;./data/scraping/texts/Five_Easy_Pieces.txt
+Flash Gordon;['Action', 'Adventure', 'Fantasy'];['Lorenzo Semple Jr.'];Flash_Gordon;./data/scraping/texts/Flash_Gordon.txt
+Fletch;['Comedy'];['Phil A. Robinson', 'Andrew Bergman'];Fletch;./data/scraping/texts/Fletch.txt
+Flight;['Drama'];['John Gatins'];Flight;./data/scraping/texts/Flight.txt
+Flintstones, The;['Comedy', 'Family', 'Fantasy'];['Steven E. De Souza'];Flintstones;./data/scraping/texts/Flintstones.txt
+Forrest Gump;['Comedy', 'Drama'];['Eric Roth', 'Winston Groom'];Forrest_Gump;./data/scraping/texts/Forrest_Gump.txt
+Four Feathers;['Adventure', 'Drama', 'War'];['Michael Chiffer', 'Hossein Amini'];Four_Feathers;./data/scraping/texts/Four_Feathers.txt
+Four Rooms;['Comedy', 'Drama'];['Allison Anders', 'Quentin Tarantino', 'Robert Rodriguez', 'Alexandre Rockwell'];Four_Rooms;./data/scraping/texts/Four_Rooms.txt
+Foxcatcher;['Drama'];['E. Max Frye', 'Dan Futterman'];Foxcatcher;./data/scraping/texts/Foxcatcher.txt
+Fracture;['Crime', 'Drama', 'Thriller'];['Dan Pyne'];Fracture;./data/scraping/texts/Fracture.txt
+Frances;['Drama'];['Eric Bergren', 'Christopher De Vore', 'Nicholas Kazan'];Frances;./data/scraping/texts/Frances.txt
+Frankenstein;['Drama', 'Fantasy', 'Horror', 'Romance', 'Sci-Fi'];['Steph Lady', 'Frank Darabont'];Frankenstein;./data/scraping/texts/Frankenstein.txt
+Frankenweenie;['Animation', 'Comedy', 'Family'];['John August'];Frankenweenie;./data/scraping/texts/Frankenweenie.txt
+Freaked;['Comedy', 'Sci-Fi'];['Tim Burns', 'Tom Stern', 'Alex Winter'];Freaked;./data/scraping/texts/Freaked.txt
+Freddy vs. Jason;['Action', 'Fantasy', 'Horror', 'Thriller'];['Peter Briggs'];Freddy_vs;./data/scraping/texts/Freddy_vs.txt
+French Connection, The;['Action', 'Crime', 'Thriller'];['Ernest Tidyman'];French_Connection;./data/scraping/texts/French_Connection.txt
+Frequency;['Thriller'];['Toby Emmerich'];Frequency;./data/scraping/texts/Frequency.txt
+Friday the 13th;['Horror', 'Mystery', 'Thriller'];['Victor Miller'];Friday_the_13th;./data/scraping/texts/Friday_the_13th.txt
+Friday the 13th Part VIII: Jason Takes Manhattan;['Horror'];['Rob Hedden'];Friday_the_13th_Part_VIII:_Jason_Takes_Manhattan;./data/scraping/texts/Friday_the_13th_Part_VIII:_Jason_Takes_Manhattan.txt
+Fright Night;['Comedy', 'Horror'];['Marti Noxon'];Fright_Night;./data/scraping/texts/Fright_Night.txt
+Fright Night (1985);['Comedy', 'Horror', 'Thriller'];['Tom Holland'];Fright_Night_(1985);./data/scraping/texts/Fright_Night_(1985).txt
+From Dusk Till Dawn;['Action', 'Comedy', 'Horror', 'Thriller'];['Quentin Tarantino'];From_Dusk_Till_Dawn;./data/scraping/texts/From_Dusk_Till_Dawn.txt
+From Here to Eternity;['Drama', 'Romance', 'War'];['Daniel Taradash'];From_Here_to_Eternity;./data/scraping/texts/From_Here_to_Eternity.txt
+Frozen;['Drama', 'Thriller'];['Adam Green'];Frozen;./data/scraping/texts/Frozen.txt
+Frozen (Disney);['Animation', 'Adventure', 'Comedy'];['Jennifer Lee'];Frozen_(Disney);./data/scraping/texts/Frozen_(Disney).txt
+Frozen River;['Crime', 'Drama'];['Courtney Hunt'];Frozen_River;./data/scraping/texts/Frozen_River.txt
+Fruitvale Station;['Drama'];['Ryan Coogler'];Fruitvale_Station;./data/scraping/texts/Fruitvale_Station.txt
+Fugitive, The;['Action', 'Adventure', 'Mystery', 'Thriller'];['Jeb Stuart', 'David N. Twohy'];Fugitive;./data/scraping/texts/Fugitive.txt
+Funny People;['Comedy', 'Drama'];['Judd Apatow'];Funny_People;./data/scraping/texts/Funny_People.txt
+G.I. Jane;['Action', 'Drama'];['David Twohy'];G;./data/scraping/texts/G.txt
+G.I. Joe: The Rise of Cobra;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['Stuart Beattie', 'John Lee Hancock', 'Brian Koppelman', 'David Levien'];G;./data/scraping/texts/G.txt
+Game 6;['Comedy', 'Drama'];['Don DeLillo'];Game_6;./data/scraping/texts/Game_6.txt
+Game, The;['Mystery', 'Thriller'];['John Brancato', 'Michael Ferris', 'Larry Gross', 'Andrew Kevin Walker'];Game;./data/scraping/texts/Game.txt
+Gamer;['Action', 'Sci-Fi', 'Thriller'];['Mark Neveldine', 'Brian Taylor'];Gamer;./data/scraping/texts/Gamer.txt
+Gandhi;['Drama'];['John Briley'];Gandhi;./data/scraping/texts/Gandhi.txt
+Gang Related;['Crime', 'Drama'];['Jim Kouf'];Gang_Related;./data/scraping/texts/Gang_Related.txt
+Gangs of New York;['Crime', 'Drama'];['Jay Cocks', 'Steven Zaillian', 'Kenneth Lonergan'];Gangs_of_New_York;./data/scraping/texts/Gangs_of_New_York.txt
+Garden State;['Comedy', 'Drama', 'Romance'];['Zach Braff'];Garden_State;./data/scraping/texts/Garden_State.txt
+Gattaca;['Drama', 'Sci-Fi', 'Thriller'];['Andrew Niccol'];Gattaca;./data/scraping/texts/Gattaca.txt
+Get Carter;['Thriller', 'Action', 'Crime', 'Drama'];['Mike Hodges', 'Ted Lewis'];Get_Carter;./data/scraping/texts/Get_Carter.txt
+Get Low;['Drama', 'Mystery'];['Chris Provenzano', 'Scott Seeke', 'C. Gaby Mitchell'];Get_Low;./data/scraping/texts/Get_Low.txt
+Get on Up;['Drama'];['Steven Baigelman', 'Jez Butterworth', 'John-Henry Butterworth'];Get_on_Up;./data/scraping/texts/Get_on_Up.txt
+Get Out;['Horror', 'Mystery', 'Thriller'];['Jordan Peele'];Get_Out;./data/scraping/texts/Get_Out.txt
+Get Shorty;['Action', 'Comedy', 'Crime', 'Drama'];['Scott Frank'];Get_Shorty;./data/scraping/texts/Get_Shorty.txt
+Getaway, The;['Action', 'Crime', 'Drama', 'Thriller'];['Walter Hill'];Getaway;./data/scraping/texts/Getaway.txt
+Ghost;['Romance', 'Thriller', 'Drama', 'Fantasy'];['Bruce Joel Rubin'];Ghost;./data/scraping/texts/Ghost.txt
+Ghost and the Darkness, The;['Action', 'Adventure', 'Drama', 'Thriller'];['William Goldman'];Ghost_and_the_Darkness;./data/scraping/texts/Ghost_and_the_Darkness.txt
+Ghost Rider;['Action', 'Fantasy', 'Thriller'];['David S. Goyer'];Ghost_Rider;./data/scraping/texts/Ghost_Rider.txt
+Ghost Ship;['Action', 'Adventure', 'Horror', 'Thriller', 'Sci-Fi'];['Mark Hanlon'];Ghost_Ship;./data/scraping/texts/Ghost_Ship.txt
+Ghost World;['Comedy', 'Drama'];['Daniel Clowes', 'Terry Zwigoff'];Ghost_World;./data/scraping/texts/Ghost_World.txt
+Ghostbusters;['Sci-Fi', 'Fantasy', 'Comedy'];['Dan Aykroyd', 'Harold Ramis'];Ghostbusters;./data/scraping/texts/Ghostbusters.txt
+Ghostbusters 2;['Sci-Fi', 'Comedy', 'Action', 'Adventure'];['Dan Aykroyd', 'Harold Ramis'];Ghostbusters_2;./data/scraping/texts/Ghostbusters_2.txt
+Ginger Snaps;['Drama', 'Horror', 'Thriller'];['Karen Walton'];Ginger_Snaps;./data/scraping/texts/Ginger_Snaps.txt
+Girl with the Dragon Tattoo, The;['Crime', 'Drama', 'Mystery'];['Steven Zaillian'];Girl_with_the_Dragon_Tattoo;./data/scraping/texts/Girl_with_the_Dragon_Tattoo.txt
+Gladiator;['Drama', 'Action'];['David Franzoni', 'John Logan'];Gladiator;./data/scraping/texts/Gladiator.txt
+Glengarry Glen Gross;['Drama'];['David Mamet'];Glengarry_Glen_Gross;./data/scraping/texts/Glengarry_Glen_Gross.txt
+Go;['Comedy', 'Crime'];['John August'];Go;./data/scraping/texts/Go.txt
+Godfather;['Crime', 'Drama'];['Mario Puzo', 'Francis Ford Coppola'];Godfather;./data/scraping/texts/Godfather.txt
+Godfather Part II;['Crime', 'Drama'];['Mario Puzo', 'Francis Ford Coppola'];Godfather_Part_II;./data/scraping/texts/Godfather_Part_II.txt
+Godfather Part III, The;['Crime', 'Drama', 'Mystery'];['Mario Puzo', 'Francis Ford Coppola'];Godfather_Part_III;./data/scraping/texts/Godfather_Part_III.txt
+Gods and Monsters;['Drama'];['Bill Condon'];Gods_and_Monsters;./data/scraping/texts/Gods_and_Monsters.txt
+Godzilla;['Sci-Fi', 'Action', 'Thriller'];['Dean Devlin', 'Roland Emmerich'];Godzilla;./data/scraping/texts/Godzilla.txt
+Gone Baby Gone;['Crime', 'Drama', 'Mystery'];['Ben Affleck', 'Aaron Stockard'];Gone_Baby_Gone;./data/scraping/texts/Gone_Baby_Gone.txt
+Gone in 60 Seconds;['Action', 'Crime'];['Scott Rosenberg'];Gone_in_60_Seconds;./data/scraping/texts/Gone_in_60_Seconds.txt
+Good Girl, The;['Drama', 'Comedy'];['Mike White'];Good_Girl;./data/scraping/texts/Good_Girl.txt
+Good Will Hunting;['Comedy', 'Drama'];['Matt Damon', 'Ben Affleck'];Good_Will_Hunting;./data/scraping/texts/Good_Will_Hunting.txt
+Gothika;['Horror', 'Thriller', 'Mystery'];['Sebastian Gutierrez'];Gothika;./data/scraping/texts/Gothika.txt
+Grabbers;['Comedy', 'Horror', 'Sci-Fi'];['Kevin Lehane'];Grabbers;./data/scraping/texts/Grabbers.txt
+Graduate, The;['Comedy', 'Drama', 'Romance'];['Buck Henry'];Graduate;./data/scraping/texts/Graduate.txt
+Gran Torino;['Crime', 'Drama'];['Nick Schenk'];Gran_Torino;./data/scraping/texts/Gran_Torino.txt
+Grand Hotel;['Drama', 'Romance'];['Bela Balazs'];Grand_Hotel;./data/scraping/texts/Grand_Hotel.txt
+Grand Theft Parsons;['Drama', 'Comedy'];['Jeremy Drysdale'];Grand_Theft_Parsons;./data/scraping/texts/Grand_Theft_Parsons.txt
+Grapes of Wrath, The;['Drama'];['Nunnally Johnson'];Grapes_of_Wrath;./data/scraping/texts/Grapes_of_Wrath.txt
+Gravity;['Sci-Fi', 'Thriller'];['Alfonso Cuaron', 'Jonas Cuaron'];Gravity;./data/scraping/texts/Gravity.txt
+Great Gatsby, The;['Drama', 'Romance'];['Baz Luhrmann', 'Craig Pearce'];Great_Gatsby;./data/scraping/texts/Great_Gatsby.txt
+Green Mile, The;['Drama', 'Fantasy'];['Stephen King', 'Frank Darabont'];Green_Mile;./data/scraping/texts/Green_Mile.txt
+Gremlins;['Comedy', 'Fantasy', 'Horror'];['Chris Columbus'];Gremlins;./data/scraping/texts/Gremlins.txt
+Gremlins 2;['Comedy', 'Fantasy', 'Horror', 'Sci-Fi'];['Charlie Haas'];Gremlins_2;./data/scraping/texts/Gremlins_2.txt
+Grifters, The;['Crime', 'Drama'];['Donald E. Westlake'];Grifters;./data/scraping/texts/Grifters.txt
+Grosse Point Blank;['Crime', 'Comedy', 'Romance', 'Thriller'];['Tom Jankiewicz', ' D.V. deVincentis', ' S.K. Boatman', 'John Cusack'];Grosse_Point_Blank;./data/scraping/texts/Grosse_Point_Blank.txt
+Groundhog Day;['Comedy', 'Fantasy', 'Romance'];['Danny Rubin'];Groundhog_Day;./data/scraping/texts/Groundhog_Day.txt
+Grudge, The;['Horror', 'Mystery', 'Thriller'];['Stephen Susco'];Grudge;./data/scraping/texts/Grudge.txt
+Guardians of the Galaxy Vol 2;['Action', 'Adventure', 'Comedy'];['James Gunn'];Guardians_of_the_Galaxy_Vol_2;./data/scraping/texts/Guardians_of_the_Galaxy_Vol_2.txt
+Hackers;['Action', 'Crime', 'Drama', 'Thriller'];['Rafael Moreu'];Hackers;./data/scraping/texts/Hackers.txt
+Hall Pass;['Comedy', 'Romance'];['Peter Farrelly', 'Bobby Farrelly', 'Kevin Barnett', 'Pete Jones'];Hall_Pass;./data/scraping/texts/Hall_Pass.txt
+Halloween;['Horror', 'Thriller'];['Jeff Fradley', 'Danny McBride', 'David Gordon Green'];Halloween;./data/scraping/texts/Halloween.txt
+Halloween: The Curse of Michael Myers;['Horror', 'Thriller'];['Daniel Farrands'];Halloween:_The_Curse_of_Michael_Myers;./data/scraping/texts/Halloween:_The_Curse_of_Michael_Myers.txt
+Hancock;['Action', 'Comedy', 'Crime', 'Drama', 'Fantasy', 'Thriller'];['Vincent Ngo', 'Vince Gilligan'];Hancock;./data/scraping/texts/Hancock.txt
+Hangover, The;['Comedy', 'Crime', 'Mystery', 'Thriller'];['Jon Lucas', 'Scott Moore'];Hangover;./data/scraping/texts/Hangover.txt
+Hanna;['Action', 'Crime', 'Mystery'];['Seth Lochead'];Hanna;./data/scraping/texts/Hanna.txt
+Hannah and Her Sisters;['Comedy', 'Drama', 'Romance'];['Woody Allen'];Hannah_and_Her_Sisters;./data/scraping/texts/Hannah_and_Her_Sisters.txt
+Hannibal;['Horror', 'Thriller'];['Steven Zaillian'];Hannibal;./data/scraping/texts/Hannibal.txt
+Happy Birthday, Wanda June;['Comedy'];['Kurt Vonnegut Jr.'];Happy_Birthday;./data/scraping/texts/Happy_Birthday.txt
+Happy Feet;['Animation', 'Comedy', 'Family'];['George Miller', 'John Collee'];Happy_Feet;./data/scraping/texts/Happy_Feet.txt
+Hard Rain;['Action', 'Crime', 'Thriller', 'Drama'];['Graham Yost'];Hard_Rain;./data/scraping/texts/Hard_Rain.txt
+Hard to Kill;['Action', 'Romance'];['Steven Pressfield', 'Ronald Shusett', 'Steven Seagal'];Hard_to_Kill;./data/scraping/texts/Hard_to_Kill.txt
+Harold and Kumar Go to White Castle;['Adventure', 'Comedy'];['Jon Hurwitz', 'Hayden Schlossberg'];Harold_and_Kumar_Go_to_White_Castle;./data/scraping/texts/Harold_and_Kumar_Go_to_White_Castle.txt
+Haunting, The;['Horror', 'Mystery', 'Thriller'];['David Self', 'Michael Tolkin'];Haunting;./data/scraping/texts/Haunting.txt
+He's Just Not That Into You;['Comedy', 'Drama', 'Romance'];['Abby Kohn', 'Marc Silverstein'];He's_Just_Not_That_Into_You;./data/scraping/texts/He's_Just_Not_That_Into_You.txt
+Heat;['Action', 'Crime', 'Drama', 'Thriller'];['Michael Mann'];Heat;./data/scraping/texts/Heat.txt
+Heathers;['Comedy'];['Daniel Waters'];Heathers;./data/scraping/texts/Heathers.txt
+Heavenly Creatures;['Drama', 'Romance', 'Crime', 'Fantasy', 'Thriller', 'Horror'];['Fran Walsh', 'Peter Jackson'];Heavenly_Creatures;./data/scraping/texts/Heavenly_Creatures.txt
+Heavy Metal;['Action', 'Adventure', 'Animation', 'Fantasy', 'Horror', 'Sci-Fi'];['Dan Goldberg', 'Len Blum'];Heavy_Metal;./data/scraping/texts/Heavy_Metal.txt
+Hebrew Hammer, The;['Comedy'];['Jonathan Kesselman'];Hebrew_Hammer;./data/scraping/texts/Hebrew_Hammer.txt
+Heist;['Crime', 'Drama', 'Thriller'];['David Mamet'];Heist;./data/scraping/texts/Heist.txt
+Hellbound: Hellraiser II;['Horror', 'Thriller'];['Peter Atkins', 'Clive Barker'];Hellbound:_Hellraiser_II;./data/scraping/texts/Hellbound:_Hellraiser_II.txt
+Hellboy;['Adventure', 'Horror', 'Sci-Fi', 'Action'];['Mike Mignola', 'Guillermo del Toro', 'Peter Briggs'];Hellboy;./data/scraping/texts/Hellboy.txt
+Hellboy 2: The Golden Army;['Action', 'Adventure', 'Fantasy'];['Guillermo del Toro'];Hellboy_2:_The_Golden_Army;./data/scraping/texts/Hellboy_2:_The_Golden_Army.txt
+Hellraiser;['Horror'];['Clive Barker'];Hellraiser;./data/scraping/texts/Hellraiser.txt
+Hellraiser 3: Hell on Earth;['Fantasy', 'Horror'];['Peter Atkins', 'Tony Randel'];Hellraiser_3:_Hell_on_Earth;./data/scraping/texts/Hellraiser_3:_Hell_on_Earth.txt
+Hellraiser: Deader;['Horror', 'Mystery', 'Thriller'];['Clive Barker', 'Neal Marshall Stevens', 'Tim Day'];Hellraiser:_Deader;./data/scraping/texts/Hellraiser:_Deader.txt
+Hellraiser: Hellseeker;['Horror'];['Carl Dupre', 'Clive Barker'];Hellraiser:_Hellseeker;./data/scraping/texts/Hellraiser:_Hellseeker.txt
+Help, The;['Drama'];['Tate Taylor', 'Kathryn Stockett'];Help;./data/scraping/texts/Help.txt
+Henry Fool;['Comedy', 'Drama'];['Hal Hartley'];Henry_Fool;./data/scraping/texts/Henry_Fool.txt
+Henry's Crime;['Crime', 'Drama'];['Sacha Gervasi'];Henry's_Crime;./data/scraping/texts/Henry's_Crime.txt
+Her;['Drama', 'Romance', 'Sci-Fi'];['Spike Jonze'];Her;./data/scraping/texts/Her.txt
+Hesher;['Drama'];['Spencer Susser', 'David Michod'];Hesher;./data/scraping/texts/Hesher.txt
+High Fidelity;['Romance', 'Comedy', 'Drama', 'Music'];['Nick Hornby', 'D.V. DeVincentis'];High_Fidelity;./data/scraping/texts/High_Fidelity.txt
+Highlander;['Action', 'Fantasy'];['Gregory Widen'];Highlander;./data/scraping/texts/Highlander.txt
+Highlander: Endgame;['Action', 'Adventure', 'Fantasy', 'Sci-Fi'];['Gillian Horvath', 'William N. Panzer', 'Joel Soisson'];Highlander:_Endgame;./data/scraping/texts/Highlander:_Endgame.txt
+Hills Have Eyes, The;['Horror', 'Thriller'];['Alexandre Aja', 'Gregory Levasseur'];Hills_Have_Eyes;./data/scraping/texts/Hills_Have_Eyes.txt
+His Girl Friday;['Comedy', 'Romance', 'Drama'];['Ben Hecht', 'Charles MacArthur'];His_Girl_Friday;./data/scraping/texts/His_Girl_Friday.txt
+Hitchcock;['Drama'];['John J. McLaughlin', 'Stephen Rebello'];Hitchcock;./data/scraping/texts/Hitchcock.txt
+Hitchhiker's Guide to the Galaxy, The;['Adventure', 'Comedy', 'Sci-Fi'];['Douglas Adams'];Hitchhiker's_Guide_to_the_Galaxy;./data/scraping/texts/Hitchhiker's_Guide_to_the_Galaxy.txt
+Hollow Man;['Horror', 'Sci-Fi', 'Thriller'];['Gary Scott Thompson', 'Andrew W. Marlowe'];Hollow_Man;./data/scraping/texts/Hollow_Man.txt
+Honeydripper;['Drama', 'Musical'];['John Sayles'];Honeydripper;./data/scraping/texts/Honeydripper.txt
+Horrible Bosses;['Comedy', 'Crime'];['Michael Markowitz'];Horrible_Bosses;./data/scraping/texts/Horrible_Bosses.txt
+Horse Whisperer, The;['Drama', 'Romance'];['Eric Roth'];Horse_Whisperer;./data/scraping/texts/Horse_Whisperer.txt
+Hospital, The;['Comedy', 'Drama'];['Paddy Chayefsky'];Hospital;./data/scraping/texts/Hospital.txt
+Hostage;['Action', 'Crime', 'Drama', 'Thriller'];['Robert Crais'];Hostage;./data/scraping/texts/Hostage.txt
+Hot Tub Time Machine;['Comedy', 'Sci-Fi'];['Josh Heald'];Hot_Tub_Time_Machine;./data/scraping/texts/Hot_Tub_Time_Machine.txt
+Hotel Rwanda;['Drama', 'Thriller', 'War'];['Keir Pearson', 'Terry George'];Hotel_Rwanda;./data/scraping/texts/Hotel_Rwanda.txt
+House of 1000 Corpses;['Horror'];['Rob Zombie'];House_of_1000_Corpses;./data/scraping/texts/House_of_1000_Corpses.txt
+How to Lose Friends & Alienate People;['Comedy', 'Romance'];['Peter Straughan'];How_to_Lose_Friends_&_Alienate_People;./data/scraping/texts/How_to_Lose_Friends_&_Alienate_People.txt
+How to Train Your Dragon;['Animation', 'Adventure', 'Comedy'];['Dean DeBlois', 'Chris Sanders'];How_to_Train_Your_Dragon;./data/scraping/texts/How_to_Train_Your_Dragon.txt
+How to Train Your Dragon 2;['Animation', 'Action', 'Adventure'];['Dean DeBlois', 'Cressida Cowell'];How_to_Train_Your_Dragon_2;./data/scraping/texts/How_to_Train_Your_Dragon_2.txt
+Hudson Hawk;['Action', 'Adventure', 'Comedy', 'Crime'];['Steven E. De Souza', 'Daniel Waters'];Hudson_Hawk;./data/scraping/texts/Hudson_Hawk.txt
+Hudsucker Proxy, The;['Comedy', 'Fantasy', 'Romance'];['Joel Coen', 'Ethan Coen', 'Sam Raimi'];Hudsucker_Proxy;./data/scraping/texts/Hudsucker_Proxy.txt
+Human Nature;['Comedy'];['Charlie Kaufman'];Human_Nature;./data/scraping/texts/Human_Nature.txt
+Hunt for Red October, The;['Action', 'Adventure', 'Thriller'];['Larry Ferguson', 'Tom Clancy'];Hunt_for_Red_October;./data/scraping/texts/Hunt_for_Red_October.txt
+Hurt Locker, The;['Drama', 'Thriller'];['Mark Boal', 'Kathryn Bigelow'];Hurt_Locker;./data/scraping/texts/Hurt_Locker.txt
+I Am Number Four;['Action', 'Sci-Fi', 'Thriller'];['Alfred Gough', 'Miles Millar'];I_Am_Number_Four;./data/scraping/texts/I_Am_Number_Four.txt
+I am Sam;['Drama'];['Kristine Johnson', 'Jessie Nelson'];I_am_Sam;./data/scraping/texts/I_am_Sam.txt
+I Love You Phillip Morris;['Comedy', 'Drama', 'Romance'];['Glenn Ficarra', 'John Requa'];I_Love_You_Phillip_Morris;./data/scraping/texts/I_Love_You_Phillip_Morris.txt
+I Spit on Your Grave;['Crime', 'Horror', 'Thriller'];['Adam Rockoff'];I_Spit_on_Your_Grave;./data/scraping/texts/I_Spit_on_Your_Grave.txt
+I Still Know What You Did Last Summer;['Horror', 'Mystery', 'Thriller'];['Trey Callaway'];I_Still_Know_What_You_Did_Last_Summer;./data/scraping/texts/I_Still_Know_What_You_Did_Last_Summer.txt
+I'll Do Anything;['Comedy', 'Drama'];['James L. Brooks'];I'll_Do_Anything;./data/scraping/texts/I'll_Do_Anything.txt
+I, Robot;['Action', 'Sci-Fi', 'Thriller'];['Hillary Seitz'];I;./data/scraping/texts/I.txt
+Ice Storm, The;['Drama'];['James Schamus'];Ice_Storm;./data/scraping/texts/Ice_Storm.txt
+Ides of March, The;['Drama'];['George Clooney', 'Grant Heslov', 'Beau Willimon'];Ides_of_March;./data/scraping/texts/Ides_of_March.txt
+Imaginarium of Doctor Parnassus, The;['Adventure', 'Fantasy', 'Mystery'];['Terry McKeown', 'Charles Gilliam'];Imaginarium_of_Doctor_Parnassus;./data/scraping/texts/Imaginarium_of_Doctor_Parnassus.txt
+In the Bedroom;['Crime', 'Drama'];['Robert Festinger', 'Todd Field'];In_the_Bedroom;./data/scraping/texts/In_the_Bedroom.txt
+In the Loop;['Comedy'];['Jesse Armstrong', 'Simon Blackwell', 'Armando Iannucci', 'Tony Roche'];In_the_Loop;./data/scraping/texts/In_the_Loop.txt
+Inception;['Action', 'Adventure', 'Mystery'];['Christopher Nolan'];Inception;./data/scraping/texts/Inception.txt
+Incredibles, The;['Animation', 'Family', 'Adventure', 'Action', 'Comedy', 'Sci-Fi'];['Brad Bird'];Incredibles;./data/scraping/texts/Incredibles.txt
+Independence Day;['Action', 'Sci-Fi'];['Dean Devlin', 'Roland Emmerich'];Independence_Day;./data/scraping/texts/Independence_Day.txt
+Indiana Jones and the Last Crusade;['Action', 'Adventure'];['George Lucas', 'Philip Kaufman', 'Menno Meyjes', 'Jeffrey Boam'];Indiana_Jones_and_the_Last_Crusade;./data/scraping/texts/Indiana_Jones_and_the_Last_Crusade.txt
+Indiana Jones and the Raiders of the Lost Ark;['Action', 'Adventure'];['George Lucas', 'Philip Kaufman', 'Lawrence Kasda'];Indiana_Jones_and_the_Raiders_of_the_Lost_Ark;./data/scraping/texts/Indiana_Jones_and_the_Raiders_of_the_Lost_Ark.txt
+Indiana Jones and the Temple of Doom;['Action', 'Adventure'];['George Lucas', 'Willard Huyck', 'Gloria Katz'];Indiana_Jones_and_the_Temple_of_Doom;./data/scraping/texts/Indiana_Jones_and_the_Temple_of_Doom.txt
+Indiana Jones IV;['Action', 'Adventure'];['Christopher Columbus'];Indiana_Jones_IV;./data/scraping/texts/Indiana_Jones_IV.txt
+Informant, The;['Comedy', 'Drama', 'Thriller'];['Scott Z. Burns', 'Kurt Eichenwald'];Informant;./data/scraping/texts/Informant.txt
+Inglourious Basterds;['Action', 'Adventure', 'War'];['Quentin Tarantino'];Inglourious_Basterds;./data/scraping/texts/Inglourious_Basterds.txt
+Insider, The;['Drama', 'Thriller'];['Eric Roth', 'Michael Mann'];Insider;./data/scraping/texts/Insider.txt
+Insidious;['Horror', 'Thriller'];['Leigh Whannell'];Insidious;./data/scraping/texts/Insidious.txt
+Insomnia;['Crime', 'Drama', 'Thriller'];['Hilary Seitz'];Insomnia;./data/scraping/texts/Insomnia.txt
+Interstellar;['Adventure', 'Drama', 'Sci-Fi'];['Jonathan Nolan'];Interstellar;./data/scraping/texts/Interstellar.txt
+Interview with the Vampire;['Drama', 'Horror'];['Anne Rice', 'Neil Jordan'];Interview_with_the_Vampire;./data/scraping/texts/Interview_with_the_Vampire.txt
+Into the Wild;['Adventure', 'Drama'];['Sean Penn', 'Jon Krakauer'];Into_the_Wild;./data/scraping/texts/Into_the_Wild.txt
+Into the Woods;['Adventure', 'Comedy', 'Drama'];['James Lapine', 'Stephen Sondheim'];Into_the_Woods;./data/scraping/texts/Into_the_Woods.txt
+Intolerable Cruelty;['Comedy', 'Romance', 'Crime'];['Matthew Stone', 'John Romano', 'Robert Ramsey', 'Ethan Coen', 'Joel Coen'];Intolerable_Cruelty;./data/scraping/texts/Intolerable_Cruelty.txt
+Inventing the Abbotts;['Drama', 'Romance'];['Ken Hixon'];Inventing_the_Abbotts;./data/scraping/texts/Inventing_the_Abbotts.txt
+Invention of Lying, The;['Comedy'];['Ricky Gervais', 'Matthew Robinson'];Invention_of_Lying;./data/scraping/texts/Invention_of_Lying.txt
+Invictus;['Drama'];['Anthony Peckham'];Invictus;./data/scraping/texts/Invictus.txt
+Iron Lady, The;['Drama'];['Abi Morgan'];Iron_Lady;./data/scraping/texts/Iron_Lady.txt
+Island, The;['Action', 'Drama', 'Sci-Fi', 'Thriller'];['Caspian Tredwell-Owen'];Island;./data/scraping/texts/Island.txt
+It;['Drama', 'Horror', 'Thriller'];['Chase Palmer', 'Cary Fukunaga'];It;./data/scraping/texts/It.txt
+It Happened One Night;['Romance', 'Comedy'];['Samuel Hopkins Adams', 'Robert Riskin'];It_Happened_One_Night;./data/scraping/texts/It_Happened_One_Night.txt
+It Happened One Night;['Romance', 'Comedy'];['Samuel Hopkins Adams', 'Robert Riskin'];It_Happened_One_Night;./data/scraping/texts/It_Happened_One_Night.txt
+It's a Wonderful Life;['Drama', 'Family', 'Fantasy', 'Romance'];['Frank Capra', 'Frances Goodrich', 'Albert Hackett', 'Jo Swerling'];It's_a_Wonderful_Life;./data/scraping/texts/It's_a_Wonderful_Life.txt
+It's Complicated;['Comedy', 'Romance'];['Nancy Meyers'];It's_Complicated;./data/scraping/texts/It's_Complicated.txt
+Italian Job, The;['Adventure', 'Action', 'Crime', 'Thriller'];['Donna Powers', 'Wayne Powers', 'Troy Kennedy-Martin'];Italian_Job;./data/scraping/texts/Italian_Job.txt
+Jacket, The;['Thriller', 'Drama', 'Fantasy'];['Marc Rocco', 'Tom Bleecker', 'Massy Tadjedin'];Jacket;./data/scraping/texts/Jacket.txt
+Jackie Brown;['Comedy', 'Crime'];['Quentin Tarantino'];Jackie_Brown;./data/scraping/texts/Jackie_Brown.txt
+Jacob's Ladder;['Drama', 'Thriller'];['Bruce Joel Rubin'];Jacob's_Ladder;./data/scraping/texts/Jacob's_Ladder.txt
+Jane Eyre;['Drama', 'Romance'];['Moira Buffini'];Jane_Eyre;./data/scraping/texts/Jane_Eyre.txt
+Jason X;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Todd Farmer'];Jason_X;./data/scraping/texts/Jason_X.txt
+Jaws;['Adventure', 'Horror', 'Thriller'];['Peter Benchley', 'Carl Gottlieb'];Jaws;./data/scraping/texts/Jaws.txt
+Jaws 2;['Horror', 'Thriller', 'Adventure'];['Carl Gottlieb', 'Howard Sackler'];Jaws_2;./data/scraping/texts/Jaws_2.txt
+Jay and Silent Bob Strike Back;['Adventure', 'Comedy'];['Kevin Smith'];Jay_and_Silent_Bob_Strike_Back;./data/scraping/texts/Jay_and_Silent_Bob_Strike_Back.txt
+Jennifer Eight;['Thriller', 'Mystery'];['Bruce Robinson'];Jennifer_Eight;./data/scraping/texts/Jennifer_Eight.txt
+Jennifer's Body;['Comedy', 'Horror', 'Thriller'];['Diablo Cody'];Jennifer's_Body;./data/scraping/texts/Jennifer's_Body.txt
+Jerry Maguire;['Comedy', 'Drama', 'Romance'];['Cameron Crowe'];Jerry_Maguire;./data/scraping/texts/Jerry_Maguire.txt
+Jeux Interdits;['Drama', 'War'];['Jean Aurenche', 'Pierre Bost', 'François Boyer', 'René Clément'];Jeux_Interdits;./data/scraping/texts/Jeux_Interdits.txt
+JFK;['Crime', 'Drama', 'Mystery', 'Thriller'];['Jim Marrs', 'Jim Garrison', 'Oliver Stone', 'Zachary Sklar'];JFK;./data/scraping/texts/JFK.txt
+Jimmy and Judy;['Action'];['Randall Rubin', 'Jon Schroder'];Jimmy_and_Judy;./data/scraping/texts/Jimmy_and_Judy.txt
+John Q;['Crime', 'Drama', 'Thriller'];['James Kearns'];John_Q;./data/scraping/texts/John_Q.txt
+John Wick;['Action', 'Crime', 'Thriller'];['Derek Kolstad'];John_Wick;./data/scraping/texts/John_Wick.txt
+Joker;['Crime', 'Drama', 'Thriller'];['Todd Phillips', 'Scott Silver'];Joker;./data/scraping/texts/Joker.txt
+Judge Dredd;['Action', 'Crime', 'Sci-Fi'];['Steven E. de Souza'];Judge_Dredd;./data/scraping/texts/Judge_Dredd.txt
+Juno;['Comedy', 'Drama', 'Romance'];['Diablo Cody'];Juno;./data/scraping/texts/Juno.txt
+Jurassic Park;['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller'];['David Koepp'];Jurassic_Park;./data/scraping/texts/Jurassic_Park.txt
+Jurassic Park III;['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller'];['Peter Buchman', 'Alexander Payne', 'John August', 'Jim Taylor'];Jurassic_Park_III;./data/scraping/texts/Jurassic_Park_III.txt
+Jurassic Park: The Lost World;['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller'];['David Koepp'];Jurassic_Park:_The_Lost_World;./data/scraping/texts/Jurassic_Park:_The_Lost_World.txt
+Kafka;['Drama'];['Lem Dobbs'];Kafka;./data/scraping/texts/Kafka.txt
+Kalifornia;['Crime', 'Thriller'];['Tim Metcalfe'];Kalifornia;./data/scraping/texts/Kalifornia.txt
+Kate & Leopold;['Romance', 'Fantasy', 'Comedy'];['James Mangold', 'Steven Rogers'];Kate_&_Leopold;./data/scraping/texts/Kate_&_Leopold.txt
+Kids;['Drama'];['Larry Clark', 'Harmony Korine'];Kids;./data/scraping/texts/Kids.txt
+Kids Are All Right, The;['Comedy', 'Drama'];['Lisa Cholodenko', 'Stuart Blumberg'];Kids_Are_All_Right;./data/scraping/texts/Kids_Are_All_Right.txt
+Kill Bill Volume 1 & 2;['Action', 'Comedy', 'Crime', 'Drama', 'Thriller'];['Quentin Tarantino'];Kill_Bill_Volume_1_&_2;./data/scraping/texts/Kill_Bill_Volume_1_&_2.txt
+Kill Your Darlings;['Drama', 'Romance'];['John Krokidas', 'Austin Bunn'];Kill_Your_Darlings;./data/scraping/texts/Kill_Your_Darlings.txt
+Killing Zoe;['Crime', 'Drama', 'Thriller'];['Roger Avary'];Killing_Zoe;./data/scraping/texts/Killing_Zoe.txt
+King Kong;['Action', 'Adventure', 'Drama', 'Mystery', 'Thriller'];['Fran Walsh', 'Philippa Boyens', 'Peter Jackson'];King_Kong;./data/scraping/texts/King_Kong.txt
+King of Comedy, The;['Comedy', 'Crime', 'Drama'];['Paul D. Zimmerman'];King_of_Comedy;./data/scraping/texts/King_of_Comedy.txt
+King's Speech, The;['Drama'];['David Seidler'];King's_Speech;./data/scraping/texts/King's_Speech.txt
+Kingdom, The;['Action', 'Drama', 'Thriller'];['Matthew Michael Carnahan'];Kingdom;./data/scraping/texts/Kingdom.txt
+Klute;['Crime', 'Drama', 'Mystery', 'Thriller'];['Andy Lewis', 'David Lewis'];Klute;./data/scraping/texts/Klute.txt
+Knocked Up;['Comedy', 'Drama', 'Romance'];['Judd Apatow'];Knocked_Up;./data/scraping/texts/Knocked_Up.txt
+Kramer vs Kramer;['Drama'];['Robert Benton'];Kramer_vs_Kramer;./data/scraping/texts/Kramer_vs_Kramer.txt
+Kundun;['Drama'];['Melissa Mathison'];Kundun;./data/scraping/texts/Kundun.txt
+Kung Fu Panda;['Animation', 'Action', 'Comedy', 'Family'];['Jonathan Aibel', 'Glenn Berger'];Kung_Fu_Panda;./data/scraping/texts/Kung_Fu_Panda.txt
+L.A. Confidential;['Crime', 'Drama', 'Mystery', 'Thriller'];['Brian Helgeland'];L;./data/scraping/texts/L.txt
+La La Land;['Comedy', 'Drama', 'Musical'];['Damien Chazelle'];La_La_Land;./data/scraping/texts/La_La_Land.txt
+Labor of Love;['Drama', 'Romance'];['M. Night Shyamalan'];Labor_of_Love;./data/scraping/texts/Labor_of_Love.txt
+Labyrinth;['Family', 'Fantasy', 'Adventure', 'Musical'];['Dennis Lee', 'Jim Henson', 'Terry Jones', 'Elaine May'];Labyrinth;./data/scraping/texts/Labyrinth.txt
+Ladykillers, The;['Comedy', 'Crime'];['William Rose', 'Joel Coen', 'Ethan Coen'];Ladykillers;./data/scraping/texts/Ladykillers.txt
+Lake Placid;['Action', 'Comedy', 'Horror', 'Thriller'];['David E Kelley'];Lake_Placid;./data/scraping/texts/Lake_Placid.txt
+Land of the Dead;['Action', 'Horror', 'Thriller'];['George A. Romero'];Land_of_the_Dead;./data/scraping/texts/Land_of_the_Dead.txt
+Larry Crowne;['Comedy', 'Drama', 'Romance'];['Tom Hanks'];Larry_Crowne;./data/scraping/texts/Larry_Crowne.txt
+Last Boy Scout, The;['Action', 'Thriller'];['Shane Black'];Last_Boy_Scout;./data/scraping/texts/Last_Boy_Scout.txt
+Last Chance Harvey;['Drama', 'Romance'];['Joel Hopkins'];Last_Chance_Harvey;./data/scraping/texts/Last_Chance_Harvey.txt
+Last Flight, The;['Drama'];['John Monk Saunders'];Last_Flight;./data/scraping/texts/Last_Flight.txt
+Last of the Mohicans, The;['Adventure', 'Romance', 'War'];['Michael Mann', 'Christopher Crowe'];Last_of_the_Mohicans;./data/scraping/texts/Last_of_the_Mohicans.txt
+Last Samurai, The;['Action', 'Adventure', 'Drama', 'War'];['John Logan', 'Edward Zwick', 'Marshall Herskovitz'];Last_Samurai;./data/scraping/texts/Last_Samurai.txt
+Last Station, The;['Drama', 'History'];['Michael Hoffman', 'Jan Parini'];Last_Station;./data/scraping/texts/Last_Station.txt
+Last Tango in Paris;['Drama', 'Romance'];['Bernardo Bertolucci', 'Franco Arcalli'];Last_Tango_in_Paris;./data/scraping/texts/Last_Tango_in_Paris.txt
+Law Abiding Citizen;['Crime', 'Drama', 'Thriller'];['Frank Darabont', 'Kurt Wimmer'];Law_Abiding_Citizen;./data/scraping/texts/Law_Abiding_Citizen.txt
+Le Diable par la Queue;['Comedy'];['Daniel Boulanger', 'Claude Sautet'];Le_Diable_par_la_Queue;./data/scraping/texts/Le_Diable_par_la_Queue.txt
+Leaving Las Vegas;['Drama', 'Romance'];['Mike Figgis', "John O'Brian"];Leaving_Las_Vegas;./data/scraping/texts/Leaving_Las_Vegas.txt
+Legally Blonde;['Comedy'];['Karen McCullah Lutz', 'Kirsten Smith'];Legally_Blonde;./data/scraping/texts/Legally_Blonde.txt
+Legend;['Fantasy', 'Adventure', 'Romance'];['William Hjortsberg'];Legend;./data/scraping/texts/Legend.txt
+Legion;['Action', 'Fantasy', 'Horror', 'Thriller'];['Peter Schink', 'Scott Stewart'];Legion;./data/scraping/texts/Legion.txt
+LEGO Movie, The;['Animation', 'Action', 'Adventure'];['Chris Miller', 'Phil Lord'];LEGO_Movie;./data/scraping/texts/LEGO_Movie.txt
+Les Miserables;['Drama', 'Musical', 'Romance'];['William Nicholson', 'Alain Boublil', 'Claude- Michel Schonberg', 'Herbert Kretzmer'];Les_Miserables;./data/scraping/texts/Les_Miserables.txt
+Les Tontons Flingueurs;['Action', 'Comedy', 'Crime'];['Michel Audiard', 'Georges Lautner', 'Albert Simonin'];Les_Tontons_Flingueurs;./data/scraping/texts/Les_Tontons_Flingueurs.txt
+Leviathan;['Horror', 'Sci-Fi', 'Thriller'];['David Peoples', 'Jeb Stuart'];Leviathan;./data/scraping/texts/Leviathan.txt
+Liar Liar;['Comedy', 'Fantasy'];['Tom Shadyac', 'Mike Binder'];Liar_Liar;./data/scraping/texts/Liar_Liar.txt
+Life;['Comedy', 'Drama'];['Robert Ramsey', 'Matthew Stone'];Life;./data/scraping/texts/Life.txt
+Life As A House;['Comedy', 'Drama'];['Mark Andrus'];Life_As_A_House;./data/scraping/texts/Life_As_A_House.txt
+Life of David Gale, The;['Drama', 'Crime', 'Thriller'];['Charles Randolph'];Life_of_David_Gale;./data/scraping/texts/Life_of_David_Gale.txt
+Life of Pi;['Adventure', 'Drama'];['David Magee', 'Yann Martel'];Life_of_Pi;./data/scraping/texts/Life_of_Pi.txt
+Light Sleeper;['Drama'];['Paul Schrader'];Light_Sleeper;./data/scraping/texts/Light_Sleeper.txt
+Limey, The;['Crime', 'Drama'];['Lem Dobbs'];Limey;./data/scraping/texts/Limey.txt
+Limitless;['Mystery', 'Sci-Fi', 'Thriller'];['Leslie Dixon'];Limitless;./data/scraping/texts/Limitless.txt
+Lincoln;['Drama', 'History'];['Tony Kushner'];Lincoln;./data/scraping/texts/Lincoln.txt
+Lincoln Lawyer, The;['Crime', 'Drama', 'Thriller'];['John Romano', 'Michael Connelly'];Lincoln_Lawyer;./data/scraping/texts/Lincoln_Lawyer.txt
+Little Athens;['Comedy', 'Drama'];['Jeff Zuber', 'Tom Zuber'];Little_Athens;./data/scraping/texts/Little_Athens.txt
+Little Men;['Drama'];['Ira Sachs', 'Mauricio Zacharias'];Little_Men;./data/scraping/texts/Little_Men.txt
+Little Mermaid, The;['Family', 'Animation', 'Comedy', 'Musical', 'Romance', 'Fantasy'];['Roger Allers', 'Hans Christian Andersen', 'Howard Ashman', 'Ron Clements', 'John Musker'];Little_Mermaid;./data/scraping/texts/Little_Mermaid.txt
+Little Nicky;['Comedy', 'Fantasy', 'Horror'];['Tim Herlihy', 'Adam Sandler', 'Steven Brill'];Little_Nicky;./data/scraping/texts/Little_Nicky.txt
+Living in Oblivion;['Comedy', 'Drama'];['Tom DiCillo'];Living_in_Oblivion;./data/scraping/texts/Living_in_Oblivion.txt
+Lock, Stock and Two Smoking Barrels;['Crime', 'Thriller', 'Comedy'];['Guy Ritchie'];Lock;./data/scraping/texts/Lock.txt
+Logan;['Action', 'Drama', 'Sci-Fi'];['Scott Frank', 'James Mangold', 'Michael Green'];Logan;./data/scraping/texts/Logan.txt
+Logan's Run;['Action', 'Adventure', 'Sci-Fi'];['David Zelgan Goodman'];Logan's_Run;./data/scraping/texts/Logan's_Run.txt
+Lone Star;['Crime', 'Drama', 'Mystery'];['John Sayles'];Lone_Star;./data/scraping/texts/Lone_Star.txt
+Long Kiss Goodnight, The;['Action', 'Thriller', 'Drama'];['Shane Black'];Long_Kiss_Goodnight;./data/scraping/texts/Long_Kiss_Goodnight.txt
+Looper;['Action', 'Crime', 'Sci-Fi'];['Rian Johnson'];Looper;./data/scraping/texts/Looper.txt
+Lord of Illusions;['Fantasy', 'Horror', 'Thriller'];['Clive Barker'];Lord_of_Illusions;./data/scraping/texts/Lord_of_Illusions.txt
+Lord of the Rings: Fellowship of the Ring, The;['Action', 'Adventure', 'Fantasy'];['Frances Walsh', 'Philippa Boyens', 'Peter Jackson'];Lord_of_the_Rings:_Fellowship_of_the_Ring;./data/scraping/texts/Lord_of_the_Rings:_Fellowship_of_the_Ring.txt
+Lord of the Rings: Return of the King;['Action', 'Adventure', 'Fantasy'];['Peter Jackson', 'Fran Walsh', 'Philippa Boyens'];Lord_of_the_Rings:_Return_of_the_King;./data/scraping/texts/Lord_of_the_Rings:_Return_of_the_King.txt
+Lord of the Rings: The Two Towers;['Action', 'Adventure', 'Fantasy'];['Peter Jackson', 'Fran Walsh', 'Philippa Boyens'];Lord_of_the_Rings:_The_Two_Towers;./data/scraping/texts/Lord_of_the_Rings:_The_Two_Towers.txt
+Lord of War;['Crime', 'Drama', 'Thriller'];['Andrew Niccol'];Lord_of_War;./data/scraping/texts/Lord_of_War.txt
+Losers, The;['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller'];['Peter Berg', 'James Vanderbilt'];Losers;./data/scraping/texts/Losers.txt
+Lost Highway;['Drama', 'Mystery', 'Thriller', 'Horror'];['David Lynch', 'Barry Gifford'];Lost_Highway;./data/scraping/texts/Lost_Highway.txt
+Lost Horizon;['Adventure', 'Fantasy', 'Sci-Fi', 'Drama', 'Mystery'];['James Hilton', 'Robert Riskin'];Lost_Horizon;./data/scraping/texts/Lost_Horizon.txt
+Lost in Space;['Action', 'Adventure', 'Sci-Fi'];['Irwin Allen', 'Akiva Goldsman'];Lost_in_Space;./data/scraping/texts/Lost_in_Space.txt
+Lost in Translation;['Comedy', 'Drama', 'Romance'];['Sofia Coppola'];Lost_in_Translation;./data/scraping/texts/Lost_in_Translation.txt
+Love and Basketball;['Drama', 'Romance'];['Gina Prince-Bythewood'];Love_and_Basketball;./data/scraping/texts/Love_and_Basketball.txt
+Machete;['Action', 'Thriller'];['Robert Rodriguez'];Machete;./data/scraping/texts/Machete.txt
+Machine Gun Preacher;['Action', 'Crime'];['Jason Keller'];Machine_Gun_Preacher;./data/scraping/texts/Machine_Gun_Preacher.txt
+Mad Max 2: The Road Warrior;['Action', 'Adventure', 'Sci-Fi'];['Terry Hayes', 'George Miller', 'Brian Hannant'];Mad_Max_2:_The_Road_Warrior;./data/scraping/texts/Mad_Max_2:_The_Road_Warrior.txt
+Made;['Comedy', 'Crime', 'Drama'];['Jon Favreau'];Made;./data/scraping/texts/Made.txt
+Magnolia;['Drama'];['Paul Thomas Anderson'];Magnolia;./data/scraping/texts/Magnolia.txt
+Majestic, The (The Bijou);['Drama', 'Romance'];['Michael Slone'];Majestic;./data/scraping/texts/Majestic.txt
+Major League;['Comedy'];['David S. Ward'];Major_League;./data/scraping/texts/Major_League.txt
+Malcolm X;['Drama'];['Spike Lee', 'Arnold Perl'];Malcolm_X;./data/scraping/texts/Malcolm_X.txt
+Malibu's Most Wanted;['Comedy'];['Fax Bahr', 'Adam Small', 'Jamie Kennedy', 'Nick Swardson'];Malibu's_Most_Wanted;./data/scraping/texts/Malibu's_Most_Wanted.txt
+Man in the Iron Mask;['Action', 'Adventure', 'Drama'];['Randall Wallace'];Man_in_the_Iron_Mask;./data/scraping/texts/Man_in_the_Iron_Mask.txt
+Man On Fire;['Action', 'Crime', 'Drama', 'Thriller'];['Brian Helgeland'];Man_On_Fire;./data/scraping/texts/Man_On_Fire.txt
+Man on the Moon;['Comedy', 'Drama'];['Scott Alexander', 'Larry Karaszewski'];Man_on_the_Moon;./data/scraping/texts/Man_on_the_Moon.txt
+Man Trouble;['Comedy', 'Romance'];['Carole Eastman'];Man_Trouble;./data/scraping/texts/Man_Trouble.txt
+Man Who Knew Too Much, The;['Adventure', 'Drama', 'Thriller'];['John Michael Hayes'];Man_Who_Knew_Too_Much;./data/scraping/texts/Man_Who_Knew_Too_Much.txt
+Man Who Wasn't There, The;['Comedy', 'Drama', 'Crime'];['Joel Coen', 'Ethan Coen'];Man_Who_Wasn't_There;./data/scraping/texts/Man_Who_Wasn't_There.txt
+Manchurian Candidate, The;['Thriller', 'Mystery', 'Sci-Fi'];['Richard Condon', 'George Axelrod', 'Dean Georgaris'];Manchurian_Candidate;./data/scraping/texts/Manchurian_Candidate.txt
+Manhattan Murder Mystery;['Comedy', 'Crime', 'Mystery'];['Woody Allen', 'Marshall Brickman'];Manhattan_Murder_Mystery;./data/scraping/texts/Manhattan_Murder_Mystery.txt
+Manhunter;['Drama', 'Thriller', 'Horror'];['Thomas Harris', 'Michael Mann'];Manhunter;./data/scraping/texts/Manhunter.txt
+Margaret;['Drama'];['Kenneth Lonergan'];Margaret;./data/scraping/texts/Margaret.txt
+Margin Call;['Drama', 'Thriller'];['J.C. Chandor'];Margin_Call;./data/scraping/texts/Margin_Call.txt
+Margot at the Wedding;['Comedy', 'Drama'];['Noah Baumbach'];Margot_at_the_Wedding;./data/scraping/texts/Margot_at_the_Wedding.txt
+Mariachi, El;['Action', 'Crime', 'Thriller', 'Western'];['Robert Rodriguez'];Mariachi;./data/scraping/texts/Mariachi.txt
+Marley & Me;['Comedy', 'Drama', 'Family', 'Romance'];['Don Roos'];Marley_&_Me;./data/scraping/texts/Marley_&_Me.txt
+Martha Marcy May Marlene;['Drama', 'Thriller'];['Sean Durkin'];Martha_Marcy_May_Marlene;./data/scraping/texts/Martha_Marcy_May_Marlene.txt
+Martian, The;['Adventure', 'Drama', 'Sci-Fi'];['Drew Goddard'];Martian;./data/scraping/texts/Martian.txt
+Marty;['Drama', 'Romance'];['Paddy Chayefsky'];Marty;./data/scraping/texts/Marty.txt
+Mary Poppins;['Family', 'Comedy', 'Musical', 'Fantasy', 'Drama', 'Animation'];['Bill Walsh', 'Don DaGradi'];Mary_Poppins;./data/scraping/texts/Mary_Poppins.txt
+Mask, The;['Action', 'Comedy', 'Crime', 'Drama', 'Fantasy', 'Romance'];['Mark Verheiden'];Mask;./data/scraping/texts/Mask.txt
+Master and Commander;['Action', 'Adventure', 'Drama'];['John Collee', 'Peter Weir'];Master_and_Commander;./data/scraping/texts/Master_and_Commander.txt
+Master, The;['Drama'];['Paul Thomas Anderson'];Master;./data/scraping/texts/Master.txt
+Matrix Reloaded, The;['Sci-Fi', 'Action', 'Thriller'];['Andy Wachowski', 'Larry Wachowski'];Matrix_Reloaded;./data/scraping/texts/Matrix_Reloaded.txt
+Matrix, The;['Action', 'Sci-Fi', 'Thriller'];['Larry Wachowski', 'Andy Wachowski'];Matrix;./data/scraping/texts/Matrix.txt
+Max Payne;['Action', 'Crime', 'Drama', 'Thriller'];['Beau Michael Thorne'];Max_Payne;./data/scraping/texts/Max_Payne.txt
+Mean Streets;['Crime', 'Drama'];['Martin Scorsese', 'Mardik Martin', 'Ethan Edwards'];Mean_Streets;./data/scraping/texts/Mean_Streets.txt
+Mechanic, The;['Action', 'Crime', 'Thriller'];['Karl Gajdusek', 'Lewis John Carlino'];Mechanic;./data/scraping/texts/Mechanic.txt
+Meet Joe Black;['Fantasy', 'Mystery', 'Romance', 'Drama'];['Bo Goldman', 'Ron Osborn', 'Jeff Reno', 'Kevin Wade'];Meet_Joe_Black;./data/scraping/texts/Meet_Joe_Black.txt
+Meet John Doe;['Comedy', 'Drama'];['Richard Connell', 'Robert Presnell Sr.'];Meet_John_Doe;./data/scraping/texts/Meet_John_Doe.txt
+Megamind;['Animation', 'Action', 'Comedy', 'Family', 'Sci-Fi'];['Alan Schoolcraft', 'Brent Simons'];Megamind;./data/scraping/texts/Megamind.txt
+Memento;['Drama', 'Mystery', 'Thriller'];['Christopher Nolan', 'Jonathan Nolan'];Memento;./data/scraping/texts/Memento.txt
+Men in Black;['Action', 'Comedy', 'Sci-Fi'];['Lowell Cunningham', 'Ed Solomon'];Men_in_Black;./data/scraping/texts/Men_in_Black.txt
+Men in Black 3;['Action', 'Comedy', 'Sci-Fi'];['Etan Cohen', 'Lowell Cunningham'];Men_in_Black_3;./data/scraping/texts/Men_in_Black_3.txt
+Men Who Stare at Goats, The;['Comedy', 'War'];['Peter Straughan', 'Jon Ronson'];Men_Who_Stare_at_Goats;./data/scraping/texts/Men_Who_Stare_at_Goats.txt
+Metro;['Action', 'Thriller', 'Drama'];['Randy Feldman'];Metro;./data/scraping/texts/Metro.txt
+Miami Vice;['Action', 'Crime', 'Drama', 'Thriller'];['Michael Mann', 'Anthony Yerkovich'];Miami_Vice;./data/scraping/texts/Miami_Vice.txt
+Midnight Cowboy;['Drama'];['James Leo Herlihy', 'Waldo Salt'];Midnight_Cowboy;./data/scraping/texts/Midnight_Cowboy.txt
+Midnight Express;['Crime', 'Drama', 'Thriller'];['Oliver Stone', 'Billy Hayes', 'William Hoffer'];Midnight_Express;./data/scraping/texts/Midnight_Express.txt
+Midnight in Paris;['Comedy', 'Fantasy', 'Romance'];['Woody Allen'];Midnight_in_Paris;./data/scraping/texts/Midnight_in_Paris.txt
+Mighty Joe Young;['Action', 'Adventure', 'Family'];['Mark Rosenthal', 'Lawrence Konner', 'Ruth Rose'];Mighty_Joe_Young;./data/scraping/texts/Mighty_Joe_Young.txt
+Mighty Morphin Power Rangers: The Movie;['Family', 'Action'];['John Kamps', 'Arne Olsen'];Mighty_Morphin_Power_Rangers:_The_Movie;./data/scraping/texts/Mighty_Morphin_Power_Rangers:_The_Movie.txt
+Milk;['Drama'];['Dustin Lance Black'];Milk;./data/scraping/texts/Milk.txt
+Miller's Crossing;['Crime', 'Drama', 'Thriller'];['Joel Coen', 'Ethan Coen'];Miller's_Crossing;./data/scraping/texts/Miller's_Crossing.txt
+Mimic;['Horror', 'Sci-Fi', 'Thriller'];['Matt Greenberg', 'Guillermo del Toro'];Mimic;./data/scraping/texts/Mimic.txt
+Mini's First Time;['Comedy', 'Crime', 'Drama'];['Nick Guthe'];Mini's_First_Time;./data/scraping/texts/Mini's_First_Time.txt
+Minority Report;['Action', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller'];['Scott Frank'];Minority_Report;./data/scraping/texts/Minority_Report.txt
+Miracle Worker, The;['Drama'];['William Gibson'];Miracle_Worker;./data/scraping/texts/Miracle_Worker.txt
+Mirrors;['Horror', 'Mystery', 'Thriller'];['Alexandre Aja', 'Gregory Levasseur'];Mirrors;./data/scraping/texts/Mirrors.txt
+Misery;['Drama', 'Horror', 'Thriller'];['William Goldman'];Misery;./data/scraping/texts/Misery.txt
+Mission Impossible;['Action', 'Adventure', 'Thriller'];['Robert Towne'];Mission_Impossible;./data/scraping/texts/Mission_Impossible.txt
+Mission Impossible II;['Action', 'Adventure', 'Mystery', 'Thriller'];['Robert Towne'];Mission_Impossible_II;./data/scraping/texts/Mission_Impossible_II.txt
+Mission to Mars;['Drama', 'Sci-Fi', 'Thriller', 'Adventure'];['Lowell Cannon', 'Jim Thomas', 'John Thomas', 'Graham Yost'];Mission_to_Mars;./data/scraping/texts/Mission_to_Mars.txt
+Moneyball;['Drama'];['Steven Zaillian', 'Aaron Sorkin'];Moneyball;./data/scraping/texts/Moneyball.txt
+Monkeybone;['Animation', 'Fantasy', 'Comedy'];['Sam Hamm', 'Kaja Blackley', 'Vanessa Chong'];Monkeybone;./data/scraping/texts/Monkeybone.txt
+Monte Carlo;['Adventure', 'Comedy', 'Romance'];['Ron Bass'];Monte_Carlo;./data/scraping/texts/Monte_Carlo.txt
+Moon;['Drama', 'Mystery', 'Sci-Fi', 'Thriller'];['Duncan Jones', 'Nathan Parker'];Moon;./data/scraping/texts/Moon.txt
+Moonrise Kingdom;['Comedy', 'Drama', 'Romance'];['Wes Anderson', 'Roman Coppola'];Moonrise_Kingdom;./data/scraping/texts/Moonrise_Kingdom.txt
+Moonstruck;['Comedy', 'Romance', 'Drama'];['John Patrick Shanley'];Moonstruck;./data/scraping/texts/Moonstruck.txt
+Mr Blandings Builds His Dream House;['Comedy'];['Melvin Frank', 'Norman Panama'];Mr_Blandings_Builds_His_Dream_House;./data/scraping/texts/Mr_Blandings_Builds_His_Dream_House.txt
+Mr Brooks;['Crime', 'Drama', 'Thriller'];['Bruce A. Evans', 'Raynold Gideon'];Mr_Brooks;./data/scraping/texts/Mr_Brooks.txt
+Mr Deeds Goes to Town;['Comedy'];['Clarence Budington Kelland', 'Robert Riskin'];Mr_Deeds_Goes_to_Town;./data/scraping/texts/Mr_Deeds_Goes_to_Town.txt
+Mrs. Brown;['Drama', 'Romance'];['Jeremy Brock'];Mrs;./data/scraping/texts/Mrs.txt
+Mud;['Drama'];['Jeff Nichols'];Mud;./data/scraping/texts/Mud.txt
+Mulan;['Family', 'Animation', 'Comedy', 'Musical', 'Adventure'];['Robert D. San Souci'];Mulan;./data/scraping/texts/Mulan.txt
+Mulholland Drive;['Drama', 'Horror', 'Mystery', 'Romance', 'Thriller'];['David Lynch'];Mulholland_Drive;./data/scraping/texts/Mulholland_Drive.txt
+Mumford;['Comedy', 'Drama'];['Lawrence Kasdan'];Mumford;./data/scraping/texts/Mumford.txt
+Mummy, The;['Adventure', 'Action', 'Fantasy', 'Horror'];['Nina Wilcox Putnam', 'Richard Schayer', 'John L. Balderston', 'Stephen Sommers', 'Lloyd Fonvielle', 'Kevin Jarre'];Mummy;./data/scraping/texts/Mummy.txt
+Music of the Heart;['Drama'];['Pamela Gray'];Music_of_the_Heart;./data/scraping/texts/Music_of_the_Heart.txt
+Mute Witness;['Horror', 'Thriller'];['Anthony Waller'];Mute_Witness;./data/scraping/texts/Mute_Witness.txt
+My Best Friend's Wedding;['Comedy', 'Romance'];['Ronald Bass'];My_Best_Friend's_Wedding;./data/scraping/texts/My_Best_Friend's_Wedding.txt
+My Girl;['Comedy', 'Drama', 'Family', 'Romance'];['Laurice Elehwany'];My_Girl;./data/scraping/texts/My_Girl.txt
+My Mother Dreams the Satan's Disciples in New York;['Short'];['Rex Pickett'];My_Mother_Dreams_the_Satan's_Disciples_in_New_York;./data/scraping/texts/My_Mother_Dreams_the_Satan's_Disciples_in_New_York.txt
+My Week with Marilyn;['Drama'];['Adrian Hodges'];My_Week_with_Marilyn;./data/scraping/texts/My_Week_with_Marilyn.txt
+Mystery Men;['Action', 'Comedy', 'Fantasy'];['Neil Cuthbert'];Mystery_Men;./data/scraping/texts/Mystery_Men.txt
+Napoleon Dynamite;['Comedy'];['Jared Hess', 'Jerusha Hess'];Napoleon_Dynamite;./data/scraping/texts/Napoleon_Dynamite.txt
+Nashville;['Drama', 'Musical'];['Joan Tewksbury'];Nashville;./data/scraping/texts/Nashville.txt
+Natural Born Killers;['Action', 'Crime', 'Romance', 'Thriller'];['Quentin Tarantino', 'David Veloz', 'Richard Rutowski', 'Oliver Stone'];Natural_Born_Killers;./data/scraping/texts/Natural_Born_Killers.txt
+Never Been Kissed;['Comedy', 'Romance'];['Jerry Bicks', 'Abby Kohn', 'Marc Silverstein'];Never_Been_Kissed;./data/scraping/texts/Never_Been_Kissed.txt
+Neverending Story, The;['Fantasy', 'Adventure', 'Family'];['Michael Ende', 'Wolfgang Petersen', 'Herman Weigel'];Neverending_Story;./data/scraping/texts/Neverending_Story.txt
+New York Minute;['Action', 'Adventure', 'Comedy', 'Family'];['Emily Fox'];New_York_Minute;./data/scraping/texts/New_York_Minute.txt
+Newsies;['Family', 'Musical'];['Bob Tzudiker', 'Noni White', 'David Fallon', 'Tom Rickman'];Newsies;./data/scraping/texts/Newsies.txt
+Next;['Action', 'Sci-Fi', 'Thriller'];['Gary Goldman'];Next;./data/scraping/texts/Next.txt
+Next Friday;['Comedy'];['Ice Cube'];Next_Friday;./data/scraping/texts/Next_Friday.txt
+Next Three Days, The;['Crime', 'Drama', 'Romance', 'Thriller'];['Paul Haggis'];Next_Three_Days;./data/scraping/texts/Next_Three_Days.txt
+Ni vu ni connu;['Comedy'];['Alphonse Allais', 'Jacques Celhay', 'Jean Marsan', 'Yves Robert'];Ni_vu_ni_connu;./data/scraping/texts/Ni_vu_ni_connu.txt
+Nick of Time;['Crime', 'Drama', 'Thriller'];['Patrick Duncan', 'Ebbe Roe Smith'];Nick_of_Time;./data/scraping/texts/Nick_of_Time.txt
+Night Time (The Poltergeist Treatment);['Horror'];['Steven Spielberg'];Night_Time_(The_Poltergeist_Treatment);./data/scraping/texts/Night_Time_(The_Poltergeist_Treatment).txt
+Nightbreed;['Action', 'Fantasy', 'Horror'];['Clive Barker'];Nightbreed;./data/scraping/texts/Nightbreed.txt
+Nightmare Before Christmas, The;['Animation', 'Comedy', 'Fantasy', 'Horror', 'Musical'];['Caroline Thompson'];Nightmare_Before_Christmas;./data/scraping/texts/Nightmare_Before_Christmas.txt
+Nightmare Before Christmas, The;['Animation', 'Comedy', 'Fantasy', 'Horror', 'Musical'];['Caroline Thompson'];Nightmare_Before_Christmas;./data/scraping/texts/Nightmare_Before_Christmas.txt
+Nightmare on Elm Street, A;['Comedy', 'Horror', 'Mystery'];['Wes Craven'];Nightmare_on_Elm_Street;./data/scraping/texts/Nightmare_on_Elm_Street.txt
+Nightmare on Elm Street: The Final Chapter;['Comedy', 'Horror', 'Mystery'];['Wes Craven', 'Rachel Talalay'];Nightmare_on_Elm_Street:_The_Final_Chapter;./data/scraping/texts/Nightmare_on_Elm_Street:_The_Final_Chapter.txt
+Nine;['Drama', 'Musical', 'Romance'];['Michael Tolkin', 'Anthony Minghella'];Nine;./data/scraping/texts/Nine.txt
+Nines, The;['Drama', 'Horror', 'Mystery', 'Thriller'];['John August'];Nines;./data/scraping/texts/Nines.txt
+Ninja Assassin;['Action', 'Crime', 'Drama', 'Thriller'];['Matthew Sand', 'J. Michael Straczynski'];Ninja_Assassin;./data/scraping/texts/Ninja_Assassin.txt
+Ninotchka;['Comedy', 'Romance'];['Melchior Lengyel', 'Charles Brackett', 'Billy Wilder', 'Walter Reisch'];Ninotchka;./data/scraping/texts/Ninotchka.txt
+Ninth Gate, The;['Horror', 'Thriller', 'Mystery'];['Arturo Pérez-Reverte', 'John Brownjohn', 'Enrique Urbizu', 'Roman Polanski'];Ninth_Gate;./data/scraping/texts/Ninth_Gate.txt
+No Country for Old Men;['Crime', 'Drama', 'Thriller'];['Ethan Coen', 'Joel Coen'];No_Country_for_Old_Men;./data/scraping/texts/No_Country_for_Old_Men.txt
+No Strings Attached;['Comedy', 'Romance'];['Elizabeth Meriwether'];No_Strings_Attached;./data/scraping/texts/No_Strings_Attached.txt
+Notting Hill;['Comedy', 'Romance', 'Drama'];['Richard Curtis'];Notting_Hill;./data/scraping/texts/Notting_Hill.txt
+Nurse Betty;['Comedy', 'Thriller'];['John C. Richards', 'James Flamberg'];Nurse_Betty;./data/scraping/texts/Nurse_Betty.txt
+Observe and Report;['Comedy', 'Crime', 'Drama'];['Jody Hill'];Observe_and_Report;./data/scraping/texts/Observe_and_Report.txt
+Obsessed;['Drama', 'Thriller'];['David Loughery'];Obsessed;./data/scraping/texts/Obsessed.txt
+Ocean's Eleven;['Comedy', 'Thriller', 'Crime'];['Ted Griffin', 'George Clayton Johnson', 'Jack Golden Russell', 'Harry Brown', 'Charles Lederer'];Ocean's_Eleven;./data/scraping/texts/Ocean's_Eleven.txt
+Ocean's Twelve;['Comedy', 'Crime', 'Thriller'];['George Nolfi'];Ocean's_Twelve;./data/scraping/texts/Ocean's_Twelve.txt
+Office Space;['Comedy'];['Mike Judge'];Office_Space;./data/scraping/texts/Office_Space.txt
+Only God Forgives;['Crime', 'Drama', 'Thriller'];['Nicolas Winding Refn'];Only_God_Forgives;./data/scraping/texts/Only_God_Forgives.txt
+Ordinary People;['Drama'];['Alvin Sargent', 'Judith Guest'];Ordinary_People;./data/scraping/texts/Ordinary_People.txt
+Orgy of the Dead;['Fantasy', 'Horror'];['Ed Wood'];Orgy_of_the_Dead;./data/scraping/texts/Orgy_of_the_Dead.txt
+Orphan;['Drama', 'Horror', 'Mystery'];['David Leslie Johnson'];Orphan;./data/scraping/texts/Orphan.txt
+Other Boleyn Girl, The;['Drama', 'History', 'Romance'];['Peter Morgan', 'Philippa Gregory'];Other_Boleyn_Girl;./data/scraping/texts/Other_Boleyn_Girl.txt
+Out of Sight;['Comedy', 'Crime', 'Drama', 'Romance', 'Thriller'];['Scott Frank'];Out_of_Sight;./data/scraping/texts/Out_of_Sight.txt
+Pacifier, The;['Comedy', 'Action', 'Family', 'Thriller'];['Thomas Lennon', 'Robert Ben Garant', 'Jason Fulardi'];Pacifier;./data/scraping/texts/Pacifier.txt
+Pandorum;['Action', 'Horror', 'Sci-Fi'];['Travis Milloy'];Pandorum;./data/scraping/texts/Pandorum.txt
+ParaNorman;['Animation', 'Adventure', 'Comedy'];['Chris Butler'];ParaNorman;./data/scraping/texts/ParaNorman.txt
+Pariah;['Drama'];['Dee Rees'];Pariah;./data/scraping/texts/Pariah.txt
+Passengers;['Drama', 'Romance', 'Sci-Fi'];['Jon Spaihts'];Passengers;./data/scraping/texts/Passengers.txt
+Passion of Joan of Arc, The;['Drama'];['Joseph Delteil', 'Carl Theodor Dreyer'];Passion_of_Joan_of_Arc;./data/scraping/texts/Passion_of_Joan_of_Arc.txt
+Patriot, The;['Action', 'Drama', 'War'];['Robert Rodat'];Patriot;./data/scraping/texts/Patriot.txt
+Paul;['Adventure', 'Comedy', 'Sci-Fi'];['Simon Pegg', 'Nick Frost'];Paul;./data/scraping/texts/Paul.txt
+Pearl Harbor;['Action', 'Drama', 'Romance', 'War'];['Randall Wallace'];Pearl_Harbor;./data/scraping/texts/Pearl_Harbor.txt
+Peeping Tom;['Drama', 'Horror', 'Thriller'];['Leo Marks'];Peeping_Tom;./data/scraping/texts/Peeping_Tom.txt
+Peggy Sue Got Married;['Comedy'];['Jerry Leichtling', 'Arlene Sarner'];Peggy_Sue_Got_Married;./data/scraping/texts/Peggy_Sue_Got_Married.txt
+Perfect Creature;['Action', 'Drama', 'Fantasy', 'Horror', 'Sci-Fi'];['Glenn Standring'];Perfect_Creature;./data/scraping/texts/Perfect_Creature.txt
+Perfect World, A;['Action', 'Crime', 'Drama'];['John Lee Hancock'];Perfect_World;./data/scraping/texts/Perfect_World.txt
+Perks of Being a Wallflower, The;['Drama', 'Romance'];['Stephen Chbosky'];Perks_of_Being_a_Wallflower;./data/scraping/texts/Perks_of_Being_a_Wallflower.txt
+Pet Sematary;['Horror'];['Stephen King'];Pet_Sematary;./data/scraping/texts/Pet_Sematary.txt
+Pet Sematary II;['Horror'];['Richard Outten', 'David S. Goyer'];Pet_Sematary_II;./data/scraping/texts/Pet_Sematary_II.txt
+Petulia;['Drama'];['Larry Marcus'];Petulia;./data/scraping/texts/Petulia.txt
+Philadelphia;['Drama'];['Ron Nyswaner'];Philadelphia;./data/scraping/texts/Philadelphia.txt
+Phone Booth;['Thriller'];['Larry Cohen'];Phone_Booth;./data/scraping/texts/Phone_Booth.txt
+Pianist, The;['Biography', 'Drama', 'Music', 'War'];['Ronald Harwood', 'Wladyslaw Szpilman'];Pianist;./data/scraping/texts/Pianist.txt
+Piano, The;['Drama', 'Romance'];['Jane Campion'];Piano;./data/scraping/texts/Piano.txt
+Pineapple Express;['Comedy', 'Crime', 'Thriller'];['Judd Apatow', 'Seth Rogen', 'Evan Goldberg'];Pineapple_Express;./data/scraping/texts/Pineapple_Express.txt
+Pirates of the Caribbean;['Action', 'Adventure', 'Comedy'];['Ted Elliot', 'Terry Rossio'];Pirates_of_the_Caribbean;./data/scraping/texts/Pirates_of_the_Caribbean.txt
+Pirates of the Caribbean: Dead Man's Chest;['Action', 'Adventure', 'Comedy', 'Fantasy'];['Ted Elliott', 'Terry Rossio'];Pirates_of_the_Caribbean:_Dead_Man's_Chest;./data/scraping/texts/Pirates_of_the_Caribbean:_Dead_Man's_Chest.txt
+Pitch Black;['Horror', 'Sci-Fi', 'Thriller'];['David Twohy'];Pitch_Black;./data/scraping/texts/Pitch_Black.txt
+Planet of the Apes, The;['Action', 'Drama', 'Sci-Fi'];['Michael Wilson'];Planet_of_the_Apes;./data/scraping/texts/Planet_of_the_Apes.txt
+Platinum Blonde;['Comedy', 'Romance'];['Harry E. Chandlee', 'Douglas W. Churchill', 'Robert Riskin'];Platinum_Blonde;./data/scraping/texts/Platinum_Blonde.txt
+Platoon;['Action', 'Drama', 'War'];['Oliver Stone'];Platoon;./data/scraping/texts/Platoon.txt
+Pleasantville;['Comedy', 'Drama', 'Fantasy'];['Gary Ross'];Pleasantville;./data/scraping/texts/Pleasantville.txt
+Point Break;['Action', 'Crime', 'Adventure', 'Thriller', 'Drama'];['W. Peter Iliff', 'Rick King', 'Kathryn Bigelow'];Point_Break;./data/scraping/texts/Point_Break.txt
+Postman, The;['Action', 'Adventure', 'Drama', 'Sci-Fi'];['Brian Helgeland', 'Eric Roth'];Postman;./data/scraping/texts/Postman.txt
+Power of One, The;['Drama'];['Robert Mark Kamen'];Power_of_One;./data/scraping/texts/Power_of_One.txt
+Precious;['Drama'];['Geoffrey Fletcher'];Precious;./data/scraping/texts/Precious.txt
+Predator;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['Jim Thomas', 'John Thomas'];Predator;./data/scraping/texts/Predator.txt
+Prestige, The;['Drama', 'Mystery', 'Sci-Fi'];['Jonathan Nolan', 'Christopher Nolan'];Prestige;./data/scraping/texts/Prestige.txt
+Pretty Woman;['Comedy', 'Romance'];['J.F. Lawton'];Pretty_Woman;./data/scraping/texts/Pretty_Woman.txt
+Pretty Woman (final script);['Comedy', 'Romance'];['Jonathan Frederick Lawton'];Pretty_Woman_(final_script);./data/scraping/texts/Pretty_Woman_(final_script).txt
+Pride and Prejudice;['Drama', 'Romance'];['Deborah Moggach'];Pride_and_Prejudice;./data/scraping/texts/Pride_and_Prejudice.txt
+Priest;['Action', 'Horror', 'Sci-Fi'];['Cory Goodman'];Priest;./data/scraping/texts/Priest.txt
+Princess Bride, The;['Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance'];['William Goldman'];Princess_Bride;./data/scraping/texts/Princess_Bride.txt
+Private Life of Sherlock Holmes, The;['Comedy', 'Drama', 'Mystery'];['Billy Wilder', 'I.A.L Diamond'];Private_Life_of_Sherlock_Holmes;./data/scraping/texts/Private_Life_of_Sherlock_Holmes.txt
+Producer, The;['Comedy', 'Musical'];['Mel Brooks'];Producer;./data/scraping/texts/Producer.txt
+Program, The;['Action', 'Drama'];['David S. Ward', 'Aaron Latham'];Program;./data/scraping/texts/Program.txt
+Prom Night;['Horror', 'Mystery', 'Thriller'];['William Gray', 'Bob Guza'];Prom_Night;./data/scraping/texts/Prom_Night.txt
+Prometheus;['Adventure', 'Mystery', 'Sci-Fi'];['Jon Spaihts'];Prometheus;./data/scraping/texts/Prometheus.txt
+Prophecy, The;['Horror', 'Thriller', 'Fantasy', 'Mystery'];['Gregory Widen'];Prophecy;./data/scraping/texts/Prophecy.txt
+Proposal, The;['Comedy', 'Drama', 'Romance'];['Pete Chiarelli'];Proposal;./data/scraping/texts/Proposal.txt
+Psycho;['Horror', 'Thriller'];['Robert Bloch', 'Joseph Stefano'];Psycho;./data/scraping/texts/Psycho.txt
+Public Enemies;['Crime', 'Drama', 'Thriller'];['Ronan Bennett', 'Michael Mann', 'Ann Eiderman'];Public_Enemies;./data/scraping/texts/Public_Enemies.txt
+Pulp Fiction;['Action', 'Crime', 'Drama', 'Thriller'];['Quentin Tarantino', 'Roger Avary'];Pulp_Fiction;./data/scraping/texts/Pulp_Fiction.txt
+Purple Rain;['Drama', 'Music'];['Albert Magnoli', 'William Blinn'];Purple_Rain;./data/scraping/texts/Purple_Rain.txt
+Quantum Project;['Drama', 'Short'];['David Aaron Cohen'];Quantum_Project;./data/scraping/texts/Quantum_Project.txt
+Queen of the Damned;['Horror'];['Scott Abbott', 'Michael Petroni'];Queen_of_the_Damned;./data/scraping/texts/Queen_of_the_Damned.txt
+Queen, The;['Drama'];['Peter Morgan'];Queen;./data/scraping/texts/Queen.txt
+Rachel Getting Married;['Drama', 'Romance'];['Jenny Lumet'];Rachel_Getting_Married;./data/scraping/texts/Rachel_Getting_Married.txt
+Raising Arizona;['Comedy'];['Joel Coen', 'Ethan Coen'];Raising_Arizona;./data/scraping/texts/Raising_Arizona.txt
+Rambo: First Blood II: The Mission;['Action', 'Adventure'];['James Cameron'];Rambo:_First_Blood_II:_The_Mission;./data/scraping/texts/Rambo:_First_Blood_II:_The_Mission.txt
+Reader, The;['Drama', 'Romance'];['David Hare', 'Bernhard Schlink'];Reader;./data/scraping/texts/Reader.txt
+Real Genius;['Comedy'];['Neal Israel', 'Pat Proft', 'Peter Torokvel'];Real_Genius;./data/scraping/texts/Real_Genius.txt
+Rebel Without A Cause;['Drama'];['Stewart Stern'];Rebel_Without_A_Cause;./data/scraping/texts/Rebel_Without_A_Cause.txt
+Red Planet;['Action', 'Sci-Fi', 'Thriller'];['Chuck Pfarrer', 'Jonathan Lemkin'];Red_Planet;./data/scraping/texts/Red_Planet.txt
+Red Riding Hood;['Fantasy', 'Horror', 'Mystery'];['David Leslie Johnson'];Red_Riding_Hood;./data/scraping/texts/Red_Riding_Hood.txt
+Reindeer Games;['Crime', 'Thriller', 'Action', 'Drama'];['Ehren Kruger'];Reindeer_Games;./data/scraping/texts/Reindeer_Games.txt
+Relic, The;['Horror', 'Thriller'];['Amy Holden Jones'];Relic;./data/scraping/texts/Relic.txt
+Remember Me;['Drama', 'Romance'];['William Fetters', 'Jenny Lumet'];Remember_Me;./data/scraping/texts/Remember_Me.txt
+Replacements, The;['Comedy'];['Vince McKewin'];Replacements;./data/scraping/texts/Replacements.txt
+Repo Man;['Comedy', 'Sci-Fi'];['Alex Cox'];Repo_Man;./data/scraping/texts/Repo_Man.txt
+Rescuers Down Under, The;['Animation', 'Family', 'Adventure'];['Margery Sharp', 'Jim Cox', 'Karey Kirkpatrick'];Rescuers_Down_Under;./data/scraping/texts/Rescuers_Down_Under.txt
+Reservoir Dogs;['Action', 'Crime', 'Thriller'];['Quentin Tarantino'];Reservoir_Dogs;./data/scraping/texts/Reservoir_Dogs.txt
+Resident Evil;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['George A. Romero'];Resident_Evil;./data/scraping/texts/Resident_Evil.txt
+Return of the Apes;['Action', 'Drama', 'Sci-Fi'];['Terry Hayes'];Return_of_the_Apes;./data/scraping/texts/Return_of_the_Apes.txt
+Revenant, The;['Adventure', 'Drama', 'Thriller'];['Mark L. Smith'];Revenant;./data/scraping/texts/Revenant.txt
+Revolutionary Road;['Drama', 'Romance'];['Justin Haythe'];Revolutionary_Road;./data/scraping/texts/Revolutionary_Road.txt
+Ringu;['Horror', 'Mystery', 'Thriller'];['Takahashi Hiroshi'];Ringu;./data/scraping/texts/Ringu.txt
+Rise of the Guardians;['Animation', 'Adventure', 'Family'];['David Lindsay-Abaire'];Rise_of_the_Guardians;./data/scraping/texts/Rise_of_the_Guardians.txt
+Rise of the Planet of the Apes;['Action', 'Drama', 'Sci-Fi'];['Rick Jaffa', 'Amanda Silver', 'Jamie Moss'];Rise_of_the_Planet_of_the_Apes;./data/scraping/texts/Rise_of_the_Planet_of_the_Apes.txt
+Road, The;['Adventure', 'Drama', 'Thriller'];['Joe Penhall'];Road;./data/scraping/texts/Road.txt
+Robin Hood: Prince of Thieves;['Action', 'Adventure', 'Drama'];['Pen Densham', 'John Watson'];Robin_Hood:_Prince_of_Thieves;./data/scraping/texts/Robin_Hood:_Prince_of_Thieves.txt
+Rock, The;['Action'];['Jonathan Hensleigh'];Rock;./data/scraping/texts/Rock.txt
+RocknRolla;['Action', 'Comedy', 'Crime'];['Guy Ritchie'];RocknRolla;./data/scraping/texts/RocknRolla.txt
+Rocky;['Drama', 'Romance'];['Sylvester Stallone'];Rocky;./data/scraping/texts/Rocky.txt
+Rocky Horror Picture Show, The;['Comedy', 'Horror', 'Musical', 'Sci-Fi'];["Richard O'Brien", ' Jim Sharman'];Rocky_Horror_Picture_Show;./data/scraping/texts/Rocky_Horror_Picture_Show.txt
+Romeo & Juliet;['Crime', 'Drama', 'Romance'];['William Shakespeare', 'Craig Pearce', 'Baz Luhrmann'];Romeo_&_Juliet;./data/scraping/texts/Romeo_&_Juliet.txt
+Ronin;['Action', 'Crime', 'Thriller'];['J.D. Zeik'];Ronin;./data/scraping/texts/Ronin.txt
+Room;['Drama'];['Emma Donoghue'];Room;./data/scraping/texts/Room.txt
+Roommate, The;['Drama', 'Horror', 'Thriller'];['Sonny Mallhi', 'Frank Baldwin'];Roommate;./data/scraping/texts/Roommate.txt
+Roughshod;['Western'];['Hugo Butler', 'Geoffrey Homes', 'Peter Viertel'];Roughshod;./data/scraping/texts/Roughshod.txt
+Ruins, The;['Horror', 'Thriller'];['Scott Smith'];Ruins;./data/scraping/texts/Ruins.txt
+Runaway Bride;['Comedy', 'Romance'];['Josann McGibbon', 'Sara Parriott'];Runaway_Bride;./data/scraping/texts/Runaway_Bride.txt
+Rush;['Action', 'Drama'];['Peter Morgan'];Rush;./data/scraping/texts/Rush.txt
+Rush Hour;['Action', 'Comedy', 'Crime'];['Ross LaManna', 'Jim Kouf'];Rush_Hour;./data/scraping/texts/Rush_Hour.txt
+Rushmore;['Comedy', 'Romance'];['Wes Anderson', 'Owen Wilson'];Rushmore;./data/scraping/texts/Rushmore.txt
+Rust and Bone;['Drama', 'Romance'];['Jacques Audiard', 'Thomas Bidegain'];Rust_and_Bone;./data/scraping/texts/Rust_and_Bone.txt
+S. Darko;['Crime', 'Mystery', 'Sci-Fi', 'Thriller'];['Nathan Atkins'];S;./data/scraping/texts/S.txt
+Saint, The;['Action', 'Romance', 'Thriller'];['Jonathan Hensleigh'];Saint;./data/scraping/texts/Saint.txt
+Salton Sea, The;['Crime', 'Drama', 'Thriller'];['Tony Gayton'];Salton_Sea;./data/scraping/texts/Salton_Sea.txt
+Sandlot Kids, The;['Comedy', 'Drama', 'Family'];['David Mickey Evans', 'Robert Gunter'];Sandlot_Kids;./data/scraping/texts/Sandlot_Kids.txt
+Save the Last Dance;['Drama', 'Romance'];['Duane G. Adler', 'Toni-Ann Johnson', 'Cheryl Edwards'];Save_the_Last_Dance;./data/scraping/texts/Save_the_Last_Dance.txt
+Saving Mr. Banks;[' Comedy', 'Drama'];['Kelly Marcel', 'Sue Smith'];Saving_Mr;./data/scraping/texts/Saving_Mr.txt
+Saving Private Ryan;['Action', 'Drama', 'War'];['Robert Rodat'];Saving_Private_Ryan;./data/scraping/texts/Saving_Private_Ryan.txt
+Saw;['Crime', 'Horror', 'Mystery', 'Thriller'];['James Wan', 'Leigh Whannell'];Saw;./data/scraping/texts/Saw.txt
+Scarface;['Action', 'Crime', 'Drama'];['Oliver Stone'];Scarface;./data/scraping/texts/Scarface.txt
+Scary Movie 2;['Comedy', 'Horror', 'Sci-Fi'];['Shawn Wayans', 'Marlon Wayans'];Scary_Movie_2;./data/scraping/texts/Scary_Movie_2.txt
+Schindler's List;['Drama', 'War'];['Steven Zaillian'];Schindler's_List;./data/scraping/texts/Schindler's_List.txt
+Scott Pilgrim vs the World;['Action', 'Comedy', 'Fantasy'];['Edgar Wright', 'Michael Bacall'];Scott_Pilgrim_vs_the_World;./data/scraping/texts/Scott_Pilgrim_vs_the_World.txt
+Scream;['Horror', 'Mystery', 'Thriller'];['Kevin Williamson'];Scream;./data/scraping/texts/Scream.txt
+Scream 2;['Horror', 'Mystery', 'Thriller'];['Kevin Williamson'];Scream_2;./data/scraping/texts/Scream_2.txt
+Scream 3;['Horror', 'Mystery', 'Thriller'];['Kevin Williamson', 'Ehren Kruger'];Scream_3;./data/scraping/texts/Scream_3.txt
+Se7en;['Drama', 'Mystery', 'Thriller'];['Andrew Kevin Walker'];Se7en;./data/scraping/texts/Se7en.txt
+Searchers, The;['Drama', 'Western'];['Frank Nugent'];Searchers;./data/scraping/texts/Searchers.txt
+Secret Life of Walter Mitty, The;['Adventure', 'Comedy', 'Drama'];['Steve Conrad'];Secret_Life_of_Walter_Mitty;./data/scraping/texts/Secret_Life_of_Walter_Mitty.txt
+Semi-Pro;['Comedy'];['Scot Armstrong'];Semi-Pro;./data/scraping/texts/Semi-Pro.txt
+Sense and Sensibility;['Drama', 'Comedy', 'Romance'];['Jane Austen', 'Emma Thompson'];Sense_and_Sensibility;./data/scraping/texts/Sense_and_Sensibility.txt
+Serenity;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['Joss Whedon'];Serenity;./data/scraping/texts/Serenity.txt
+Serial Mom;['Comedy', 'Crime', 'Horror'];['John Waters'];Serial_Mom;./data/scraping/texts/Serial_Mom.txt
+Sessions, The;['Drama', 'Romance'];['Ben Lewin'];Sessions;./data/scraping/texts/Sessions.txt
+Seventh Seal, The;['Drama', 'Fantasy'];['Ingmar Bergman'];Seventh_Seal;./data/scraping/texts/Seventh_Seal.txt
+Sex and the City;['Comedy', 'Drama', 'Romance'];['Michael Patrick King'];Sex_and_the_City;./data/scraping/texts/Sex_and_the_City.txt
+Sex, Lies and Videotape;['Drama'];['Steven Soderbergh'];Sex;./data/scraping/texts/Sex.txt
+Sexual Life;['Comedy', 'Drama'];['Ken Kwapis'];Sexual_Life;./data/scraping/texts/Sexual_Life.txt
+Shakespeare in Love;['Drama', 'Romance', 'Comedy'];['Marc Norman', 'Tom Stoppard'];Shakespeare_in_Love;./data/scraping/texts/Shakespeare_in_Love.txt
+Shallow Grave;['Comedy', 'Crime', 'Drama', 'Thriller'];['John Hodge'];Shallow_Grave;./data/scraping/texts/Shallow_Grave.txt
+Shame;['Drama'];['Steve McQueen', 'Abi Morgan'];Shame;./data/scraping/texts/Shame.txt
+Shampoo;['Drama'];['Robert Towne', 'Warren Beatty'];Shampoo;./data/scraping/texts/Shampoo.txt
+Shawshank Redemption, The;['Drama'];['Frank Darabont'];Shawshank_Redemption;./data/scraping/texts/Shawshank_Redemption.txt
+She's Out of My League;['Comedy', 'Romance'];['Sean Anders', 'John Morris'];She's_Out_of_My_League;./data/scraping/texts/She's_Out_of_My_League.txt
+Sherlock Holmes;['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller'];['Michael Robert Johnson', 'Anthony Peckham', 'Simon Kinberg'];Sherlock_Holmes;./data/scraping/texts/Sherlock_Holmes.txt
+Shifty;['Thriller'];['Eran Creevy'];Shifty;./data/scraping/texts/Shifty.txt
+Shining, The;['Horror', 'Thriller'];['Stanley Kubrick', 'Diane Johnson'];Shining;./data/scraping/texts/Shining.txt
+Shipping News, The;['Drama', 'Romance'];['E. Annie Proulx', 'Robert Nelson Jacobs'];Shipping_News;./data/scraping/texts/Shipping_News.txt
+Shivers;['Horror', 'Sci-Fi'];['David Cronenberg'];Shivers;./data/scraping/texts/Shivers.txt
+Shrek;['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Romance'];['William Steig', 'Ted Elliott'];Shrek;./data/scraping/texts/Shrek.txt
+Shrek the Third;['Animation', 'Adventure', 'Comedy'];['Peter Seaman', 'Jeffrey Price', 'Chris Miller', 'Aron Warner'];Shrek_the_Third;./data/scraping/texts/Shrek_the_Third.txt
+Sicario;['Action', 'Crime', 'Drama'];['Taylor Sheridan'];Sicario;./data/scraping/texts/Sicario.txt
+Sideways;['Adventure', 'Comedy', 'Drama'];['Rex Pickett', 'Alexander Payne', 'Jim Taylor'];Sideways;./data/scraping/texts/Sideways.txt
+Siege, The;['Action', 'Thriller', 'Drama'];['Lawrence Wright', 'Menno Meyjes', 'Edward Zwick'];Siege;./data/scraping/texts/Siege.txt
+Signs;['Drama', 'Horror', 'Sci-Fi', 'Thriller'];['M. Night Shyamalan'];Signs;./data/scraping/texts/Signs.txt
+Silence of the Lambs;['Crime', 'Drama', 'Horror', 'Thriller'];['Thomas Harris', 'Ted Tally'];Silence_of_the_Lambs;./data/scraping/texts/Silence_of_the_Lambs.txt
+Silver Bullet;['Horror'];['Stephen King'];Silver_Bullet;./data/scraping/texts/Silver_Bullet.txt
+Silver Linings Playbook;['Comedy', 'Drama', 'Romance'];['David O. Russell', 'Matthew Quick'];Silver_Linings_Playbook;./data/scraping/texts/Silver_Linings_Playbook.txt
+Simone;['Comedy', 'Drama', 'Sci-Fi'];['Andrew Niccol'];Simone;./data/scraping/texts/Simone.txt
+Single White Female;['Drama', 'Thriller'];['Don Roos', 'John Lutz'];Single_White_Female;./data/scraping/texts/Single_White_Female.txt
+Sister Act;['Comedy', 'Crime', 'Musical'];['Paul Rudnick'];Sister_Act;./data/scraping/texts/Sister_Act.txt
+Six Degrees of Separation;['Comedy', 'Drama', 'Mystery'];['John Guare'];Six_Degrees_of_Separation;./data/scraping/texts/Six_Degrees_of_Separation.txt
+Sixth Sense, The;['Drama', 'Horror', 'Mystery', 'Thriller'];['M. Night Shyamalan'];Sixth_Sense;./data/scraping/texts/Sixth_Sense.txt
+Sleepless in Seattle;['Comedy', 'Romance', 'Drama'];['Jeff Arch', 'Nora Ephron', 'David S. Ward'];Sleepless_in_Seattle;./data/scraping/texts/Sleepless_in_Seattle.txt
+Sleepy Hollow;['Horror', 'Mystery'];['Andrew Kevin Walker', 'Tom Stoppard'];Sleepy_Hollow;./data/scraping/texts/Sleepy_Hollow.txt
+Sling Blade;['Drama'];['Billy Bob Thornton'];Sling_Blade;./data/scraping/texts/Sling_Blade.txt
+Slither;['Comedy', 'Horror', 'Sci-Fi'];['James Gunn'];Slither;./data/scraping/texts/Slither.txt
+Slumdog Millionaire;['Crime', 'Drama', 'Romance'];['Simon Beaufoy', 'Vikas Swarup'];Slumdog_Millionaire;./data/scraping/texts/Slumdog_Millionaire.txt
+Smashed;['Comedy', 'Drama'];['Susan Burke', 'James Ponsoldt'];Smashed;./data/scraping/texts/Smashed.txt
+Smokin' Aces;['Action', 'Comedy', 'Crime', 'Drama'];['Joe Carnahan'];Smokin'_Aces;./data/scraping/texts/Smokin'_Aces.txt
+Snatch;['Comedy', 'Crime'];['Guy Ritchie'];Snatch;./data/scraping/texts/Snatch.txt
+Snow Falling On Cedars;['Drama'];['Ronald Bass', 'Scott Hicks'];Snow_Falling_On_Cedars;./data/scraping/texts/Snow_Falling_On_Cedars.txt
+Snow White and the Huntsman;['Action', 'Adventure', 'Drama'];['Evan Daugherty', 'John Lee Hancock', 'Hossein Amini'];Snow_White_and_the_Huntsman;./data/scraping/texts/Snow_White_and_the_Huntsman.txt
+So I Married an Axe Murderer;['Comedy', 'Romance', 'Thriller'];['Robbie Fox'];So_I_Married_an_Axe_Murderer;./data/scraping/texts/So_I_Married_an_Axe_Murderer.txt
+Social Network, The;['Drama'];['Aaron Sorkin'];Social_Network;./data/scraping/texts/Social_Network.txt
+Solaris;['Drama', 'Romance', 'Sci-Fi'];['Steven Soderbergh'];Solaris;./data/scraping/texts/Solaris.txt
+Soldier;['Action', 'Drama', 'Sci-Fi'];['David Webb Peoples'];Soldier;./data/scraping/texts/Soldier.txt
+Someone To Watch Over Me;['Action', 'Crime', 'Thriller', 'Drama'];['Howard Franklin', 'Danilo Bach', 'David Seltzer'];Someone_To_Watch_Over_Me;./data/scraping/texts/Someone_To_Watch_Over_Me.txt
+Something's Gotta Give;['Comedy', 'Romance', 'Drama'];['Nancy Meyers'];Something's_Gotta_Give;./data/scraping/texts/Something's_Gotta_Give.txt
+Source Code;['Mystery', 'Sci-Fi', 'Thriller'];['Ben Ripley'];Source_Code;./data/scraping/texts/Source_Code.txt
+South Park;['Animation', 'Comedy', 'Musical'];['Trey Parker', 'Matt Stone', 'Pam Brady'];South_Park;./data/scraping/texts/South_Park.txt
+Space Milkshake;['Comedy', 'Sci-Fi'];['Armen Evrensel'];Space_Milkshake;./data/scraping/texts/Space_Milkshake.txt
+Spanglish;['Comedy', 'Romance', 'Drama'];['James L. Brooks'];Spanglish;./data/scraping/texts/Spanglish.txt
+Spare Me;['Thriller'];['Christopher Grimm', 'Matthew Harrison'];Spare_Me;./data/scraping/texts/Spare_Me.txt
+Spartan;['Crime', 'Drama', 'Thriller'];['Brian Helgeland'];Spartan;./data/scraping/texts/Spartan.txt
+Speed Racer;['Action', 'Family', 'Sport'];['Larry Wachowski', 'Andy Wachowski'];Speed_Racer;./data/scraping/texts/Speed_Racer.txt
+Sphere;['Sci-Fi', 'Thriller'];['Stephen Hauser'];Sphere;./data/scraping/texts/Sphere.txt
+Spider-Man;['Action', 'Adventure', 'Sci-Fi'];['David Koepp'];Spider-Man;./data/scraping/texts/Spider-Man.txt
+St. Elmo's Fire;['Drama', 'Romance'];['Joel Schumacher', 'Carl Kurlander'];St;./data/scraping/texts/St.txt
+Star Trek;['Action', 'Adventure', 'Sci-Fi'];['Roberto Orci', 'Alex Kurtzman'];Star_Trek;./data/scraping/texts/Star_Trek.txt
+Star Trek II: The Wrath of Khan;['Action', 'Adventure', 'Sci-Fi'];['Jack B Sowards', 'Harve Bennett'];Star_Trek_II:_The_Wrath_of_Khan;./data/scraping/texts/Star_Trek_II:_The_Wrath_of_Khan.txt
+Star Trek: First Contact;['Action', 'Adventure', 'Sci-Fi'];['Ronald Moore', 'Brannon Braga'];Star_Trek:_First_Contact;./data/scraping/texts/Star_Trek:_First_Contact.txt
+Star Trek: Generations;['Action', 'Adventure', 'Sci-Fi'];['Rick Berman', 'Ronald Moore', 'Brannon Braga'];Star_Trek:_Generations;./data/scraping/texts/Star_Trek:_Generations.txt
+Star Trek: Nemesis;['Action', 'Adventure', 'Drama', 'Sci-Fi', 'Thriller'];['John Logan'];Star_Trek:_Nemesis;./data/scraping/texts/Star_Trek:_Nemesis.txt
+Star Trek: The Motion Picture;['Sci-Fi'];['Gene Roddenberry', 'Harold Livingston'];Star_Trek:_The_Motion_Picture;./data/scraping/texts/Star_Trek:_The_Motion_Picture.txt
+Star Wars: A New Hope;['Action', 'Adventure', 'Fantasy', 'Sci-Fi'];['George Lucas'];Star_Wars:_A_New_Hope;./data/scraping/texts/Star_Wars:_A_New_Hope.txt
+Star Wars: Attack of the Clones;['Sci-Fi', 'Adventure', 'Action', 'Fantasy'];['George Lucas'];Star_Wars:_Attack_of_the_Clones;./data/scraping/texts/Star_Wars:_Attack_of_the_Clones.txt
+Star Wars: Return of the Jedi;['Fantasy', 'Sci-Fi', 'Action', 'Adventure'];['George Lucas', 'Lawrence Kasdan'];Star_Wars:_Return_of_the_Jedi;./data/scraping/texts/Star_Wars:_Return_of_the_Jedi.txt
+Star Wars: Revenge of the Sith;['Sci-Fi', 'Adventure', 'Action', 'Fantasy'];['George Lucas'];Star_Wars:_Revenge_of_the_Sith;./data/scraping/texts/Star_Wars:_Revenge_of_the_Sith.txt
+Star Wars: The Empire Strikes Back;['Action', 'Adventure', 'Fantasy', 'Sci-Fi'];['George Lucas', 'Lawrence Kasdan', 'Leigh Brackett'];Star_Wars:_The_Empire_Strikes_Back;./data/scraping/texts/Star_Wars:_The_Empire_Strikes_Back.txt
+Star Wars: The Force Awakens;['Action', 'Adventure', 'Fantasy'];['Lawrence Kasdan', 'J.J. Abrams', 'Michael Arndt'];Star_Wars:_The_Force_Awakens;./data/scraping/texts/Star_Wars:_The_Force_Awakens.txt
+Star Wars: The Phantom Menace;['Sci-Fi', 'Adventure', 'Action', 'Fantasy'];['George Lucas'];Star_Wars:_The_Phantom_Menace;./data/scraping/texts/Star_Wars:_The_Phantom_Menace.txt
+Starman;['Adventure', 'Drama', 'Romance', 'Sci-Fi'];['Bruce A. Evans', 'Raynold Gideon'];Starman;./data/scraping/texts/Starman.txt
+Starship Troopers;['Sci-Fi', 'Action'];['Robert A. Heinlein', 'Edward Neumeier'];Starship_Troopers;./data/scraping/texts/Starship_Troopers.txt
+State and Main;['Comedy'];['David Mamet'];State_and_Main;./data/scraping/texts/State_and_Main.txt
+Station West;['Western'];['Frank Fenton', 'Winston Miller', 'Luke Short'];Station_West;./data/scraping/texts/Station_West.txt
+Stepmom;['Comedy', 'Drama'];['Ronald Bass', 'Gigi Levangie', 'Elizabeth Chandler', 'Jessie Nelson', 'Steven Rogers'];Stepmom;./data/scraping/texts/Stepmom.txt
+Sting, The;['Comedy', 'Crime', 'Drama'];['David Ward'];Sting;./data/scraping/texts/Sting.txt
+Stir of Echoes;['Thriller', 'Horror', 'Mystery'];['David Koepp', 'Richard Matheson'];Stir_of_Echoes;./data/scraping/texts/Stir_of_Echoes.txt
+Storytelling;['Comedy', 'Drama'];['Todd Solondz'];Storytelling;./data/scraping/texts/Storytelling.txt
+Straight Outta Compton;['Drama'];['Jonathan Herman', 'Andrea Berloff'];Straight_Outta_Compton;./data/scraping/texts/Straight_Outta_Compton.txt
+Strange Days;['Crime', 'Thriller', 'Sci-Fi', 'Mystery', 'Action', 'Drama'];['James Cameron', 'Jay Cocks'];Strange_Days;./data/scraping/texts/Strange_Days.txt
+Strangers on a Train;['Drama', 'Film-Noir', 'Thriller'];['Raymond Chandler', 'Czenzi Ormonde'];Strangers_on_a_Train;./data/scraping/texts/Strangers_on_a_Train.txt
+Stuntman, The;['Action', 'Adventure', 'Comedy', 'Drama', 'Romance', 'Thriller'];['Lawrence B. Marcus', 'Richard Rush', 'Paul Brodeur'];Stuntman;./data/scraping/texts/Stuntman.txt
+Sugar;['Drama'];['Anna Boden', 'Ryan Fleck'];Sugar;./data/scraping/texts/Sugar.txt
+Sugar and Spice;['Comedy'];['Mandy Nelson'];Sugar_and_Spice;./data/scraping/texts/Sugar_and_Spice.txt
+Sunset Blvd.;['Drama', 'Film-Noir'];['Charles Brackett', 'Billy Wilder', 'D.M. Harshman Jr.'];Sunset_Blvd;./data/scraping/texts/Sunset_Blvd.txt
+Sunshine Cleaning;['Comedy', 'Drama'];['Megan Holley'];Sunshine_Cleaning;./data/scraping/texts/Sunshine_Cleaning.txt
+Super 8;['Mystery', 'Sci-Fi', 'Thriller'];['J.J. Abrams'];Super_8;./data/scraping/texts/Super_8.txt
+Superbad;['Comedy'];['Seth Rogen', 'Evan Goldberg'];Superbad;./data/scraping/texts/Superbad.txt
+Supergirl;['Sci-Fi', 'Adventure', 'Fantasy', 'Action'];['David Odell'];Supergirl;./data/scraping/texts/Supergirl.txt
+Surfer King, The;['Comedy'];['Bernard Murray Jr'];Surfer_King;./data/scraping/texts/Surfer_King.txt
+Surrogates;['Action', 'Sci-Fi', 'Thriller'];['John Brancato', 'Michael Ferris', 'Robert Venditti'];Surrogates;./data/scraping/texts/Surrogates.txt
+Suspect Zero;['Thriller', 'Crime', 'Horror', 'Drama'];['Zak Penn'];Suspect_Zero;./data/scraping/texts/Suspect_Zero.txt
+Sweeney Todd: The Demon Barber of Fleet Street;['Drama', 'Horror', 'Musical'];['John Logan'];Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street;./data/scraping/texts/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street.txt
+Sweet Hereafter, The;['Drama'];['Russel Banks', 'Atom Egoyan'];Sweet_Hereafter;./data/scraping/texts/Sweet_Hereafter.txt
+Sweet Smell of Success;['Drama', 'Film-Noir'];['Ernest Lehman', 'Clifford Odets'];Sweet_Smell_of_Success;./data/scraping/texts/Sweet_Smell_of_Success.txt
+Swingers;['Comedy', 'Drama'];['Jon Favreau'];Swingers;./data/scraping/texts/Swingers.txt
+Swordfish;['Action', 'Thriller'];['Skip Woods'];Swordfish;./data/scraping/texts/Swordfish.txt
+Synecdoche, New York;['Comedy', 'Drama'];['Charlie Kaufman'];Synecdoche;./data/scraping/texts/Synecdoche.txt
+Syriana;['Drama', 'Thriller'];['Stephen Gaghan', 'Robert Baer'];Syriana;./data/scraping/texts/Syriana.txt
+Take Shelter;['Drama', 'Thriller'];['Jeff Nichols'];Take_Shelter;./data/scraping/texts/Take_Shelter.txt
+Taking Lives;['Drama', 'Crime', 'Thriller', 'Horror'];['Michael Pye', 'Jon Bokenkamp'];Taking_Lives;./data/scraping/texts/Taking_Lives.txt
+Taking of Pelham One Two Three, The;['Crime', 'Drama', 'Thriller'];['Peter Stone', 'John Godey'];Taking_of_Pelham_One_Two_Three;./data/scraping/texts/Taking_of_Pelham_One_Two_Three.txt
+Taking Sides;['Drama', 'Music'];['Ronald Harwood'];Taking_Sides;./data/scraping/texts/Taking_Sides.txt
+Talented Mr. Ripley, The;['Crime', 'Drama', 'Horror', 'Mystery', 'Thriller'];['Anthony Minghella'];Talented_Mr;./data/scraping/texts/Talented_Mr.txt
+Tall in the Saddle;['Mystery', 'Western', 'Romance'];['Michael Hogan', 'Paul P Fix', 'Gordon Ray Young'];Tall_in_the_Saddle;./data/scraping/texts/Tall_in_the_Saddle.txt
+Tamara Drewe;['Comedy', 'Drama', 'Romance'];['Moira Buffini'];Tamara_Drewe;./data/scraping/texts/Tamara_Drewe.txt
+Taxi Driver;['Crime', 'Drama', 'Thriller'];['Paul Schrader'];Taxi_Driver;./data/scraping/texts/Taxi_Driver.txt
+Ted;['Comedy', 'Fantasy'];['Seth Macfarlane', 'Alec Sulkin', 'Wellesley Wild'];Ted;./data/scraping/texts/Ted.txt
+Terminator;['Sci-Fi', 'Thriller', 'Action', 'Drama', 'Romance'];['Harlan Ellison', 'James Cameron', 'Gale Anne Hurd', 'William Wisher Jr.'];Terminator;./data/scraping/texts/Terminator.txt
+Terminator 2: Judgement Day;['Sci-Fi', 'Action', 'Thriller', 'Drama'];['James Cameron', 'William Wisher'];Terminator_2:_Judgement_Day;./data/scraping/texts/Terminator_2:_Judgement_Day.txt
+Terminator Salvation;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['John Brancato', 'Michael Ferris'];Terminator_Salvation;./data/scraping/texts/Terminator_Salvation.txt
+The Rage: Carrie 2;['Horror', 'Sci-Fi', 'Thriller'];['Rafael Moreu'];The_Rage:_Carrie_2;./data/scraping/texts/The_Rage:_Carrie_2.txt
+Thelma & Louise;['Action', 'Crime', 'Drama', 'Thriller'];['Callie Khouri'];Thelma_&_Louise;./data/scraping/texts/Thelma_&_Louise.txt
+Theory of Everything, The;['Drama', 'Romance'];['Anthony McCarten'];Theory_of_Everything;./data/scraping/texts/Theory_of_Everything.txt
+There's Something About Mary;['Comedy', 'Romance'];['Peter Farrelly', 'Bobby Farrelly', 'Ed Decter', 'John J. Strauss'];There's_Something_About_Mary;./data/scraping/texts/There's_Something_About_Mary.txt
+They;['Horror', 'Thriller'];['Brendan Hood'];They;./data/scraping/texts/They.txt
+Thing, The;['Action', 'Horror', 'Sci-Fi', 'Thriller'];['John W. Campbell Jr.', 'Bill Lancaster'];Thing;./data/scraping/texts/Thing.txt
+Things My Father Never Taught Me, The;['Short', 'Comedy', 'Romance'];['Burleigh Smith'];Things_My_Father_Never_Taught_Me;./data/scraping/texts/Things_My_Father_Never_Taught_Me.txt
+Thirteen Days;['Drama'];['David Self'];Thirteen_Days;./data/scraping/texts/Thirteen_Days.txt
+This Boy's Life;['Drama'];['Robert Getchell'];This_Boy's_Life;./data/scraping/texts/This_Boy's_Life.txt
+This is 40;['Comedy'];['Judd Apatow'];This_is_40;./data/scraping/texts/This_is_40.txt
+Thor;['Action', 'Adventure', 'Fantasy'];['Ashley Miller', 'Zack Stentz'];Thor;./data/scraping/texts/Thor.txt
+Thor Ragnarok;['Action', 'Adventure', 'Comedy'];['Eric Pearson', 'Craig Kyle', 'Christopher L. Yost'];Thor_Ragnarok;./data/scraping/texts/Thor_Ragnarok.txt
+Three Kings;['Action', 'Adventure', 'War'];['David O. Russell', 'John Ridley'];Three_Kings;./data/scraping/texts/Three_Kings.txt
+Three Kings (Spoils of War);['Action', 'Adventure', 'War'];['John Ridley'];Three_Kings_(Spoils_of_War);./data/scraping/texts/Three_Kings_(Spoils_of_War).txt
+Three Men and a Baby;['Comedy', 'Family'];['Jim Cruickshank', 'James Orr', 'Colline Serreau'];Three_Men_and_a_Baby;./data/scraping/texts/Three_Men_and_a_Baby.txt
+Three Musketeers, The;['Action', 'Adventure', 'Comedy', 'Romance'];['David Loughery'];Three_Musketeers;./data/scraping/texts/Three_Musketeers.txt
+Thunderbirds;['Action', 'Adventure', 'Comedy'];['Peter Hewitt', 'William Osborne', 'Michael McCullers'];Thunderbirds;./data/scraping/texts/Thunderbirds.txt
+Thunderheart;['Crime', 'Mystery', 'Thriller'];['John Fusco'];Thunderheart;./data/scraping/texts/Thunderheart.txt
+Ticker;['Action.Thriller', 'Crime'];['Paul B. Margolis'];Ticker;./data/scraping/texts/Ticker.txt
+Timber Falls;['Horror', 'Thriller'];['Dan Kay', 'Tony Giglio'];Timber_Falls;./data/scraping/texts/Timber_Falls.txt
+Time Machine, The;['Action', 'Adventure', 'Sci-Fi'];['John Logan'];Time_Machine;./data/scraping/texts/Time_Machine.txt
+Tin Cup;['Comedy', 'Drama', 'Romance'];['John Norville', 'Ron Shelton'];Tin_Cup;./data/scraping/texts/Tin_Cup.txt
+Tin Men;['Comedy', 'Drama'];['Barry Levinson'];Tin_Men;./data/scraping/texts/Tin_Men.txt
+Tinker Tailor Soldier Spy;['Drama', 'Mystery', 'Thriller'];["Bridget O'Connor", 'Peter Straughan'];Tinker_Tailor_Soldier_Spy;./data/scraping/texts/Tinker_Tailor_Soldier_Spy.txt
+Titanic;['Drama', 'Romance'];['James Cameron'];Titanic;./data/scraping/texts/Titanic.txt
+TMNT;['Animation', 'Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy'];['Kevin Munroe'];TMNT;./data/scraping/texts/TMNT.txt
+To Sleep with Anger;['Drama'];['Charles Burnett'];To_Sleep_with_Anger;./data/scraping/texts/To_Sleep_with_Anger.txt
+Tombstone;['Action', 'Drama', 'Western'];['Kevin Jarre'];Tombstone;./data/scraping/texts/Tombstone.txt
+Tomorrow Never Dies;['Action', 'Adventure', 'Thriller'];['Bruce Feirstein', 'Ian Fleming'];Tomorrow_Never_Dies;./data/scraping/texts/Tomorrow_Never_Dies.txt
+Top Gun;['Action', 'Drama'];['Chip Proser'];Top_Gun;./data/scraping/texts/Top_Gun.txt
+Total Recall;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['Ronald Shusett', "Dan O'Bannon", 'Steven Pressfield'];Total_Recall;./data/scraping/texts/Total_Recall.txt
+Tourist, The;['Action', 'Drama', 'Thriller'];['Julian Fellowes'];Tourist;./data/scraping/texts/Tourist.txt
+Toy Story;['Animation', 'Comedy', 'Family', 'Fantasy'];['Joss Whedon', 'Andrew Stanton', 'Joel Cohen', 'Alec Sokolow'];Toy_Story;./data/scraping/texts/Toy_Story.txt
+Traffic;['Crime', 'Drama', 'Thriller'];['Stephen Gaghan'];Traffic;./data/scraping/texts/Traffic.txt
+Training Day;['Action', 'Drama', 'Thriller'];['David Ayer'];Training_Day;./data/scraping/texts/Training_Day.txt
+Trainspotting;['Drama'];['Irvine Welsh', 'John Hodge'];Trainspotting;./data/scraping/texts/Trainspotting.txt
+Transformers: The Movie;['Action', 'Animation', 'Family', 'Sci-Fi'];['Ron Friedman'];Transformers:_The_Movie;./data/scraping/texts/Transformers:_The_Movie.txt
+Tremors;['Comedy', 'Horror', 'Sci-Fi'];['S. S. Wilson', 'Brent Maddock'];Tremors;./data/scraping/texts/Tremors.txt
+Tristan and Isolde;['Action', 'Adventure', 'Drama', 'Romance'];['Dean Georgaris'];Tristan_and_Isolde;./data/scraping/texts/Tristan_and_Isolde.txt
+TRON;['Action', 'Adventure', 'Fantasy', 'Sci-Fi'];['Steven Lisberger', 'Bonnie MacBird', 'Charlie Haas'];TRON;./data/scraping/texts/TRON.txt
+TRON: Legacy;['Action', 'Adventure', 'Sci-Fi'];['Richard Jefferies'];TRON:_Legacy;./data/scraping/texts/TRON:_Legacy.txt
+Tropic Thunder;['Action', 'Adventure', 'Comedy', 'War'];['Ethan Cohen', 'Ben Stiller', 'Justin Theroux'];Tropic_Thunder;./data/scraping/texts/Tropic_Thunder.txt
+True Grit;['Adventure', 'Drama', 'Western'];['Joel Cohen', 'Ethan Coen', 'Charles Portis'];True_Grit;./data/scraping/texts/True_Grit.txt
+True Grit;['Adventure', 'Drama', 'Western'];['Joel Cohen', 'Ethan Coen', 'Charles Portis'];True_Grit;./data/scraping/texts/True_Grit.txt
+True Lies;['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller'];['Claude Zidi', 'Simon Michaël', 'Didier Kaminka', 'James Cameron'];True_Lies;./data/scraping/texts/True_Lies.txt
+True Romance;['Action', 'Crime', 'Romance', 'Thriller'];['Quentin Tarantino'];True_Romance;./data/scraping/texts/True_Romance.txt
+Truman Show, The;['Comedy', 'Drama', 'Fantasy', 'Sci-Fi'];['Andrew Niccol'];Truman_Show;./data/scraping/texts/Truman_Show.txt
+Twilight;['Drama', 'Fantasy', 'Romance', 'Thriller'];['Melissa Rosenberg'];Twilight;./data/scraping/texts/Twilight.txt
+Twilight: New Moon;['Drama', 'Fantasy', 'Horror', 'Romance', 'Thriller'];['Melissa Rosenberg', 'Stephenie Meyer'];Twilight:_New_Moon;./data/scraping/texts/Twilight:_New_Moon.txt
+Twin Peaks;['Drama', 'Horror', 'Thriller', 'Mystery'];['Mark Frost', 'David Lynch', 'Robert Engels'];Twin_Peaks;./data/scraping/texts/Twin_Peaks.txt
+Twins;['Action', 'Comedy', 'Sci-Fi'];['William Osborne', 'William Davies', 'Timothy Harris', 'Hershel Weingrod', 'William Goldman'];Twins;./data/scraping/texts/Twins.txt
+Two For The Money;['Comedy', 'Drama', 'Sport', 'Thriller'];['Dan Gilroy'];Two_For_The_Money;./data/scraping/texts/Two_For_The_Money.txt
+U Turn;['Drama', 'Thriller'];['John Ridley', 'Richard Rutowski', 'Oliver Stone'];U_Turn;./data/scraping/texts/U_Turn.txt
+Ugly Truth, The;['Comedy', 'Romance'];['Nicole Eastman', 'Tracey Jackson', 'Peter Hume', 'David Diamond', 'David Weissman', 'Roger Kumble'];Ugly_Truth;./data/scraping/texts/Ugly_Truth.txt
+Un Singe en Hiver;['Comedy', 'Drama'];['Michel Audiard', 'Antoine Blondin', 'François Boyer'];Un_Singe_en_Hiver;./data/scraping/texts/Un_Singe_en_Hiver.txt
+Unbreakable;['Drama', 'Fantasy', 'Thriller'];['M. Night Shyamalan'];Unbreakable;./data/scraping/texts/Unbreakable.txt
+Under Fire;['Drama'];['Clayton Frohman', 'Ron Shelton'];Under_Fire;./data/scraping/texts/Under_Fire.txt
+Unknown;['Drama', 'Mystery', 'Thriller'];['Oliver Butcher', 'Stephen Cornwell'];Unknown;./data/scraping/texts/Unknown.txt
+Up;['Animation', 'Adventure', 'Comedy', 'Drama', 'Family'];['Pete Docter', 'Bob Peterson', 'Thomas McCarthy'];Up;./data/scraping/texts/Up.txt
+Up in the Air;['Drama', 'Romance'];['Jason Reitman', 'Sheldon Turner'];Up_in_the_Air;./data/scraping/texts/Up_in_the_Air.txt
+Usual Suspects, The;['Crime', 'Mystery', 'Thriller'];['Christopher McQuarrie'];Usual_Suspects;./data/scraping/texts/Usual_Suspects.txt
+V for Vendetta;['Action', 'Drama', 'Sci-Fi', 'Thriller'];['Andy Wachowski', 'Larry Wachowski'];V_for_Vendetta;./data/scraping/texts/V_for_Vendetta.txt
+Valkyrie;['Drama', 'Thriller', 'War'];['Christopher McQuarrie', 'Nathan Alexander'];Valkyrie;./data/scraping/texts/Valkyrie.txt
+Vanilla Sky;['Mystery', 'Romance', 'Sci-Fi', 'Thriller'];['Cameron Crowe'];Vanilla_Sky;./data/scraping/texts/Vanilla_Sky.txt
+Verdict, The;['Drama'];['Barry Reed', 'David Mamet'];Verdict;./data/scraping/texts/Verdict.txt
+Very Bad Things;['Comedy', 'Thriller'];['Peter Berg'];Very_Bad_Things;./data/scraping/texts/Very_Bad_Things.txt
+Village, The;['Drama', 'Mystery', 'Thriller'];['M. Night Shyamalan'];Village;./data/scraping/texts/Village.txt
+Visitor, The;['Crime', 'Drama', 'Romance'];['Thomas McCarthy'];Visitor;./data/scraping/texts/Visitor.txt
+Wag the Dog;['Comedy'];['David Mamet'];Wag_the_Dog;./data/scraping/texts/Wag_the_Dog.txt
+Walk to Remember, A;['Drama', 'Romance'];['Karen Janszen'];Walk_to_Remember;./data/scraping/texts/Walk_to_Remember.txt
+Walking Tall;['Action', 'Drama', 'Thriller'];['Mort Briskin', 'David Klass'];Walking_Tall;./data/scraping/texts/Walking_Tall.txt
+Wall Street;['Crime', 'Drama'];['Stanley Weiser', 'Oliver Stone'];Wall_Street;./data/scraping/texts/Wall_Street.txt
+Wall Street: Money Never Sleeps;['Drama'];['Allan Loeb'];Wall_Street:_Money_Never_Sleeps;./data/scraping/texts/Wall_Street:_Money_Never_Sleeps.txt
+Wall-E;['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Romance', 'Sci-Fi'];['Andrew Stanton', 'Pete Docter'];Wall-E;./data/scraping/texts/Wall-E.txt
+Wanted;['Action', 'Crime', 'Thriller'];['Michael Brandt', 'Derek Haas'];Wanted;./data/scraping/texts/Wanted.txt
+War for the Planet of the Apes;['Action', 'Adventure', 'Drama'];['Mark Bomback', 'Matt Reeves'];War_for_the_Planet_of_the_Apes;./data/scraping/texts/War_for_the_Planet_of_the_Apes.txt
+War Horse;['Drama', 'War'];['Lee Hall', 'Richard Curtis'];War_Horse;./data/scraping/texts/War_Horse.txt
+War of the Worlds;['Action', 'Adventure', 'Sci-Fi', 'Thriller'];['Josh Friedman', 'David Koepp'];War_of_the_Worlds;./data/scraping/texts/War_of_the_Worlds.txt
+Warm Springs;['Biography', 'Drama'];['Margaret Nagle'];Warm_Springs;./data/scraping/texts/Warm_Springs.txt
+Watchmen;['Action', 'Fantasy', 'Sci-Fi', 'Thriller'];['David Hayter', 'Alex Tse'];Watchmen;./data/scraping/texts/Watchmen.txt
+Water for Elephants;['Drama', 'Romance'];['Richard Lagravenese'];Water_for_Elephants;./data/scraping/texts/Water_for_Elephants.txt
+Way Back, The;['Adventure', 'Drama'];['Peter Weir', 'Slavomir Rawicz'];Way_Back;./data/scraping/texts/Way_Back.txt
+We Own the Night;['Crime', 'Drama', 'Thriller'];['James Gray'];We_Own_the_Night;./data/scraping/texts/We_Own_the_Night.txt
+What Lies Beneath;['Horror.Mystery', 'Thriller', 'Drama'];['Sarah Kernochan', 'Clark Gregg'];What_Lies_Beneath;./data/scraping/texts/What_Lies_Beneath.txt
+When a Stranger Calls;['Horror', 'Thriller'];['Steve Feke', 'Fred Walton'];When_a_Stranger_Calls;./data/scraping/texts/When_a_Stranger_Calls.txt
+While She Was Out;['Crime', 'Drama', 'Thriller'];['Susan Montford', 'Edward Bryant'];While_She_Was_Out;./data/scraping/texts/While_She_Was_Out.txt
+Whistleblower, The;['Drama', 'Thriller'];['Eilis Kirwan', 'Larysa Kondracki'];Whistleblower;./data/scraping/texts/Whistleblower.txt
+White Christmas;['Comedy', 'Musical', 'Romance'];['Norman Krasna', 'Melvin Frank', 'Norman Panama'];White_Christmas;./data/scraping/texts/White_Christmas.txt
+White Jazz;['Crime', 'Drama', 'Mystery', 'Thriller'];['Joe Carnahan', 'Matthew Michael Carnahan'];White_Jazz;./data/scraping/texts/White_Jazz.txt
+White Ribbon, The;['Crime', 'Drama', 'Mystery'];['Michael Haneke'];White_Ribbon;./data/scraping/texts/White_Ribbon.txt
+White Squall;['Adventure', 'Drama'];['Charles Gieg Jr', 'Felix Sutton', 'Todd Robinson'];White_Squall;./data/scraping/texts/White_Squall.txt
+Whiteout;['Action', 'Crime', 'Drama', 'Mystery', 'Thriller'];['Jon Hoeber', 'Erich Hoeber', 'Greg Rucka'];Whiteout;./data/scraping/texts/Whiteout.txt
+Who's Your Daddy;['Comedy'];['Maria Veltre Druse', 'Jack Sekowski'];Who's_Your_Daddy;./data/scraping/texts/Who's_Your_Daddy.txt
+Wild At Heart;['Crime', 'Drama', 'Romance', 'Thriller'];['David Lynch'];Wild_At_Heart;./data/scraping/texts/Wild_At_Heart.txt
+Wild Bunch, The;['Action', 'Western'];['Walon Green', 'Sam Peckinpah'];Wild_Bunch;./data/scraping/texts/Wild_Bunch.txt
+Wild Hogs;['Action', 'Adventure', 'Comedy'];['Brad Copeland'];Wild_Hogs;./data/scraping/texts/Wild_Hogs.txt
+Wild Things;['Crime', 'Drama'];['Stephen Peters', 'Kem Nunn'];Wild_Things;./data/scraping/texts/Wild_Things.txt
+Wild Things: Diamonds in the Rough;['Action', 'Drama', 'Mystery', 'Thriller'];['Andy Hurst', 'Ross Helford'];Wild_Things:_Diamonds_in_the_Rough;./data/scraping/texts/Wild_Things:_Diamonds_in_the_Rough.txt
+Wild Wild West;['Action', 'Comedy', 'Sci-Fi', 'Western'];['S. S. Wilson', 'Brent Maddock', 'Jeffrey Price', 'Peter S. Seaman', 'Jim Thomas', 'John Thomas'];Wild_Wild_West;./data/scraping/texts/Wild_Wild_West.txt
+Win Win;['Comedy', 'Drama'];['Tom McCarthy'];Win_Win;./data/scraping/texts/Win_Win.txt
+Wind Chill;['Horror', 'Thriller'];['Joseph Gangemi', 'Steven Katz'];Wind_Chill;./data/scraping/texts/Wind_Chill.txt
+Withnail and I;['Comedy'];['Bruce Robinson'];Withnail_and_I;./data/scraping/texts/Withnail_and_I.txt
+Witness;['Crime', 'Drama', 'Romance', 'Thriller'];['Earl W. Wallace', 'Pamela Wallace', 'William Kelley'];Witness;./data/scraping/texts/Witness.txt
+Wizard of Oz, The;['Adventure', 'Family', 'Fantasy', 'Musical'];['Noel Langley', 'Florence Ryerson', 'Edgar Allen Woolf'];Wizard_of_Oz;./data/scraping/texts/Wizard_of_Oz.txt
+Wolf of Wall Street, The;['Comedy', 'Crime'];['Terence Winter', 'Jordan Belfort'];Wolf_of_Wall_Street;./data/scraping/texts/Wolf_of_Wall_Street.txt
+Wonder Woman;['Action', 'Adventure', 'Fantasy'];['Allan Heinberg', 'Zack Snyder', 'Jason Fuchs'];Wonder_Woman;./data/scraping/texts/Wonder_Woman.txt
+Woodsman, The;['Drama'];['Steven Fechter', 'Nicole Kassell'];Woodsman;./data/scraping/texts/Woodsman.txt
+World is not Enough, The;['Action', 'Thriller', 'Adventure'];['Neal Purvis', 'Robert Wade', 'Bruce Feirstein', 'Ian Fleming'];World_is_not_Enough;./data/scraping/texts/World_is_not_Enough.txt
+Wrestler, The;['Drama'];['Rob Siegel'];Wrestler;./data/scraping/texts/Wrestler.txt
+X-Files: Fight the Future, The;['Action', 'Sci-Fi', 'Thriller'];['Chris Carter'];X-Files:_Fight_the_Future;./data/scraping/texts/X-Files:_Fight_the_Future.txt
+X-Men;['Action', 'Sci-Fi'];['Ed Solomon', 'Christopher McQuarrie', 'Tom DeSanto', 'Bryan Singer'];X-Men;./data/scraping/texts/X-Men.txt
+X-Men Origins: Wolverine;['Action', 'Fantasy', 'Sci-Fi', 'Thriller'];['David Benioff', 'Skip Woods'];X-Men_Origins:_Wolverine;./data/scraping/texts/X-Men_Origins:_Wolverine.txt
+xXx;['Action', 'Adventure', 'Thriller'];['Rich Wilkes'];xXx;./data/scraping/texts/xXx.txt
+Year One;['Adventure', 'Comedy'];['Harold Ramis', 'Gene Stupnitsky', 'Lee Eisenberg'];Year_One;./data/scraping/texts/Year_One.txt
+Yes Man;['Comedy', 'Romance'];['Nicholas Stoller', 'Danny Wallace'];Yes_Man;./data/scraping/texts/Yes_Man.txt
+You Can Count On Me;['Drama'];['Kenneth Lonergan'];You_Can_Count_On_Me;./data/scraping/texts/You_Can_Count_On_Me.txt
+You've Got Mail;['Comedy', 'Romance'];['Nora Ephron', 'Delia Ephron'];You've_Got_Mail;./data/scraping/texts/You've_Got_Mail.txt
+Youth in Revolt;['Comedy', 'Drama', 'Romance'];['Gustin Nash'];Youth_in_Revolt;./data/scraping/texts/Youth_in_Revolt.txt
+Zero Dark Thirty;['Drama', 'Thriller'];['Mark Boal'];Zero_Dark_Thirty;./data/scraping/texts/Zero_Dark_Thirty.txt
+Zerophilia;['Comedy', 'Romance'];['Martin Curland'];Zerophilia;./data/scraping/texts/Zerophilia.txt
+Zootopia;['Animation', 'Adventure', 'Comedy'];['Jared Bush', 'Phil Johnston'];Zootopia;./data/scraping/texts/Zootopia.txt
