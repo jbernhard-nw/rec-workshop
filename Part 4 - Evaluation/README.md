@@ -31,4 +31,4 @@ Following this section, you will be able to answer each of these questions.
     - [Notebook 2: The Cold Start Problem](./notebooks/cold-start.ipynb)
     - [Notebook 2: The Cold Start Problem - Solutions](./notebooks/solutions/cold-start-Solution.ipynb)
     - [Notebook 3: Storing Your Model(s) For Future Use](./notebooks/storing-models.ipynb)
-    - [Notebook 3: Storing Your Model(s) For Future Use - Solutions](./notebooks/solution/storing-models-Solution.ipynb)
+    - [Notebook 3: Storing Your Model(s) For Future Use - Solutions](./notebooks/solutions/storing-models-Solution.ipynb)
